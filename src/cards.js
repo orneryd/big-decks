@@ -1,5 +1,4 @@
 import fs from 'fs';
-import _ from 'lodash';
 
 const setsFileFile = 'mtg-cards-data.txt';
 const allCardsInfo = {};
@@ -16,9 +15,6 @@ fileData.split('\n').forEach((string) => {
 });
 
 const getCard = (cardName) => {
-  if (!allCardsInfo[cardName]) {
-    // console.log(cardName);
-  }
   return allCardsInfo[cardName];
 };
 

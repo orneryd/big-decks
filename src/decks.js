@@ -1,8 +1,14 @@
-const getDecks = ($) => {
+
+import {Selectors} from './selectors';
+
+const $selectors = new Selectors();
+import cheerio from 'cheerio';
+
+const getDecks = (dom) => {
   let decks = [];
-  let elements = $('.hover_tr a');
+  let elements = $selectors.$deckLink(dom);
   for (let i = 0; i < elements.length; i++) {
-    let href = $(elements[i]).attr('href');
+    let href = cheerio(elements[i]).attr('href');
     if (href.indexOf('&d=') !== -1) {
       decks.push('/event' + href);
     }
@@ -11,8 +17,8 @@ const getDecks = ($) => {
 };
 
 
-const getDeck = ($) => {
-  let element = $('.Nav_link a:nth-child(2)');
+const getDeck = (dom) => {
+  let element = $selectors.$deckFileLink(dom);
   return '/' + element.attr('href');
 };
 

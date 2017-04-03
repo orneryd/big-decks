@@ -1,10 +1,13 @@
-import $ from 'cheerio';
+import cheerio from 'cheerio';
+import {Selectors} from './selectors';
+
+const $selectors = new Selectors();
 
 const getEvents = (dom) => {
   let events = [];
-  let elements = dom('td:nth-child(2) .hover_tr a');
+  let elements = $selectors.$eventLink(dom);
   for (let i = 0; i < elements.length; i++) {
-    events.push('/' + $(elements[i]).attr('href'));
+    events.push('/' + cheerio(elements[i]).attr('href'));
   }
   return events;
 };

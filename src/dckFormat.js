@@ -3,8 +3,9 @@ import {getCard} from './cards';
 
 const cardRegexString = '^\\s*(SB:)?\\s*(\\d)\\s*\\[(\\w*)]\\s*([\\w\\s,-_\']+?)$';
 
-const toDeckFormat = (deckFile) => {
-  let cards = [];
+const toDeckFormat = (deckFile, deckName) => {
+
+  let cards = [`NAME:${deckName}`];
   let match;
   let regexp = new RegExp(cardRegexString, 'gmi');
   while ((match = regexp.exec(deckFile)) !== null) {
@@ -17,9 +18,8 @@ const toDeckFormat = (deckFile) => {
       setCode = getSetCode(card.setName);
     }
 
-    cards.push(`${sideboard ? sideboard + ' ' : ''} ${quantity} [${setCode}:${card.number}] ${card.name}`);
+    cards.push(`${sideboard ? sideboard + ' ' : ''}${quantity} [${setCode}:${card.number}] ${card.name}`);
   }
-  console.log(cards.join('\n'));
   return cards.join('\n');
 };
 
