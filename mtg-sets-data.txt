@@ -1,0 +1,193 @@
+Tenth Edition|10E|
+Unlimited Edition|2ED|
+Revised Edition|3ED|
+Fourth Edition|4ED|
+Fifth Dawn|5DN|
+Fifth Edition|5ED|
+Classic Sixth Edition|6ED|
+Seventh Edition|7ED|
+Eighth Edition|8ED|
+Ninth Edition|9ED|
+Aether Revolt|AER|
+Amonkhet|AKH|
+Shards of Alara|ALA|
+Alliances|ALL|
+Archenemy: Nicol Bolas|ANB|
+Asia Pacific Land Program|APAC|
+Apocalypse|APC|
+Alara Reborn|ARB|
+Archenemy|ARC|
+Arena League|ARENA|
+Arabian Nights|ARN|
+Anthologies|ATH|
+Antiquities|ATQ|
+Avacyn Restored|AVR|
+Battle for Zendikar|BFZ|
+Born of the Gods|BNG|
+Betrayers of Kamigawa|BOK|
+Battle Royale Box Set|BRB|
+Beatdown Box Set|BTD|
+Commander 2013 Edition|C13|
+Commander 2014 Edition|C14|
+Commander 2015 Edition|C15|
+Commander 2016 Edition|C16|
+Champions of Kamigawa|CHK|
+Chronicles|CHR|
+Clash Pack|CLASH|
+Commander Anthology|CMA|
+Commander's Arsenal|CM1|
+Conspiracy: Take the Crown|CN2|
+Conflux|CON|
+Champs|CP|
+Coldsnap|CSP|
+Duel Decks: Jace vs. Chandra|DD2|
+Duel Decks: Anthology, Divine vs. Demonic|DD3DVD|
+Duel Decks: Anthology, Elves vs. Goblins|DD3EVG|
+Duel Decks: Anthology, Garruk vs. Liliana|DD3GVL|
+Duel Decks: Anthology, Jace vs. Chandra|DD3JVC|
+Duel Decks: Divine vs. Demonic|DDC|
+Duel Decks: Garruk vs. Liliana|DDD|
+Duel Decks: Phyrexia vs. the Coalition|DDE|
+Duel Decks: Elspeth vs. Tezzeret|DDF|
+Duel Decks: Knights vs. Dragons|DDG|
+Duel Decks: Ajani vs. Nicol Bolas|DDH|
+Duel Decks: Venser vs. Koth|DDI|
+Duel Decks: Izzet vs. Golgari|DDJ|
+Duel Decks: Sorin vs. Tibalt|DDK|
+Duel Decks: Heroes vs. Monsters|DDL|
+Duel Decks: Jace vs. Vraska|DDM|
+Duel Decks: Speed vs. Cunning|DDN|
+Duel Decks: Elspeth vs. Kiora|DDO|
+Duel Decks: Zendikar vs. Eldrazi|DDP|
+Duel Decks: Blessed vs. Cursed|DDQ|
+Duel Decks: Nissa vs. Ob Nixilis|DDR|
+Duel Decks: Mind vs. Might|DDS|
+Duels of the Planeswalkers|DPA|
+Dragon's Maze|DGM|
+Dissension|DIS|
+Dark Ascension|DKA|
+Deckmasters|DKM|
+From the Vault: Dragons|DRB|
+The Dark|DRK|
+Darksteel|DST|
+Dragons of Tarkir|DTK|
+Eternal Masters|EMA|
+Eldritch Moon|EMN|
+European Land Program|EURO|
+Eventide|EVE|
+Duel Decks: Elves vs. Goblins|EVG|
+Exodus|EXO|
+Zendikar Expeditions|EXP|
+Fallen Empires|FEM|
+Friday Night Magic|FNMP|
+Fate Reforged|FRF|
+Future Sight|FUT|
+Guildpact|GPT|
+Grand Prix|GPX|
+WPN Gateway|GRC|
+Gatecrash|GTC|
+Guru|GUR|
+Premium Deck Series: Slivers|H09|
+Homelands|HML|
+Planechase|HOP|
+Hour of Devastation|HOU|
+Ice Age|ICE|
+Invasion|INV|
+Innistrad|ISD|
+Journey into Nyx|JOU|
+Judge Promo|JR|
+Judgment|JUD|
+Kaladesh|KLD|
+Khans of Tarkir|KTK|
+Limited Edition Alpha|LEA|
+Limited Edition Beta|LEB|
+Legends|LEG|
+Legions|LGN|
+Lorwyn|LRW|
+Magic 2010|M10|
+Magic 2011|M11|
+Magic 2012|M12|
+Magic 2013|M13|
+Magic 2014|M14|
+Magic 2015|M15|
+Magic: The Gathering-Commander|CMD|
+Magic: The Gathering-Conspiracy|CNS|
+Media Inserts|MBP|
+Mirrodin Besieged|MBS|
+Masters Edition II|ME2|
+Masters Edition III|ME3|
+Masters Edition IV|ME4|
+Masters Edition|MED|
+Game Day|MGDC|
+Mirage|MIR|
+Launch Party|MLP|
+Modern Masters 2015|MM2|
+Modern Masters 2017|MM3|
+Modern Masters|MMA|
+Mercadian Masques|MMQ|
+Morningtide|MOR|
+Magic Player Rewards|MPRP|
+Masterpiece Series|MPS|
+Masterpiece Series Amonkhet|MPS-AKH|
+Mirrodin|MRD|
+Nemesis|NEM|
+New Phyrexia|NPH|
+Odyssey|ODY|
+Oath of the Gatewatch|OGW|
+Onslaught|ONS|
+Magic Origins|ORI|
+Portal Second Age|P02|
+Planechase 2012 Edition|PC2|
+Planechase Anthology|PCA|
+Prophecy|PCY|
+Premium Deck Series: Fire & Lightning|PD2|
+Premium Deck Series: Graveborn|PD3|
+Planar Chaos|PLC|
+Planeshift|PLS|
+Portal|POR|
+Prerelease Events|PTC|
+Portal Three Kingdoms|PTK|
+Ravnica: City of Guilds|RAV|
+Rise of the Eldrazi|ROE|
+Return to Ravnica|RTR|
+Starter 2000|S00|
+Starter 1999|S99|
+Scourge|SCG|
+Shadowmoor|SHM|
+Shadows over Innistrad|SOI|
+Saviors of Kamigawa|SOK|
+Scars of Mirrodin|SOM|
+Stronghold|STH|
+Super Series|SUS|
+Theros|THS|
+Tempest|TMP|
+Torment|TOR|
+Tempest Remastered|TPR|
+Time Spiral "Timeshifted"|TSB|
+Time Spiral|TSP|
+Urza's Destiny|UDS|
+Ugin's Fate|UGIN|
+Unglued|UGL|
+Urza's Legacy|ULG|
+Unhinged|UNH|
+Urza's Saga|USG|
+From the Vault: Exiled|V09|
+From the Vault: Relics|V10|
+From the Vault: Legends|V11|
+From the Vault: Realms|V12|
+From the Vault: Twenty|V13|
+From the Vault: Annihilation|V14|
+From the Vault: Angels|V15|
+From the Vault: Lore|V16|
+Vanguard Set 1|VG1|
+Vanguard Set 2|VG2|
+Vanguard Set 3|VG3|
+Vanguard Set 4|VG4|
+MTGO Vanguard|VGO|
+Visions|VIS|
+Vintage Masters|VMA|
+Welcome Deck 2016|W16|
+World Magic Cup Qualifier|WMCQ|
+Weatherlight|WTH|
+Worldwake|WWK|
+Zendikar|ZEN|
