@@ -1,9 +1,11 @@
 
-import * as cheerio from 'node_modules/cheerio';
+import cheerio from 'cheerio';
+import {toDeckFormat} from './parse';
+import {request} from './request';
 
-const $ = cheerio.load('<h2 class="title">Hello world</h2>')
-
-$('h2.title').text('Hello there!')
-$('h2').addClass('welcome')
-
-console.log($.html())
+request({}, (html) => {
+  let $ = cheerio.load(html);
+  console.log($);
+  let deckObj = {};
+  toDeckFormat(deckObj);
+});
