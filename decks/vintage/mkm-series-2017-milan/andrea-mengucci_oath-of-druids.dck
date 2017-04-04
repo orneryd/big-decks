@@ -4,7 +4,7 @@ NAME:Oath of Druids
 2 [R:321] Tropical Island
 2 [R:322] Tundra
 2 [R:324] Volcanic Island
-3 [undefined:296] Forbidden Orchard
+3 [C16:296] Forbidden Orchard
 4 [ZEN:244] Scalding Tarn
 2 [C15:82] Sun Titan
 1 [WWK:57] Jace, the Mind Sculptor
@@ -16,13 +16,13 @@ NAME:Oath of Druids
 1 [U:7] Mox Pearl
 1 [U:8] Mox Ruby
 1 [U:9] Mox Sapphire
-1 [undefined:272] Sol Ring
+1 [C16:272] Sol Ring
 2 [CHK:232] Sensei's Divining Top
 1 [RTR:155] Detention Sphere
-4 [undefined:159] Oath of Druids
+4 [C16:159] Oath of Druids
 1 [U:1] Ancestral Recall
 1 [ISD:88] Ancient Grudge
-1 [undefined:141] Beast Within
+1 [C16:141] Beast Within
 1 [C15:40] Brainstorm
 1 [KTK:97] Dig Through Time
 2 [CMD:68] Flusterstorm
@@ -31,11 +31,11 @@ NAME:Oath of Druids
 1 [4E:2] Balance
 1 [M12:29] Ponder
 1 [U:2] Time Walk
-1 [undefined:101] Treasure Cruise
+1 [C16:101] Treasure Cruise
 2 [C15:101] Preordain
 SB: 1 [ISD:88] Ancient Grudge
 SB: 1 [CMD:68] Flusterstorm
-SB: 1 [undefined:58] Blazing Archon
+SB: 1 [C16:58] Blazing Archon
 SB: 1 [ZEN:57] Mindbreak Trap
 SB: 2 [CNS:178] Nature's Claim
 SB: 2 [ZEN:109] Ravenous Trap

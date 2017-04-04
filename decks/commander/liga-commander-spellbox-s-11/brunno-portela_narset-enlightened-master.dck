@@ -7,7 +7,7 @@ NAME:Narset, Enlightened Master
 1 [EVE:32] Cascade Bluffs
 1 [AVR:232] Cavern of Souls
 1 [WWK:23] Celestial Colonnade
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [CHK:275] Eiganjo Castle
 1 [TSP:272] Flagstones of Trokair
 1 [KTK:16] Flooded Strand
@@ -18,7 +18,7 @@ NAME:Narset, Enlightened Master
 1 [DK:241] Maze of Ith
 1 [ZEN:240] Misty Rainforest
 1 [SHM:26] Mystic Gate
-1 [undefined:310] Mystic Monastery
+1 [C16:310] Mystic Monastery
 1 [R:308] Plateau
 1 [KTK:17] Polluted Delta
 1 [BFZ:1] Prairie Stream
@@ -29,7 +29,7 @@ NAME:Narset, Enlightened Master
 1 [ISD:248] Sulfur Falls
 1 [BNG:163] Temple of Enlightenment
 1 [JOU:164] Temple of Epiphany
-1 [undefined:331] Temple of the False God
+1 [C16:331] Temple of the False God
 1 [R:322] Tundra
 1 [R:324] Volcanic Island
 1 [OGW:182] Wandering Fumarole
@@ -72,7 +72,7 @@ NAME:Narset, Enlightened Master
 1 [RAV:63] Remand
 1 [ZEN:51] Spell Pierce
 1 [DIS:64] Spell Snare
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [ISD:86] Think Twice
 1 [C13:33] Unexpectedly Absent
 1 [CNS:157] Volcanic Fallout
@@ -93,6 +93,6 @@ NAME:Narset, Enlightened Master
 1 [P2:54] Temporal Manipulation
 1 [FRF:55] Temporal Trespass
 1 [M10:74] Time Warp
-1 [undefined:140] Whipflare
+1 [C16:140] Whipflare
 1 [C13:7] Wrath of God
 SB: 1 [KTK:112] Narset, Enlightened Master

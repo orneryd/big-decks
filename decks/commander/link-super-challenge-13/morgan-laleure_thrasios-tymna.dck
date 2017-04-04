@@ -7,7 +7,7 @@ NAME:Thrasios Tymna
 1 [GTC:15] Breeding Pool
 1 [AVR:232] Cavern of Souls
 1 [8E:6] City of Brass
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [FUT:174] Dryad Arbor
 1 [KTK:16] Flooded Strand
 1 [GTC:11] Godless Shrine
@@ -54,15 +54,15 @@ NAME:Thrasios Tymna
 1 [EVE:47] Glen Elendra Archmage
 1 [SHM:229] Kitchen Finks
 1 [C14:175] Llanowar Elves
-1 [undefined:70] Mirror Entity
+1 [C16:70] Mirror Entity
 1 [CFX:151] Noble Hierarch
 1 [C14:270] Priest of Titania
 1 [C14:39] Reclamation Sage
 1 [AER:133] Renegade Rallier
-1 [undefined:74] Reveillark
+1 [C16:74] Reveillark
 1 [UD:229] Rofellos, Llanowar Emissary
 1 [TSP:245] Saffi Eriksdotter
-1 [undefined:164] Sakura-Tribe Elder
+1 [C16:164] Sakura-Tribe Elder
 1 [MM3:134] Scavenging Ooze
 1 [WWK:20] Stoneforge Mystic
 1 [C15:82] Sun Titan
@@ -75,7 +75,7 @@ NAME:Thrasios Tymna
 1 [CMD:16] Garruk Wildspeaker
 1 [ISD:76] Liliana of the Veil
 1 [NPH:104] Birthing Pod
-1 [undefined:271] Skullclamp
+1 [C16:271] Skullclamp
 1 [MBS:28] Sword of Feast and Famine
 1 [NE:139] Tangle Wire
 1 [BOK:4] Umezawa's Jitte
@@ -94,5 +94,5 @@ NAME:Thrasios Tymna
 1 [EMN:155] Eldritch Evolution
 1 [MBS:169] Green Sun's Zenith
 1 [CMD:126] Living Death
-SB: 1 [undefined:48] Tymna the Weaver
-SB: 1 [undefined:46] Thrasios, Triton Hero
+SB: 1 [C16:48] Tymna the Weaver
+SB: 1 [C16:46] Thrasios, Triton Hero

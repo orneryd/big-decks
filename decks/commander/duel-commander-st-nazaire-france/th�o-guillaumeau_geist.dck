@@ -4,7 +4,7 @@ NAME:Geist
 1 [AVR:232] Cavern of Souls
 1 [WWK:23] Celestial Colonnade
 1 [8E:6] City of Brass
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [TSP:272] Flagstones of Trokair
 1 [KTK:16] Flooded Strand
 1 [M13:225] Glacial Fortress
@@ -71,7 +71,7 @@ NAME:Geist
 1 [ZEN:51] Spell Pierce
 1 [DIS:64] Spell Snare
 1 [CNS:18] Stifle
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [C13:33] Unexpectedly Absent
 1 [EMN:79] Unsubstantiate
 1 [TSP:48] Ancestral Vision

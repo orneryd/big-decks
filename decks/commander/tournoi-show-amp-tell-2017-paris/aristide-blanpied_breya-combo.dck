@@ -5,7 +5,7 @@ NAME:Breya Combo
 1 [RTR:8] Blood Crypt
 1 [KTK:18] Bloodstained Mire
 1 [AVR:232] Cavern of Souls
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [KTK:16] Flooded Strand
 1 [MR:223] Glimmervoid
 1 [GTC:11] Godless Shrine
@@ -22,7 +22,7 @@ NAME:Breya Combo
 1 [GTC:14] Sacred Foundry
 1 [ZEN:244] Scalding Tarn
 1 [R:313] Scrubland
-1 [undefined:323] Seat of the Synod
+1 [C16:323] Seat of the Synod
 1 [CS:242] Snow-Covered Island
 1 [CS:241] Snow-Covered Plains
 1 [CS:243] Snow-Covered Swamp
@@ -38,12 +38,12 @@ NAME:Breya Combo
 1 [KTK:20] Windswept Heath
 1 [KTK:19] Wooded Foothills
 1 [FD:5] Auriok Salvagers
-1 [undefined:181] Baleful Strix
+1 [C16:181] Baleful Strix
 1 [EMN:6] Emrakul, the Promised End
 1 [SHM:20] Painter's Servant
 1 [ISD:50] Snapcaster Mage
 1 [NPH:159] Spellskite
-1 [undefined:102] Trinket Mage
+1 [C16:102] Trinket Mage
 1 [CNS:199] Dack Fayden
 1 [CN2:74] Daretti, Ingenious Iconoclast
 1 [WWK:57] Jace, the Mind Sculptor
@@ -56,16 +56,16 @@ NAME:Breya Combo
 1 [FD:36] Engineered Explosives
 1 [8E:37] Ensnaring Bridge
 1 [ZEN:201] Expedition Map
-1 [undefined:254] Fellwar Stone
+1 [C16:254] Fellwar Stone
 1 [TE:39] Grindstone
-1 [undefined:258] Ichor Wellspring
+1 [C16:258] Ichor Wellspring
 1 [MR:223] Isochron Scepter
 1 [C15:223] Izzet Signet
 1 [MI:271] Lion's Eye Diamond
 1 [TE:15] Lotus Petal
 1 [SH:228] Mox Diamond
 1 [SOM:19] Mox Opal
-1 [undefined:262] Mycosynth Wellspring
+1 [C16:262] Mycosynth Wellspring
 1 [MM3:224] Orzhov Signet
 1 [MM3:225] Rakdos Signet
 1 [5E:170] Urza's Bauble
@@ -83,7 +83,7 @@ NAME:Breya Combo
 1 [PS:11] Orim's Chant
 1 [RAV:63] Remand
 1 [DIS:64] Spell Snare
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [OD:164] Tainted Pact
 1 [MR:14] Thirst for Knowledge
 1 [4E:2] Balance
@@ -97,4 +97,4 @@ NAME:Breya Combo
 1 [THS:107] Thoughtseize
 1 [C13:108] Toxic Deluge
 1 [AQ:69] Transmute Artifact
-SB: 1 [undefined:29] Breya, Etherium Shaper
+SB: 1 [C16:29] Breya, Etherium Shaper

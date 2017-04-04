@@ -1,42 +1,42 @@
 NAME:Monastery
+1 [UNH:260] Island
 1 [AN:303] Library of Alexandria
 1 [KTK:17] Polluted Delta
-1 [ZEN:244] Scalding Tarn
 1 [4E:43] Strip Mine
-1 [TE:248] Wasteland
-2 [UNH:260] Island
-2 [R:324] Volcanic Island
+2 [ZEN:244] Scalding Tarn
 3 [R:322] Tundra
+3 [R:324] Volcanic Island
 4 [KTK:16] Flooded Strand
 3 [ORI:995] Jace, Vryn's Prodigy
 3 [FRF:20] Monastery Mentor
-3 [CNS:199] Dack Fayden
+1 [KLD:110] Chandra, Torch of Defiance
+1 [CNS:199] Dack Fayden
+1 [SOI:247] Nahiri, the Harbinger
 1 [U:4] Black Lotus
 1 [U:7] Mox Pearl
 1 [U:8] Mox Ruby
 1 [U:9] Mox Sapphire
-2 [ISD:25] Stony Silence
 1 [U:1] Ancestral Recall
 1 [C15:40] Brainstorm
 1 [KTK:97] Dig Through Time
-1 [5E:142] Pyroblast
-2 [ZEN:57] Mindbreak Trap
+1 [ZEN:57] Mindbreak Trap
+2 [5E:142] Pyroblast
 3 [MM:72] Gush
-3 [NPH:38] Mental Misstep
-3 [undefined:78] Swords to Plowshares
+3 [C16:78] Swords to Plowshares
 4 [AL:14] Force of Will
-1 [KLD:14] Fragmentize
+4 [NPH:38] Mental Misstep
+1 [4E:2] Balance
 1 [M12:29] Ponder
 1 [U:2] Time Walk
-1 [undefined:101] Treasure Cruise
+1 [C16:101] Treasure Cruise
 3 [NPH:35] Gitaxian Probe
-3 [C15:101] Preordain
-SB: 1 [NPH:33] Surgical Extraction
+4 [C15:101] Preordain
+SB: 2 [TE:248] Wasteland
 SB: 3 [C14:115] Tormod's Crypt
-SB: 1 [RTR:56] Supreme Verdict
-SB: 1 [UNH:257] Plains
-SB: 3 [DKA:221] Grafdigger's Cage
-SB: 3 [ARENA:6] Disenchant
 SB: 1 [ISD:25] Stony Silence
-SB: 1 [undefined:78] Swords to Plowshares
-SB: 1 [5E:142] Pyroblast
+SB: 1 [UNH:257] Plains
+SB: 2 [C14:180] Ingot Chewer
+SB: 3 [DKA:221] Grafdigger's Cage
+SB: 1 [KLD:14] Fragmentize
+SB: 1 [ARENA:6] Disenchant
+SB: 1 [C16:78] Swords to Plowshares

@@ -3,9 +3,9 @@ NAME:Affinity
 1 [AER:184] Spire of Industry
 3 [MR:223] Glimmervoid
 4 [DS:236] Blinkmoth Nexus
-4 [undefined:288] Darksteel Citadel
+4 [C16:288] Darksteel Citadel
 4 [MBS:6] Inkmoth Nexus
-1 [undefined:92] Master of Etherium
+1 [C16:92] Master of Etherium
 3 [SOM:154] Etched Champion
 3 [SOM:4] Memnite
 4 [DS:31] Arcbound Ravager
@@ -13,11 +13,11 @@ NAME:Affinity
 4 [MBS:66] Signal Pest
 4 [M11:27] Steel Overseer
 4 [NPH:71] Vault Skirge
-4 [undefined:249] Cranial Plating
+4 [C16:249] Cranial Plating
 4 [SOM:19] Mox Opal
 4 [BNG:261] Springleaf Drum
 4 [SOM:91] Galvanic Blast
-SB: 1 [undefined:140] Whipflare
+SB: 1 [C16:140] Whipflare
 SB: 1 [DGM:135] Wear/Tear
 SB: 2 [THS:107] Thoughtseize
 SB: 1 [NPH:159] Spellskite

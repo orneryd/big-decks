@@ -7,8 +7,8 @@ NAME:Akiri/bruse
 1 [AVR:232] Cavern of Souls
 1 [8E:6] City of Brass
 1 [ISD:238] Clifftop Retreat
-1 [undefined:286] Command Tower
-1 [undefined:288] Darksteel Citadel
+1 [C16:286] Command Tower
+1 [C16:288] Darksteel Citadel
 1 [TSP:272] Flagstones of Trokair
 1 [KTK:16] Flooded Strand
 1 [MR:223] Glimmervoid
@@ -56,7 +56,7 @@ NAME:Akiri/bruse
 1 [GTC:229] Glaring Spotlight
 1 [FD:126] Grafted Wargear
 1 [10E:331] Leonin Scimitar
-1 [undefined:260] Lightning Greaves
+1 [C16:260] Lightning Greaves
 1 [MI:271] Lion's Eye Diamond
 1 [TE:15] Lotus Petal
 1 [CS:138] Mishra's Bauble
@@ -67,7 +67,7 @@ NAME:Akiri/bruse
 1 [AER:168] Pacification Array
 1 [PC2:113] Sai of the Shinobi
 1 [BOK:159] Shuko
-1 [undefined:271] Skullclamp
+1 [C16:271] Skullclamp
 1 [KLD:235] Smuggler's Copter
 1 [DTK:206] Spidersilk Net
 1 [BNG:261] Springleaf Drum
@@ -87,5 +87,5 @@ NAME:Akiri/bruse
 1 [4E:2] Balance
 1 [P3:17] Ravages of War
 1 [FD:19] Steelshaper's Gift
-SB: 1 [undefined:26] Akiri, Line-Slinger
-SB: 1 [undefined:30] Bruse Tarl, Boorish Herder
+SB: 1 [C16:26] Akiri, Line-Slinger
+SB: 1 [C16:30] Bruse Tarl, Boorish Herder

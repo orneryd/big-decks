@@ -6,9 +6,9 @@ NAME:Vial/kraum
 1 [KTK:18] Bloodstained Mire
 1 [EVE:32] Cascade Bluffs
 1 [AVR:232] Cavern of Souls
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [SOM:226] Darkslick Shores
-1 [undefined:292] Dragonskull Summit
+1 [C16:292] Dragonskull Summit
 1 [M13:223] Drowned Catacomb
 1 [KTK:16] Flooded Strand
 1 [SHM:28] Graven Cairns
@@ -92,5 +92,5 @@ NAME:Vial/kraum
 1 [C13:124] Sudden Demise
 1 [THS:107] Thoughtseize
 1 [C13:108] Toxic Deluge
-SB: 1 [undefined:49] Vial Smasher the Fierce
-SB: 1 [undefined:34] Kraum, Ludevic's Opus
+SB: 1 [C16:49] Vial Smasher the Fierce
+SB: 1 [C16:34] Kraum, Ludevic's Opus

@@ -6,11 +6,11 @@ NAME:Bruse Vial
 1 [RTR:8] Blood Crypt
 1 [KTK:18] Bloodstained Mire
 1 [AVR:232] Cavern of Souls
-1 [undefined:285] Caves of Koilos
+1 [C16:285] Caves of Koilos
 1 [ISD:238] Clifftop Retreat
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [KLD:245] Concealed Courtyard
-1 [undefined:292] Dragonskull Summit
+1 [C16:292] Dragonskull Summit
 1 [TSP:272] Flagstones of Trokair
 1 [KTK:16] Flooded Strand
 1 [GTC:11] Godless Shrine
@@ -59,8 +59,8 @@ NAME:Bruse Vial
 1 [ALA:202] Tidehollow Sculler
 1 [ISD:76] Liliana of the Veil
 1 [MR:9] Chrome Mox
-1 [undefined:260] Lightning Greaves
-1 [undefined:271] Skullclamp
+1 [C16:260] Lightning Greaves
+1 [C16:271] Skullclamp
 1 [BOK:4] Umezawa's Jitte
 1 [5E:78] Animate Dead
 1 [5E:98] Necropotence
@@ -74,14 +74,14 @@ NAME:Bruse Vial
 1 [DTK:181] Kolaghan's Command
 1 [M11:162] Lightning Bolt
 1 [RAV:213] Lightning Helix
-1 [undefined:212] Mortify
+1 [C16:212] Mortify
 1 [KTK:81] Murderous Cut
 1 [CMD:17] Path to Exile
 1 [AL:143] Pyrokinesis
 1 [BOK:21] Shining Shoal
 1 [BOK:82] Sickening Shoal
 1 [M15:164] Stoke the Flames
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [OD:164] Tainted Pact
 1 [MM3:194] Terminate
 1 [C13:33] Unexpectedly Absent
@@ -97,5 +97,5 @@ NAME:Bruse Vial
 1 [C13:124] Sudden Demise
 1 [THS:107] Thoughtseize
 1 [C13:108] Toxic Deluge
-SB: 1 [undefined:49] Vial Smasher the Fierce
-SB: 1 [undefined:30] Bruse Tarl, Boorish Herder
+SB: 1 [C16:49] Vial Smasher the Fierce
+SB: 1 [C16:30] Bruse Tarl, Boorish Herder

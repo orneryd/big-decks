@@ -6,10 +6,10 @@ NAME:Thrasios/vial
 1 [KTK:18] Bloodstained Mire
 1 [GTC:15] Breeding Pool
 1 [EVE:32] Cascade Bluffs
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [WWK:134] Creeping Tar Pit
 1 [M13:223] Drowned Catacomb
-1 [undefined:295] Exotic Orchard
+1 [C16:295] Exotic Orchard
 1 [EVE:35] Flooded Grove
 1 [KTK:16] Flooded Strand
 1 [UNH:269] Forest
@@ -39,7 +39,7 @@ NAME:Thrasios/vial
 1 [GTC:7] Watery Grave
 1 [KTK:20] Windswept Heath
 1 [KTK:19] Wooded Foothills
-1 [undefined:181] Baleful Strix
+1 [C16:181] Baleful Strix
 1 [MBP:28] Birds of Paradise
 1 [EVE:66] Bloom Tender
 1 [RTR:215] Deathrite Shaman
@@ -97,5 +97,5 @@ NAME:Thrasios/vial
 1 [C15:101] Preordain
 1 [P2:54] Temporal Manipulation
 1 [C13:108] Toxic Deluge
-SB: 1 [undefined:46] Thrasios, Triton Hero
-SB: 1 [undefined:49] Vial Smasher the Fierce
+SB: 1 [C16:46] Thrasios, Triton Hero
+SB: 1 [C16:49] Vial Smasher the Fierce

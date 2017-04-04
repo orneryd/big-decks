@@ -19,7 +19,7 @@ NAME:UBr
 1 [U:8] Mox Ruby
 1 [U:9] Mox Sapphire
 1 [CHK:232] Sensei's Divining Top
-1 [undefined:272] Sol Ring
+1 [C16:272] Sol Ring
 1 [U:287] Time Vault
 1 [M11:314] Voltaic Key
 1 [U:1] Ancestral Recall
@@ -36,11 +36,11 @@ NAME:UBr
 1 [R:116] Demonic Tutor
 1 [U:2] Time Walk
 1 [UL:45] Tinker
-1 [undefined:101] Treasure Cruise
+1 [C16:101] Treasure Cruise
 1 [US:148] Yawgmoth's Will
 SB: 1 [C13:108] Toxic Deluge
 SB: 3 [PLC:108] Sulfur Elemental
-SB: 3 [undefined:218] Rakdos Charm
+SB: 3 [C16:218] Rakdos Charm
 SB: 1 [RTR:44] Pithing Needle
 SB: 2 [DKA:221] Grafdigger's Cage
 SB: 3 [C14:180] Ingot Chewer

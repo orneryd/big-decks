@@ -16,7 +16,7 @@ NAME:Monastery
 1 [U:7] Mox Pearl
 1 [U:8] Mox Ruby
 1 [U:9] Mox Sapphire
-1 [undefined:271] Skullclamp
+1 [C16:271] Skullclamp
 1 [U:1] Ancestral Recall
 1 [C15:40] Brainstorm
 1 [KTK:97] Dig Through Time
@@ -24,18 +24,18 @@ NAME:Monastery
 1 [5E:142] Pyroblast
 1 [ZEN:51] Spell Pierce
 2 [CMD:68] Flusterstorm
-2 [undefined:78] Swords to Plowshares
+2 [C16:78] Swords to Plowshares
 3 [MM:72] Gush
 4 [AL:14] Force of Will
 4 [NPH:38] Mental Misstep
 1 [M12:29] Ponder
 1 [GP:75] Shattering Spree
 1 [U:2] Time Walk
-1 [undefined:101] Treasure Cruise
+1 [C16:101] Treasure Cruise
 3 [NPH:35] Gitaxian Probe
 4 [C15:101] Preordain
 SB: 1 [GP:75] Shattering Spree
-SB: 1 [undefined:78] Swords to Plowshares
+SB: 1 [C16:78] Swords to Plowshares
 SB: 1 [C14:3] Containment Priest
 SB: 3 [DKA:221] Grafdigger's Cage
 SB: 3 [C14:180] Ingot Chewer

@@ -5,8 +5,8 @@ NAME:Breya, Etherium Shaper
 1 [RTR:8] Blood Crypt
 1 [KTK:18] Bloodstained Mire
 1 [ISD:238] Clifftop Retreat
-1 [undefined:286] Command Tower
-1 [undefined:292] Dragonskull Summit
+1 [C16:286] Command Tower
+1 [C16:292] Dragonskull Summit
 1 [M13:223] Drowned Catacomb
 1 [KTK:16] Flooded Strand
 1 [M13:225] Glacial Fortress
@@ -23,7 +23,7 @@ NAME:Breya, Etherium Shaper
 1 [KTK:17] Polluted Delta
 1 [GTC:14] Sacred Foundry
 1 [ZEN:244] Scalding Tarn
-1 [undefined:323] Seat of the Synod
+1 [C16:323] Seat of the Synod
 1 [AER:184] Spire of Industry
 1 [RTR:12] Steam Vents
 1 [ISD:248] Sulfur Falls
@@ -37,7 +37,7 @@ NAME:Breya, Etherium Shaper
 1 [KTK:20] Windswept Heath
 1 [KTK:19] Wooded Foothills
 2 [UNH:260] Island
-1 [undefined:181] Baleful Strix
+1 [C16:181] Baleful Strix
 1 [SOM:154] Etched Champion
 1 [ORI:13] Hangarback Walker
 1 [ARB:116] Meddling Mage
@@ -46,7 +46,7 @@ NAME:Breya, Etherium Shaper
 1 [THS:32] Soldier of the Pantheon
 1 [WWK:20] Stoneforge Mystic
 1 [ALA:202] Tidehollow Sculler
-1 [undefined:102] Trinket Mage
+1 [C16:102] Trinket Mage
 1 [10E:53] True Believer
 1 [ORI:83] Whirler Rogue
 1 [CNS:199] Dack Fayden
@@ -54,15 +54,15 @@ NAME:Breya, Etherium Shaper
 1 [ISD:76] Liliana of the Veil
 1 [ALA:60] Tezzeret the Seeker
 1 [MR:9] Chrome Mox
-1 [undefined:249] Cranial Plating
-1 [undefined:258] Ichor Wellspring
-1 [undefined:260] Lightning Greaves
+1 [C16:249] Cranial Plating
+1 [C16:258] Ichor Wellspring
+1 [C16:260] Lightning Greaves
 1 [TE:15] Lotus Petal
 1 [SOM:19] Mox Opal
 1 [FD:122] Pentad Prism
 1 [RTR:44] Pithing Needle
 1 [KLD:229] Prophetic Prism
-1 [undefined:271] Skullclamp
+1 [C16:271] Skullclamp
 1 [NE:139] Tangle Wire
 1 [BOK:4] Umezawa's Jitte
 1 [5E:78] Animate Dead
@@ -79,11 +79,11 @@ NAME:Breya, Etherium Shaper
 1 [M11:162] Lightning Bolt
 1 [RAV:213] Lightning Helix
 1 [M12:44] Mana Leak
-1 [undefined:212] Mortify
+1 [C16:212] Mortify
 1 [RAV:63] Remand
 1 [ZEN:51] Spell Pierce
 1 [KTK:56] Stubborn Denial
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [MM3:194] Terminate
 1 [TSP:88] Trickbind
 1 [C13:33] Unexpectedly Absent
@@ -97,4 +97,4 @@ NAME:Breya, Etherium Shaper
 1 [THS:107] Thoughtseize
 1 [C13:108] Toxic Deluge
 1 [AP:30] Vindicate
-SB: 1 [undefined:29] Breya, Etherium Shaper
+SB: 1 [C16:29] Breya, Etherium Shaper

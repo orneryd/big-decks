@@ -7,9 +7,9 @@ NAME:Saskia The Unyielding
 1 [KTK:18] Bloodstained Mire
 1 [KLD:243] Blooming Marsh
 1 [AVR:232] Cavern of Souls
-1 [undefined:285] Caves of Koilos
+1 [C16:285] Caves of Koilos
 1 [8E:6] City of Brass
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [KLD:245] Concealed Courtyard
 1 [SOM:225] Copperline Gorge
 1 [FUT:174] Dryad Arbor
@@ -18,7 +18,7 @@ NAME:Saskia The Unyielding
 1 [GTC:11] Godless Shrine
 1 [SHM:28] Graven Cairns
 1 [KLD:246] Inspiring Vantage
-1 [undefined:305] Karplusan Forest
+1 [C16:305] Karplusan Forest
 1 [JOU:42] Mana Confluence
 1 [ZEN:239] Marsh Flats
 1 [ZEN:240] Misty Rainforest
@@ -40,9 +40,9 @@ NAME:Saskia The Unyielding
 1 [KTK:89] Anafenza, the Foremost
 1 [ISD:119] Avacyn's Pilgrim
 1 [MBP:28] Birds of Paradise
-1 [undefined:184] Bloodbraid Elf
+1 [C16:184] Bloodbraid Elf
 1 [ZEN:83] Bloodghast
-1 [undefined:30] Bruse Tarl, Boorish Herder
+1 [C16:30] Bruse Tarl, Boorish Herder
 1 [RAV:81] Dark Confidant
 1 [RTR:215] Deathrite Shaman
 1 [LRW:10] Doran, the Siege Tower
@@ -77,7 +77,7 @@ NAME:Saskia The Unyielding
 1 [NE:37] Parallax Wave
 1 [M13:180] Rancor
 1 [RTR:146] Abrupt Decay
-1 [undefined:185] Boros Charm
+1 [C16:185] Boros Charm
 1 [NPH:57] Dismember
 1 [6E:9] Enlightened Tutor
 1 [AER:57] Fatal Push
@@ -86,7 +86,7 @@ NAME:Saskia The Unyielding
 1 [M11:162] Lightning Bolt
 1 [RAV:213] Lightning Helix
 1 [CMD:17] Path to Exile
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [FRF:116] Temur Battle Rage
 1 [MM3:194] Terminate
 1 [R:116] Demonic Tutor
@@ -98,4 +98,4 @@ NAME:Saskia The Unyielding
 1 [THS:107] Thoughtseize
 1 [C13:108] Toxic Deluge
 1 [AP:30] Vindicate
-SB: 1 [undefined:41] Saskia the Unyielding
+SB: 1 [C16:41] Saskia the Unyielding

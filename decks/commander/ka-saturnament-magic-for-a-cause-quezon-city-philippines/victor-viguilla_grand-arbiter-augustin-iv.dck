@@ -2,8 +2,8 @@ NAME:Grand Arbiter Augustin Iv
 1 [10E:347] Adarkar Wastes
 1 [MR:130] Ancient Den
 1 [ZEN:229] Arid Mesa
-1 [undefined:286] Command Tower
-1 [undefined:288] Darksteel Citadel
+1 [C16:286] Command Tower
+1 [C16:288] Darksteel Citadel
 1 [MM:37] Dust Bowl
 1 [TSP:272] Flagstones of Trokair
 1 [KTK:16] Flooded Strand
@@ -11,7 +11,7 @@ NAME:Grand Arbiter Augustin Iv
 1 [RTR:6] Hallowed Fountain
 1 [ZEN:240] Misty Rainforest
 1 [ZEN:244] Scalding Tarn
-1 [undefined:323] Seat of the Synod
+1 [C16:323] Seat of the Synod
 1 [C14:44] Tectonic Edge
 1 [R:322] Tundra
 1 [TE:248] Wasteland
@@ -29,7 +29,7 @@ NAME:Grand Arbiter Augustin Iv
 1 [DTK:225] Narset Transcendent
 1 [DGM:136] Azorius Cluestone
 1 [DIS:215] Azorius Signet
-1 [undefined:248] Commander's Sphere
+1 [C16:248] Commander's Sphere
 1 [10E:11] Crucible of Worlds
 1 [BFZ:223] Hedron Archive
 1 [C15:259] Mind Stone
@@ -37,10 +37,10 @@ NAME:Grand Arbiter Augustin Iv
 1 [C15:60] Aura of Silence
 1 [RTR:155] Detention Sphere
 1 [ON:50] Future Sight
-1 [undefined:66] Ghostly Prison
+1 [C16:66] Ghostly Prison
 1 [4E:17] Land Tax
 1 [ZEN:25] Luminarch Ascension
-1 [undefined:94] Propaganda
+1 [C16:94] Propaganda
 1 [PY:45] Rhystic Study
 1 [BFZ:69] Anticipate
 1 [C15:40] Brainstorm
@@ -65,7 +65,7 @@ NAME:Grand Arbiter Augustin Iv
 1 [RAV:63] Remand
 1 [ZEN:51] Spell Pierce
 1 [RTR:187] Sphinx's Revelation
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [6E:12] Armageddon
 1 [4E:2] Balance
 1 [8E:62] Bribery

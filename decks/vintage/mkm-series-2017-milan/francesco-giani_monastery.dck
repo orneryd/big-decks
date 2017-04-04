@@ -14,11 +14,11 @@ NAME:Monastery
 1 [U:6] Mox Jet
 1 [U:7] Mox Pearl
 1 [U:9] Mox Sapphire
-1 [undefined:272] Sol Ring
+1 [C16:272] Sol Ring
 1 [R:209] Fastbond
 1 [U:1] Ancestral Recall
 1 [C15:40] Brainstorm
-1 [undefined:84] Chain of Vapor
+1 [C16:84] Chain of Vapor
 1 [CMD:68] Flusterstorm
 1 [CHK:40] Gifts Ungiven
 1 [ZEN:57] Mindbreak Trap
@@ -36,7 +36,7 @@ NAME:Monastery
 1 [M12:29] Ponder
 1 [SC:142] Tendrils of Agony
 1 [U:2] Time Walk
-1 [undefined:101] Treasure Cruise
+1 [C16:101] Treasure Cruise
 1 [US:148] Yawgmoth's Will
 2 [C15:101] Preordain
 SB: 1 [DTK:86] Duress

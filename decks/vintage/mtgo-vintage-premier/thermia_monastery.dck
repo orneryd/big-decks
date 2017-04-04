@@ -25,14 +25,14 @@ NAME:Monastery
 1 [M11:162] Lightning Bolt
 1 [6E:62] Mystical Tutor
 3 [MM:72] Gush
-3 [undefined:78] Swords to Plowshares
+3 [C16:78] Swords to Plowshares
 4 [AL:14] Force of Will
 4 [NPH:38] Mental Misstep
 1 [4E:2] Balance
 1 [KLD:14] Fragmentize
 1 [M12:29] Ponder
 1 [U:2] Time Walk
-1 [undefined:101] Treasure Cruise
+1 [C16:101] Treasure Cruise
 2 [NPH:35] Gitaxian Probe
 2 [C15:101] Preordain
 SB: 2 [ZEN:57] Mindbreak Trap
@@ -43,4 +43,4 @@ SB: 2 [DKA:221] Grafdigger's Cage
 SB: 2 [C14:3] Containment Priest
 SB: 1 [4E:2] Balance
 SB: 2 [ISD:25] Stony Silence
-SB: 1 [undefined:78] Swords to Plowshares
+SB: 1 [C16:78] Swords to Plowshares

@@ -21,12 +21,12 @@ NAME:Monastery
 2 [ZEN:57] Mindbreak Trap
 3 [MM:72] Gush
 3 [NPH:38] Mental Misstep
-3 [undefined:78] Swords to Plowshares
+3 [C16:78] Swords to Plowshares
 4 [AL:14] Force of Will
 1 [KLD:14] Fragmentize
 1 [M12:29] Ponder
 1 [U:2] Time Walk
-1 [undefined:101] Treasure Cruise
+1 [C16:101] Treasure Cruise
 3 [NPH:35] Gitaxian Probe
 4 [C15:101] Preordain
 SB: 2 [KLD:14] Fragmentize
@@ -38,5 +38,5 @@ SB: 2 [ARENA:6] Disenchant
 SB: 2 [C14:3] Containment Priest
 SB: 1 [ZEN:57] Mindbreak Trap
 SB: 1 [5E:142] Pyroblast
-SB: 1 [undefined:78] Swords to Plowshares
+SB: 1 [C16:78] Swords to Plowshares
 SB: 1 [ISD:25] Stony Silence

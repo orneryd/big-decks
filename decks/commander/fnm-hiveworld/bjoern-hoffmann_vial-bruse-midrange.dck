@@ -2,11 +2,11 @@ NAME:Vial/bruse Midrange
 1 [ZEN:229] Arid Mesa
 1 [RTR:8] Blood Crypt
 1 [KTK:18] Bloodstained Mire
-1 [undefined:285] Caves of Koilos
+1 [C16:285] Caves of Koilos
 1 [8E:6] City of Brass
 1 [ISD:238] Clifftop Retreat
-1 [undefined:286] Command Tower
-1 [undefined:292] Dragonskull Summit
+1 [C16:286] Command Tower
+1 [C16:292] Dragonskull Summit
 1 [MM:37] Dust Bowl
 1 [KTK:16] Flooded Strand
 1 [GTC:11] Godless Shrine
@@ -21,7 +21,7 @@ NAME:Vial/bruse Midrange
 1 [KTK:17] Polluted Delta
 1 [CNS:328] Reflecting Pool
 1 [GTC:14] Sacred Foundry
-1 [undefined:325] Shadowblood Ridge
+1 [C16:325] Shadowblood Ridge
 1 [BFZ:244] Shambling Vent
 1 [CHK:282] Shinka, the Bloodsoaked Keep
 1 [CHK:283] Shizo, Death's Storehouse
@@ -64,21 +64,21 @@ NAME:Vial/bruse Midrange
 1 [ALA:9] Elspeth, Knight-Errant
 1 [KTK:119] Sarkhan, the Dragonspeaker
 1 [NPH:130] Batterskull
-1 [undefined:260] Lightning Greaves
+1 [C16:260] Lightning Greaves
 1 [KLD:235] Smuggler's Copter
 1 [BOK:4] Umezawa's Jitte
 1 [MOR:58] Bitterblossom
-1 [undefined:130] Phyrexian Arena
+1 [C15:130] Phyrexian Arena
 1 [SOI:242] Anguished Unmaking
 1 [ZEN:119] Burst Lightning
-1 [undefined:191] Crackling Doom
+1 [C16:191] Crackling Doom
 1 [AER:57] Fatal Push
 1 [IA:145] Fire Covenant
 1 [DTK:181] Kolaghan's Command
 1 [M11:162] Lightning Bolt
 1 [RAV:213] Lightning Helix
 1 [C14:161] Skeletal Scrying
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [OD:164] Tainted Pact
 1 [MM3:194] Terminate
 1 [TO:108] Chainer's Edict
@@ -97,5 +97,5 @@ NAME:Vial/bruse Midrange
 1 [THS:107] Thoughtseize
 1 [C13:108] Toxic Deluge
 1 [AP:30] Vindicate
-SB: 1 [undefined:49] Vial Smasher the Fierce
-SB: 1 [undefined:30] Bruse Tarl, Boorish Herder
+SB: 1 [C16:49] Vial Smasher the Fierce
+SB: 1 [C16:30] Bruse Tarl, Boorish Herder

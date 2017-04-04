@@ -5,7 +5,7 @@ NAME:Atraxa, Praetors' Voice
 1 [GTC:15] Breeding Pool
 1 [BFZ:5] Canopy Vista
 1 [WWK:23] Celestial Colonnade
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [M13:223] Drowned Catacomb
 1 [KTK:16] Flooded Strand
 1 [UNH:269] Forest
@@ -27,7 +27,7 @@ NAME:Atraxa, Praetors' Voice
 1 [ZEN:244] Scalding Tarn
 1 [R:313] Scrubland
 1 [BFZ:2] Sunken Hollow
-1 [undefined:329] Sunpetal Grove
+1 [C16:329] Sunpetal Grove
 1 [UNH:263] Swamp
 1 [RTR:10] Temple Garden
 1 [R:321] Tropical Island
@@ -40,12 +40,12 @@ NAME:Atraxa, Praetors' Voice
 1 [ISD:249] Woodland Cemetery
 1 [ISD:119] Avacyn's Pilgrim
 1 [FUT:3] Aven Mindcensor
-1 [undefined:181] Baleful Strix
+1 [C16:181] Baleful Strix
 1 [MBP:28] Birds of Paradise
 1 [EVE:66] Bloom Tender
-1 [undefined:54] Crystalline Crawler
+1 [C16:54] Crystalline Crawler
 1 [RTR:215] Deathrite Shaman
-1 [undefined:195] Edric, Spymaster of Trest
+1 [C16:195] Edric, Spymaster of Trest
 1 [EVE:47] Glen Elendra Archmage
 1 [ARB:11] Jenara, Asura of War
 1 [OGW:86] Kalitas, Traitor of Ghet
@@ -80,7 +80,7 @@ NAME:Atraxa, Praetors' Voice
 1 [NE:37] Parallax Wave
 1 [DIS:99] Utopia Sprawl
 1 [RTR:146] Abrupt Decay
-1 [undefined:177] Abzan Charm
+1 [C16:177] Abzan Charm
 1 [ALA:155] Bant Charm
 1 [C15:40] Brainstorm
 1 [7E:10] Counterspell
@@ -94,8 +94,8 @@ NAME:Atraxa, Praetors' Voice
 1 [RAV:253] Shadow of Doubt
 1 [CNS:18] Stifle
 1 [TSP:134] Sudden Death
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [CNS:20] Council's Judgment
 1 [R:116] Demonic Tutor
 1 [C15:101] Preordain
-SB: 1 [undefined:28] Atraxa, Praetors' Voice
+SB: 1 [C16:28] Atraxa, Praetors' Voice

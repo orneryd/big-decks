@@ -1,14 +1,14 @@
 NAME:Gitrog
-1 [undefined:56] Ash Barrens
+1 [C16:56] Ash Barrens
 1 [C15:277] Barren Moor
 1 [R:293] Bayou
 1 [KTK:18] Bloodstained Mire
 1 [KLD:243] Blooming Marsh
 1 [TO:139] Cabal Coffers
 1 [AVR:232] Cavern of Souls
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [SOI:271] Drownyard Temple
-1 [undefined:294] Evolving Wilds
+1 [C16:294] Evolving Wilds
 1 [ORI:355] Llanowar Wastes
 1 [ZEN:239] Marsh Flats
 1 [DK:241] Maze of Ith
@@ -17,8 +17,8 @@ NAME:Gitrog
 1 [RTR:13] Overgrown Tomb
 1 [KTK:17] Polluted Delta
 1 [C14:44] Tectonic Edge
-1 [undefined:331] Temple of the False God
-1 [undefined:332] Terramorphic Expanse
+1 [C16:331] Temple of the False God
+1 [C16:332] Terramorphic Expanse
 1 [C14:320] Tranquil Thicket
 1 [10E:143] Treetop Village
 1 [EVE:33] Twilight Mire
@@ -34,7 +34,7 @@ NAME:Gitrog
 1 [EMN:6] Emrakul, the Promised End
 1 [MPS:3] Noxious Gearhulk
 1 [M12:156] Primeval Titan
-1 [undefined:164] Sakura-Tribe Elder
+1 [C16:164] Sakura-Tribe Elder
 1 [M13:143] Thragtusk
 1 [C14:50] Titania, Protector of Argoth
 1 [TSP:89] Wall of Roots
@@ -63,16 +63,16 @@ NAME:Gitrog
 1 [SOI:139] To the Slaughter
 1 [SHM:57] Beseech the Queen
 1 [EMN:85] Collective Brutality
-1 [undefined:146] Cultivate
+1 [C16:146] Cultivate
 1 [PLC:63] Damnation
 1 [ORI:202] Dark Petition
 1 [R:116] Demonic Tutor
 1 [FUT:144] Edge of Autumn
 1 [WWK:125] Explore
-1 [undefined:149] Farseek
+1 [C16:149] Farseek
 1 [FE:92] Hymn to Tourach
-1 [undefined:155] Kodama's Reach
-1 [undefined:114] Languish
+1 [C16:155] Kodama's Reach
+1 [C16:114] Languish
 1 [RAV:172] Life from the Loam
 1 [ARB:29] Maelstrom Pulse
 1 [ST:220] Nature's Lore

@@ -1,12 +1,12 @@
 NAME:Viai Reyhan (f)
 1 [ZEN:229] Arid Mesa
-1 [undefined:56] Ash Barrens
+1 [C16:56] Ash Barrens
 1 [R:291] Badlands
 1 [R:293] Bayou
 1 [RTR:8] Blood Crypt
 1 [KTK:18] Bloodstained Mire
 1 [KLD:243] Blooming Marsh
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [SOM:225] Copperline Gorge
 1 [FUT:174] Dryad Arbor
 1 [ZEN:240] Misty Rainforest
@@ -26,7 +26,7 @@ NAME:Viai Reyhan (f)
 1 [ARB:122] Anathemancer
 1 [TO:196] Basking Rootwalla
 1 [MBP:28] Birds of Paradise
-1 [undefined:184] Bloodbraid Elf
+1 [C16:184] Bloodbraid Elf
 1 [RTR:215] Deathrite Shaman
 1 [RAV:39] Elves of Deep Shadow
 1 [C15:184] Experiment One
@@ -44,7 +44,7 @@ NAME:Viai Reyhan (f)
 1 [AER:117] Narnam Renegade
 1 [ARB:51] Putrid Leech
 1 [C14:39] Reclamation Sage
-1 [undefined:164] Sakura-Tribe Elder
+1 [C16:164] Sakura-Tribe Elder
 1 [MM3:134] Scavenging Ooze
 1 [C15:137] Shriekmaw
 1 [CMD:84] Spike Feeder
@@ -52,7 +52,7 @@ NAME:Viai Reyhan (f)
 1 [FUT:141] Tarmogoyf
 1 [GP:78] Tin Street Hooligan
 1 [ROE:1] Vengevine
-1 [undefined:49] Vial Smasher the Fierce
+1 [C16:49] Vial Smasher the Fierce
 1 [KLD:189] Voltaic Brawler
 1 [MR:9] Chrome Mox
 1 [KLD:235] Smuggler's Copter
@@ -81,5 +81,5 @@ NAME:Viai Reyhan (f)
 1 [ROE:145] Flame Slash
 1 [MBS:169] Green Sun's Zenith
 1 [C13:124] Sudden Demise
-SB: 1 [undefined:40] Reyhan, Last of the Abzan
-SB: 1 [undefined:49] Vial Smasher the Fierce
+SB: 1 [C16:40] Reyhan, Last of the Abzan
+SB: 1 [C16:49] Vial Smasher the Fierce

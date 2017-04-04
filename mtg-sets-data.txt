@@ -27,10 +27,10 @@ Born of the Gods|BNG|
 Betrayers of Kamigawa|BOK|
 Battle Royale Box Set|BRB|
 Beatdown Box Set|BTD|
-Commander 2013 Edition|C13|
-Commander 2014 Edition|C14|
-Commander 2015 Edition|C15|
-Commander 2016 Edition|C16|
+Commander 2013|C13|
+Commander 2014|C14|
+Commander 2015|C15|
+Commander 2016|C16|
 Champions of Kamigawa|CHK|
 Chronicles|CHR|
 Clash Pack|CLASH|

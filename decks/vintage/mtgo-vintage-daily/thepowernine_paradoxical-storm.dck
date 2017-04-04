@@ -18,7 +18,7 @@ NAME:Paradoxical Storm
 1 [U:8] Mox Ruby
 1 [U:9] Mox Sapphire
 1 [CHK:232] Sensei's Divining Top
-1 [undefined:272] Sol Ring
+1 [C16:272] Sol Ring
 2 [MR:9] Chrome Mox
 2 [9E:34] Defense Grid
 4 [SOM:19] Mox Opal
@@ -35,7 +35,7 @@ NAME:Paradoxical Storm
 1 [U:2] Time Walk
 1 [U:3] Timetwister
 1 [UL:45] Tinker
-1 [undefined:104] Windfall
+1 [C16:104] Windfall
 1 [US:148] Yawgmoth's Will
 2 [KLD:14] Fragmentize
 4 [NPH:35] Gitaxian Probe
@@ -50,4 +50,4 @@ SB: 2 [CMD:68] Flusterstorm
 SB: 1 [SC:80] Mind's Desire
 SB: 1 [ZEN:57] Mindbreak Trap
 SB: 1 [UNH:257] Plains
-SB: 1 [undefined:78] Swords to Plowshares
+SB: 1 [C16:78] Swords to Plowshares

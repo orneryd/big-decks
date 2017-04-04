@@ -1,5 +1,5 @@
 NAME:Gitrog
-1 [undefined:56] Ash Barrens
+1 [C16:56] Ash Barrens
 1 [C15:277] Barren Moor
 1 [R:293] Bayou
 1 [KTK:18] Bloodstained Mire
@@ -7,9 +7,9 @@ NAME:Gitrog
 1 [C14:132] Bojuka Bog
 1 [TO:139] Cabal Coffers
 1 [AVR:232] Cavern of Souls
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [C14:24] Crystal Vein
-1 [undefined:294] Evolving Wilds
+1 [C16:294] Evolving Wilds
 1 [UNH:269] Forest
 1 [C15:285] Ghost Quarter
 1 [ORI:355] Llanowar Wastes
@@ -19,8 +19,8 @@ NAME:Gitrog
 1 [KTK:17] Polluted Delta
 1 [UNH:263] Swamp
 1 [C14:44] Tectonic Edge
-1 [undefined:331] Temple of the False God
-1 [undefined:332] Terramorphic Expanse
+1 [C16:331] Temple of the False God
+1 [C16:332] Terramorphic Expanse
 1 [C14:320] Tranquil Thicket
 1 [EVE:33] Twilight Mire
 1 [M15:165] Urborg, Tomb of Yawgmoth
@@ -35,11 +35,11 @@ NAME:Gitrog
 1 [EMN:6] Emrakul, the Promised End
 1 [C15:183] Eternal Witness
 1 [M12:156] Primeval Titan
-1 [undefined:164] Sakura-Tribe Elder
+1 [C16:164] Sakura-Tribe Elder
 1 [FUT:141] Tarmogoyf
 1 [M13:143] Thragtusk
 1 [SOI:233] Tireless Tracker
-1 [undefined:175] Wall of Blossoms
+1 [C16:175] Wall of Blossoms
 1 [TSP:89] Wall of Roots
 1 [ISD:181] Garruk Relentless
 1 [ISD:76] Liliana of the Veil
@@ -66,13 +66,13 @@ NAME:Gitrog
 1 [MM3:179] Putrefy
 1 [SOI:139] To the Slaughter
 1 [SHM:57] Beseech the Queen
-1 [undefined:146] Cultivate
+1 [C16:146] Cultivate
 1 [PLC:63] Damnation
 1 [ORI:202] Dark Petition
 1 [R:116] Demonic Tutor
 1 [WWK:125] Explore
-1 [undefined:155] Kodama's Reach
-1 [undefined:114] Languish
+1 [C16:155] Kodama's Reach
+1 [C16:114] Languish
 1 [RAV:172] Life from the Loam
 1 [ARB:29] Maelstrom Pulse
 1 [ST:220] Nature's Lore

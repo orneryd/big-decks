@@ -8,7 +8,7 @@ NAME:Vial Thrasios
 1 [KLD:244] Botanical Sanctum
 1 [GTC:15] Breeding Pool
 1 [AVR:232] Cavern of Souls
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [SOM:225] Copperline Gorge
 1 [M13:223] Drowned Catacomb
 1 [KTK:16] Flooded Strand
@@ -19,7 +19,7 @@ NAME:Vial Thrasios
 1 [ZEN:240] Misty Rainforest
 1 [RTR:13] Overgrown Tomb
 1 [KTK:17] Polluted Delta
-1 [undefined:317] Rootbound Crag
+1 [C16:317] Rootbound Crag
 1 [ORI:357] Shivan Reef
 1 [KLD:249] Spirebluff Canal
 1 [RTR:12] Steam Vents
@@ -53,7 +53,7 @@ NAME:Vial Thrasios
 1 [CNS:199] Dack Fayden
 1 [WWK:57] Jace, the Mind Sculptor
 1 [DGM:94] Ral Zarek
-1 [undefined:260] Lightning Greaves
+1 [C16:260] Lightning Greaves
 1 [BOK:4] Umezawa's Jitte
 1 [CNS:191] Pernicious Deed
 1 [RTR:146] Abrupt Decay
@@ -95,5 +95,5 @@ NAME:Vial Thrasios
 1 [AVR:54] Temporal Mastery
 1 [M10:74] Time Warp
 1 [C13:108] Toxic Deluge
-SB: 1 [undefined:49] Vial Smasher the Fierce
-SB: 1 [undefined:46] Thrasios, Triton Hero
+SB: 1 [C16:49] Vial Smasher the Fierce
+SB: 1 [C16:46] Thrasios, Triton Hero

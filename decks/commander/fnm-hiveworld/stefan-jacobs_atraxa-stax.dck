@@ -3,21 +3,21 @@ NAME:Atraxa Stax
 1 [R:293] Bayou
 1 [GTC:15] Breeding Pool
 1 [8E:6] City of Brass
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [M13:223] Drowned Catacomb
 1 [MM:37] Dust Bowl
-1 [undefined:295] Exotic Orchard
+1 [C16:295] Exotic Orchard
 1 [TSP:272] Flagstones of Trokair
 1 [KTK:16] Flooded Strand
 1 [UNH:269] Forest
 1 [GTC:11] Godless Shrine
-1 [undefined:299] Grand Coliseum
+1 [C16:299] Grand Coliseum
 1 [RTR:6] Hallowed Fountain
 1 [UNH:260] Island
 1 [JOU:42] Mana Confluence
 1 [ZEN:239] Marsh Flats
 1 [ZEN:240] Misty Rainforest
-1 [undefined:308] Murmuring Bosk
+1 [C16:308] Murmuring Bosk
 1 [RTR:13] Overgrown Tomb
 1 [UNH:257] Plains
 1 [KTK:17] Polluted Delta
@@ -29,7 +29,7 @@ NAME:Atraxa Stax
 1 [UNH:263] Swamp
 1 [RTR:10] Temple Garden
 1 [R:321] Tropical Island
-1 [undefined:335] Underground River
+1 [C16:335] Underground River
 1 [M15:165] Urborg, Tomb of Yawgmoth
 1 [ZEN:249] Verdant Catacombs
 1 [TE:248] Wasteland
@@ -42,7 +42,7 @@ NAME:Atraxa Stax
 1 [C15:1] Bastion Protector
 1 [MBP:28] Birds of Paradise
 1 [OD:82] Braids, Cabal Minion
-1 [undefined:54] Crystalline Crawler
+1 [C16:54] Crystalline Crawler
 1 [RTR:215] Deathrite Shaman
 1 [C13:186] Derevi, Empyrial Tactician
 1 [RAV:39] Elves of Deep Shadow
@@ -61,7 +61,7 @@ NAME:Atraxa Stax
 1 [EMN:93] Liliana, the Last Hope
 1 [ALA:60] Tezzeret the Seeker
 1 [10E:11] Crucible of Worlds
-1 [undefined:260] Lightning Greaves
+1 [C16:260] Lightning Greaves
 1 [7E:40] Meekstone
 1 [FD:122] Pentad Prism
 1 [US:282] Smokestack
@@ -79,13 +79,13 @@ NAME:Atraxa Stax
 1 [FRF:43] Monastery Siege
 1 [NE:37] Parallax Tide
 1 [NE:37] Parallax Wave
-1 [undefined:94] Propaganda
+1 [C16:94] Propaganda
 1 [RTR:18] Rest in Peace
 1 [5E:81] Stasis
 1 [5E:187] Sylvan Library
 1 [RTR:146] Abrupt Decay
 1 [6E:9] Enlightened Tutor
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [CNS:20] Council's Judgment
 1 [SOI:12] Declaration in Stone
 1 [R:116] Demonic Tutor
@@ -98,4 +98,4 @@ NAME:Atraxa Stax
 1 [AP:30] Vindicate
 1 [ARB:129] Wargate
 1 [AER:75] Yahenni's Expertise
-SB: 1 [undefined:28] Atraxa, Praetors' Voice
+SB: 1 [C16:28] Atraxa, Praetors' Voice

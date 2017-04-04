@@ -8,15 +8,15 @@ NAME:Bruse/reyhan
 1 [KLD:243] Blooming Marsh
 1 [10E:349] Brushland
 1 [AVR:232] Cavern of Souls
-1 [undefined:285] Caves of Koilos
+1 [C16:285] Caves of Koilos
 1 [8E:6] City of Brass
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [SOM:225] Copperline Gorge
 1 [FUT:174] Dryad Arbor
 1 [KTK:16] Flooded Strand
 1 [GTC:11] Godless Shrine
 1 [FUT:40] Horizon Canopy
-1 [undefined:305] Karplusan Forest
+1 [C16:305] Karplusan Forest
 1 [ORI:355] Llanowar Wastes
 1 [JOU:42] Mana Confluence
 1 [ZEN:239] Marsh Flats
@@ -65,21 +65,21 @@ NAME:Bruse/reyhan
 1 [ARB:51] Putrid Leech
 1 [CN2:78] Queen Marchesa
 1 [C14:39] Reclamation Sage
-1 [undefined:41] Saskia the Unyielding
+1 [C16:41] Saskia the Unyielding
 1 [KTK:133] Siege Rhino
 1 [WWK:20] Stoneforge Mystic
 1 [EMN:46] Thalia, Heretic Cathar
 1 [DGM:200] Voice of Resurgence
 1 [KLD:189] Voltaic Brawler
 1 [MR:9] Chrome Mox
-1 [undefined:260] Lightning Greaves
+1 [C16:260] Lightning Greaves
 1 [NE:139] Tangle Wire
 1 [BOK:4] Umezawa's Jitte
 1 [5E:234] Winter Orb
 1 [NE:37] Parallax Wave
 1 [M13:180] Rancor
 1 [RTR:146] Abrupt Decay
-1 [undefined:185] Boros Charm
+1 [C16:185] Boros Charm
 1 [DTK:175] Dromoka's Command
 1 [6E:9] Enlightened Tutor
 1 [AER:57] Fatal Push
@@ -89,7 +89,7 @@ NAME:Bruse/reyhan
 1 [DTK:181] Kolaghan's Command
 1 [M11:162] Lightning Bolt
 1 [RAV:213] Lightning Helix
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [OD:164] Tainted Pact
 1 [MM3:194] Terminate
 1 [6E:12] Armageddon
@@ -97,5 +97,5 @@ NAME:Bruse/reyhan
 1 [MBS:169] Green Sun's Zenith
 1 [P3:17] Ravages of War
 1 [C13:108] Toxic Deluge
-SB: 1 [undefined:40] Reyhan, Last of the Abzan
-SB: 1 [undefined:30] Bruse Tarl, Boorish Herder
+SB: 1 [C16:40] Reyhan, Last of the Abzan
+SB: 1 [C16:30] Bruse Tarl, Boorish Herder

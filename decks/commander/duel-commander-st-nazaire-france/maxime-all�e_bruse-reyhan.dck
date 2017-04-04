@@ -6,7 +6,7 @@ NAME:Bruse Reyhan
 1 [KTK:18] Bloodstained Mire
 1 [KLD:243] Blooming Marsh
 1 [10E:349] Brushland
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [SOM:225] Copperline Gorge
 1 [FUT:174] Dryad Arbor
 1 [KTK:16] Flooded Strand
@@ -14,7 +14,7 @@ NAME:Bruse Reyhan
 1 [TSP:274] Gemstone Caverns
 1 [GTC:11] Godless Shrine
 1 [FUT:176] Grove of the Burnwillows
-1 [undefined:305] Karplusan Forest
+1 [C16:305] Karplusan Forest
 1 [ORI:355] Llanowar Wastes
 1 [JOU:42] Mana Confluence
 1 [ZEN:239] Marsh Flats
@@ -30,7 +30,7 @@ NAME:Bruse Reyhan
 1 [R:313] Scrubland
 1 [CS:245] Snow-Covered Forest
 1 [GTC:9] Stomping Ground
-1 [undefined:329] Sunpetal Grove
+1 [C16:329] Sunpetal Grove
 1 [UNH:263] Swamp
 1 [R:317] Taiga
 1 [RTR:10] Temple Garden
@@ -43,7 +43,7 @@ NAME:Bruse Reyhan
 1 [M13:95] Arbor Elf
 1 [ISD:119] Avacyn's Pilgrim
 1 [MBP:28] Birds of Paradise
-1 [undefined:184] Bloodbraid Elf
+1 [C16:184] Bloodbraid Elf
 1 [ZEN:83] Bloodghast
 1 [CS:105] Boreal Druid
 1 [RTR:215] Deathrite Shaman
@@ -64,7 +64,7 @@ NAME:Bruse Reyhan
 1 [ARB:51] Putrid Leech
 1 [ARB:124] Qasali Pridemage
 1 [C14:39] Reclamation Sage
-1 [undefined:74] Reveillark
+1 [C16:74] Reveillark
 1 [MM3:134] Scavenging Ooze
 1 [C15:137] Shriekmaw
 1 [WWK:20] Stoneforge Mystic
@@ -76,7 +76,7 @@ NAME:Bruse Reyhan
 1 [DGM:200] Voice of Resurgence
 1 [NPH:104] Birthing Pod
 1 [MR:9] Chrome Mox
-1 [undefined:271] Skullclamp
+1 [C16:271] Skullclamp
 1 [KLD:235] Smuggler's Copter
 1 [BOK:4] Umezawa's Jitte
 1 [M13:180] Rancor
@@ -90,12 +90,12 @@ NAME:Bruse Reyhan
 1 [SOI:170] Lightning Axe
 1 [M11:162] Lightning Bolt
 1 [SHM:211] Manamorphose
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [MM3:194] Terminate
 1 [EMN:155] Eldritch Evolution
 1 [MBS:169] Green Sun's Zenith
 1 [DKA:12] Lingering Souls
 1 [CMD:126] Living Death
 1 [SOI:234] Traverse the Ulvenwald
-SB: 1 [undefined:30] Bruse Tarl, Boorish Herder
-SB: 1 [undefined:40] Reyhan, Last of the Abzan
+SB: 1 [C16:30] Bruse Tarl, Boorish Herder
+SB: 1 [C16:40] Reyhan, Last of the Abzan

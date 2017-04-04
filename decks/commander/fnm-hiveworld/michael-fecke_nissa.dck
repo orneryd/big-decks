@@ -3,7 +3,7 @@ NAME:Nissa
 1 [CS:4] Dark Depths
 1 [FUT:174] Dryad Arbor
 1 [MM:37] Dust Bowl
-1 [undefined:301] Homeward Path
+1 [C16:301] Homeward Path
 1 [DK:241] Maze of Ith
 1 [THS:223] Nykthos, Shrine to Nyx
 1 [MM:324] Rishadan Port
@@ -31,7 +31,7 @@ NAME:Nissa
 1 [M12:156] Primeval Titan
 1 [C14:39] Reclamation Sage
 1 [UD:229] Rofellos, Llanowar Emissary
-1 [undefined:164] Sakura-Tribe Elder
+1 [C16:164] Sakura-Tribe Elder
 1 [MM3:134] Scavenging Ooze
 1 [DS:49] Sundering Titan
 1 [DTK:194] Surrak, the Hunt Caller
@@ -57,7 +57,7 @@ NAME:Nissa
 1 [C14:47] Song of the Dryads
 1 [EX:234] Survival of the Fittest
 1 [5E:187] Sylvan Library
-1 [undefined:141] Beast Within
+1 [C16:141] Beast Within
 1 [M15:156] Chord of Calling
 1 [UL:98] Crop Rotation
 1 [C15:189] Krosan Grip
@@ -68,7 +68,7 @@ NAME:Nissa
 1 [ST:220] Nature's Lore
 1 [8E:117] Plow Under
 1 [LRW:132] Primal Command
-1 [undefined:161] Rampant Growth
+1 [C16:161] Rampant Growth
 1 [TSP:216] Search for Tomorrow
 1 [P3:153] Three Visits
 SB: 1 [ORI:998] Nissa, Vastwood Seer

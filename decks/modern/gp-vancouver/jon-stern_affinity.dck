@@ -3,10 +3,10 @@ NAME:Affinity
 2 [MR:223] Glimmervoid
 3 [DS:236] Blinkmoth Nexus
 3 [AER:184] Spire of Industry
-4 [undefined:288] Darksteel Citadel
+4 [C16:288] Darksteel Citadel
 4 [MBS:6] Inkmoth Nexus
 2 [SOM:154] Etched Champion
-2 [undefined:92] Master of Etherium
+2 [C16:92] Master of Etherium
 2 [SOM:4] Memnite
 4 [DS:31] Arcbound Ravager
 4 [AER:167] Ornithopter
@@ -14,7 +14,7 @@ NAME:Affinity
 4 [M11:27] Steel Overseer
 4 [NPH:71] Vault Skirge
 1 [MR:274] Welding Jar
-4 [undefined:249] Cranial Plating
+4 [C16:249] Cranial Plating
 4 [SOM:19] Mox Opal
 4 [BNG:261] Springleaf Drum
 4 [SOM:91] Galvanic Blast
@@ -27,4 +27,4 @@ SB: 2 [NPH:7] Dispatch
 SB: 1 [9E:90] Blood Moon
 SB: 2 [ISD:88] Ancient Grudge
 SB: 2 [SOM:154] Etched Champion
-SB: 1 [undefined:92] Master of Etherium
+SB: 1 [C16:92] Master of Etherium

@@ -1,11 +1,11 @@
 NAME:Breya, Etherium Shaper
 1 [MR:130] Ancient Den
 1 [ZEN:229] Arid Mesa
-1 [undefined:56] Ash Barrens
+1 [C16:56] Ash Barrens
 1 [R:291] Badlands
 1 [KTK:18] Bloodstained Mire
 1 [AVR:232] Cavern of Souls
-1 [undefined:286] Command Tower
+1 [C16:286] Command Tower
 1 [KLD:245] Concealed Courtyard
 1 [SOM:226] Darkslick Shores
 1 [KTK:16] Flooded Strand
@@ -22,7 +22,7 @@ NAME:Breya, Etherium Shaper
 1 [ZEN:244] Scalding Tarn
 1 [R:313] Scrubland
 1 [SOM:229] Seachrome Coast
-1 [undefined:323] Seat of the Synod
+1 [C16:323] Seat of the Synod
 1 [CS:242] Snow-Covered Island
 1 [CS:244] Snow-Covered Mountain
 1 [CS:241] Snow-Covered Plains
@@ -38,14 +38,14 @@ NAME:Breya, Etherium Shaper
 1 [KTK:20] Windswept Heath
 1 [KTK:19] Wooded Foothills
 1 [FD:5] Auriok Salvagers
-1 [undefined:181] Baleful Strix
+1 [C16:181] Baleful Strix
 1 [KLD:50] Glint-Nest Crane
 1 [ORI:13] Hangarback Walker
 1 [BFZ:229] Pilgrim's Eye
 1 [NPH:159] Spellskite
 1 [WWK:20] Stoneforge Mystic
 1 [SOI:44] Thraben Inspector
-1 [undefined:102] Trinket Mage
+1 [C16:102] Trinket Mage
 1 [CN2:74] Daretti, Ingenious Iconoclast
 1 [ALA:60] Tezzeret the Seeker
 1 [MBS:97] Tezzeret, Agent of Bolas
@@ -55,7 +55,7 @@ NAME:Breya, Etherium Shaper
 1 [FD:36] Engineered Explosives
 1 [8E:37] Ensnaring Bridge
 1 [ARB:85] Fieldmist Borderpost
-1 [undefined:258] Ichor Wellspring
+1 [C16:258] Ichor Wellspring
 1 [IA:212] Jeweled Amulet
 1 [MI:271] Lion's Eye Diamond
 1 [TE:15] Lotus Petal
@@ -63,12 +63,12 @@ NAME:Breya, Etherium Shaper
 1 [ARB:90] Mistvein Borderpost
 1 [SH:228] Mox Diamond
 1 [SOM:19] Mox Opal
-1 [undefined:262] Mycosynth Wellspring
+1 [C16:262] Mycosynth Wellspring
 1 [C13:187] Nihil Spellbomb
 1 [FD:122] Pentad Prism
 1 [RTR:44] Pithing Needle
 1 [KLD:229] Prophetic Prism
-1 [undefined:271] Skullclamp
+1 [C16:271] Skullclamp
 1 [EMN:201] Terrarion
 1 [BOK:4] Umezawa's Jitte
 1 [5E:170] Urza's Bauble
@@ -85,7 +85,7 @@ NAME:Breya, Etherium Shaper
 1 [NPH:38] Mental Misstep
 1 [CMD:17] Path to Exile
 1 [RAV:63] Remand
-1 [undefined:78] Swords to Plowshares
+1 [C16:78] Swords to Plowshares
 1 [OD:164] Tainted Pact
 1 [MR:14] Thirst for Knowledge
 1 [VI:84] Tithe
@@ -98,4 +98,4 @@ NAME:Breya, Etherium Shaper
 1 [C13:108] Toxic Deluge
 1 [AQ:69] Transmute Artifact
 1 [US:148] Yawgmoth's Will
-SB: 1 [undefined:29] Breya, Etherium Shaper
+SB: 1 [C16:29] Breya, Etherium Shaper
