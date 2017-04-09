@@ -1,6 +1,6 @@
 NAME:Hatebear
 1 [UNH:269] Forest
-1 [WWK:33] Stirring Wildwood
+1 [C14:44] Tectonic Edge
 2 [ISD:239] Gavony Township
 3 [FUT:40] Horizon Canopy
 3 [UNH:257] Plains
@@ -8,7 +8,7 @@ NAME:Hatebear
 4 [SOM:228] Razorverge Thicket
 4 [RTR:10] Temple Garden
 1 [MBP:28] Birds of Paradise
-1 [BNG:5] Brimaz, King of Oreskos
+1 [ARB:124] Qasali Pridemage
 2 [C15:183] Eternal Witness
 3 [MM3:134] Scavenging Ooze
 3 [DKA:3] Thalia, Guardian of Thraben
@@ -19,14 +19,14 @@ NAME:Hatebear
 4 [AVR:20] Restoration Angel
 4 [DS:6] Aether Vial
 4 [CMD:17] Path to Exile
-SB: 1 [M15:99] Ajani Steadfast
-SB: 1 [EMN:13] Blessed Alliance
-SB: 1 [C14:13] Condemn
-SB: 1 [ISD:181] Garruk Relentless
-SB: 1 [BFZ:29] Gideon, Ally of Zendikar
-SB: 1 [SOK:14] Kataki, War's Wage
-SB: 2 [C14:39] Reclamation Sage
-SB: 2 [RTR:18] Rest in Peace
-SB: 2 [EMN:40] Selfless Spirit
-SB: 1 [AVR:210] Sigarda, Host of Herons
 SB: 2 [ISD:25] Stony Silence
+SB: 2 [EMN:40] Selfless Spirit
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [C14:39] Reclamation Sage
+SB: 1 [RTR:44] Pithing Needle
+SB: 1 [M13:20] Oblivion Ring
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [ISD:181] Garruk Relentless
+SB: 1 [ALA:10] Ethersworn Canonist
+SB: 1 [C14:13] Condemn
+SB: 1 [EMN:13] Blessed Alliance
