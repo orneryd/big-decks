@@ -1,5 +1,5 @@
 # big-decks
-MTM Top8 decklists for xmage
+MTG Top8 decklists for xmage
 
 Clone it to an empty folder
 ```
