@@ -1,7 +1,11 @@
 # big-decks
 MTG Top8 decklists for xmage
 
-Clone it to an empty folder
+Install node.js 7.8 or higher and git scm
+https://nodejs.org/en/
+https://git-scm.com/
+
+Clone this repository to an empty folder
 ```
 git clone https://github.com/timothyswt/big-decks.git .
 ```
