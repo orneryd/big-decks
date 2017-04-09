@@ -11,6 +11,6 @@ git clone https://github.com/timothyswt/big-decks.git .
 ```
 Install dependencies and run the start script with npm
 ```
-npm install && npm run start
+npm install && npm run build && npm run start
 ```
 Happy netdecking!
