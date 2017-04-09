@@ -1,12 +1,10 @@
-NAME:Storm
-1 [R:293] Bayou
-1 [UNH:260] Island
+NAME:Ant
 1 [UNH:263] Swamp
 1 [R:321] Tropical Island
 1 [R:324] Volcanic Island
-2 [KTK:18] Bloodstained Mire
-2 [ZEN:240] Misty Rainforest
+2 [UNH:260] Island
 2 [R:323] Underground Sea
+4 [KTK:16] Flooded Strand
 4 [KTK:17] Polluted Delta
 4 [MI:271] Lion's Eye Diamond
 4 [TE:15] Lotus Petal
@@ -14,18 +12,20 @@ NAME:Storm
 4 [C15:40] Brainstorm
 4 [TO:106] Cabal Ritual
 4 [CST:21] Dark Ritual
+1 [ORI:202] Dark Petition
 1 [MM3:105] Past in Flames
-1 [SC:142] Tendrils of Agony
-2 [ORI:202] Dark Petition
-2 [C15:101] Preordain
-3 [JU:83] Cabal Therapy
+1 [C15:101] Preordain
+2 [SC:142] Tendrils of Agony
 3 [DTK:86] Duress
+4 [JU:83] Cabal Therapy
 4 [NPH:35] Gitaxian Probe
 4 [DIS:46] Infernal Tutor
 4 [M12:29] Ponder
+SB: 1 [SC:142] Tendrils of Agony
+SB: 2 [SC:193] Xantid Swarm
 SB: 4 [RTR:146] Abrupt Decay
-SB: 1 [C15:93] Echoing Truth
-SB: 4 [TSP:152] Empty the Warrens
-SB: 1 [NE:58] Massacre
-SB: 1 [ZEN:110] Sadistic Sacrament
-SB: 4 [M14:155] Young Pyromancer
+SB: 2 [AER:57] Fatal Push
+SB: 2 [US:240] Carpet of Flowers
+SB: 2 [C16:84] Chain of Vapor
+SB: 1 [R:293] Bayou
+SB: 1 [TSP:152] Empty the Warrens

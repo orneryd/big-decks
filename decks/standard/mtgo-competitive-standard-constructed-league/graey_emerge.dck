@@ -11,15 +11,15 @@ NAME:Emerge
 4 [SOI:90] Stitchwing Skaab
 4 [SOI:244] Fevered Visions
 3 [SOI:156] Fiery Temper
-3 [SOI:170] Lightning Axe
 4 [OGW:98] Kozilek's Return
-3 [SOI:186] Tormenting Voice
+4 [SOI:170] Lightning Axe
+2 [SOI:186] Tormenting Voice
 4 [KLD:109] Cathartic Reunion
-SB: 1 [SOI:170] Lightning Axe
-SB: 2 [BFZ:76] Dispel
-SB: 2 [EMN:133] Incendiary Flow
-SB: 1 [KLD:220] Key to the City
-SB: 3 [AER:40] Negate
-SB: 2 [AER:96] Release the Gremlins
-SB: 2 [BFZ:66] Spell Shrivel
 SB: 2 [EMN:12] Wretched Gryff
+SB: 2 [BFZ:66] Spell Shrivel
+SB: 2 [AER:96] Release the Gremlins
+SB: 3 [AER:40] Negate
+SB: 1 [KLD:220] Key to the City
+SB: 2 [EMN:133] Incendiary Flow
+SB: 2 [BFZ:76] Dispel
+SB: 1 [SOI:156] Fiery Temper
