@@ -1,28 +1,28 @@
 NAME:UR Storm
-1 [UNH:266] Mountain
-1 [ORI:357] Shivan Reef
-2 [RTR:12] Steam Vents
-3 [UNH:260] Island
-3 [ZEN:240] Misty Rainforest
-4 [ZEN:244] Scalding Tarn
+1 [PCA:150] Mountain
+1 [ORI:251] Shivan Reef
+2 [EXP:12] Steam Vents
+3 [PCA:141] Island
+3 [EXP:25] Misty Rainforest
+4 [EXP:22] Scalding Tarn
 4 [KLD:249] Spirebluff Canal
 4 [AER:28] Baral, Chief of Compliance
-4 [C15:166] Goblin Electromancer
-3 [RAV:63] Remand
-4 [CHK:110] Desperate Ritual
-4 [CHK:40] Gifts Ungiven
-4 [SHM:211] Manamorphose
+4 [C15:220] Goblin Electromancer
+3 [MM2:55] Remand
+4 [MMA:110] Desperate Ritual
+4 [MMA:46] Gifts Ungiven
+4 [MMA:191] Manamorphose
 4 [M11:153] Pyretic Ritual
-1 [TSP:152] Empty the Warrens
-2 [TSP:160] Grapeshot
-2 [8E:42] Merchant Scroll
-2 [MM3:105] Past in Flames
-4 [MM3:49] Serum Visions
-4 [9E:51] Sleight of Hand
+1 [MMA:112] Empty the Warrens
+2 [MMA:116] Grapeshot
+2 [8ED:91] Merchant Scroll
+2 [C16:131] Past in Flames
+4 [CN2:120] Serum Visions
+4 [ME4:62] Sleight of Hand
 SB: 2 [THS:112] Anger of the Gods
-SB: 2 [9E:90] Blood Moon
+SB: 2 [MMA:106] Blood Moon
 SB: 3 [BFZ:76] Dispel
 SB: 1 [C15:93] Echoing Truth
-SB: 3 [M11:162] Lightning Bolt
-SB: 2 [GP:75] Shattering Spree
-SB: 2 [TSP:152] Empty the Warrens
+SB: 3 [MM2:122] Lightning Bolt
+SB: 2 [GPT:75] Shattering Spree
+SB: 2 [MMA:112] Empty the Warrens

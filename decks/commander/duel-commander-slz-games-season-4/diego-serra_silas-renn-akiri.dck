@@ -1,101 +1,101 @@
 NAME:Silas Renn/akiri
-1 [MR:130] Ancient Den
-1 [ZEN:229] Arid Mesa
-1 [R:291] Badlands
-1 [KTK:18] Bloodstained Mire
+1 [HOP:130] Ancient Den
+1 [EXP:24] Arid Mesa
+1 [VMA:291] Badlands
+1 [EXP:18] Bloodstained Mire
 1 [C16:285] Caves of Koilos
 1 [ISD:238] Clifftop Retreat
 1 [C16:286] Command Tower
-1 [MM3:233] Crumbling Necropolis
-1 [KTK:16] Flooded Strand
-1 [TSP:164] Gemstone Mine
+1 [C16:287] Crumbling Necropolis
+1 [EXP:16] Flooded Strand
+1 [TSB:119] Gemstone Mine
 1 [M13:225] Glacial Fortress
-1 [C14:133] Great Furnace
-1 [RTR:6] Hallowed Fountain
+1 [C14:299] Great Furnace
+1 [EXP:6] Hallowed Fountain
 1 [KLD:247] Inventors' Fair
-1 [UNH:260] Island
-1 [ZEN:239] Marsh Flats
-1 [UNH:266] Mountain
+1 [PCA:141] Island
+1 [EXP:21] Marsh Flats
+1 [PCA:150] Mountain
 1 [C16:310] Mystic Monastery
-1 [UNH:257] Plains
-1 [R:308] Plateau
-1 [KTK:17] Polluted Delta
-1 [BFZ:1] Prairie Stream
-1 [CNS:328] Reflecting Pool
-1 [ZEN:244] Scalding Tarn
-1 [R:313] Scrubland
+1 [PCA:136] Plains
+1 [VMA:308] Plateau
+1 [EXP:17] Polluted Delta
+1 [EXP:1] Prairie Stream
+1 [CNS:210] Reflecting Pool
+1 [EXP:22] Scalding Tarn
+1 [VMA:313] Scrubland
 1 [SOM:229] Seachrome Coast
 1 [C16:323] Seat of the Synod
 1 [BFZ:244] Shambling Vent
-1 [ORI:357] Shivan Reef
-1 [RTR:12] Steam Vents
-1 [UNH:263] Swamp
-1 [MR:141] Vault of Whispers
-1 [ZEN:249] Verdant Catacombs
-1 [TE:248] Wasteland
-1 [GTC:7] Watery Grave
-1 [KTK:20] Windswept Heath
-1 [KTK:19] Wooded Foothills
-1 [C16:181] Baleful Strix
-1 [SOM:154] Etched Champion
+1 [ORI:251] Shivan Reef
+1 [EXP:12] Steam Vents
+1 [PCA:146] Swamp
+1 [HOP:141] Vault of Whispers
+1 [EXP:23] Verdant Catacombs
+1 [EMA:248] Wasteland
+1 [EXP:7] Watery Grave
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
+1 [PCA:82] Baleful Strix
+1 [MM2:209] Etched Champion
 1 [AER:19] Felidar Guardian
 1 [KLD:50] Glint-Nest Crane
-1 [ORI:13] Hangarback Walker
+1 [MPS:13] Hangarback Walker
 1 [AER:154] Hope of Ghirapur
-1 [SOM:4] Memnite
+1 [SOM:174] Memnite
 1 [KLD:59] Padeem, Consul of Innovation
 1 [NPH:20] Puresteel Paladin
 1 [C16:133] Slobad, Goblin Tinkerer
-1 [NPH:159] Spellskite
+1 [MM2:230] Spellskite
 1 [WWK:20] Stoneforge Mystic
-1 [ALA:202] Tidehollow Sculler
+1 [MD1:2] Tidehollow Sculler
 1 [KLD:32] Toolcraft Exemplar
-1 [ALA:154] Ajani Vengeant
-1 [CNS:199] Dack Fayden
+1 [DDH:1] Ajani Vengeant
+1 [EMA:199] Dack Fayden
 1 [CN2:74] Daretti, Ingenious Iconoclast
 1 [KLD:186] Saheeli Rai
 1 [MBS:97] Tezzeret, Agent of Bolas
-1 [6E:218] Ashnod's Altar
-1 [WWK:216] Basilisk Collar
+1 [EMA:218] Ashnod's Altar
+1 [WWK:122] Basilisk Collar
 1 [NPH:130] Batterskull
-1 [MR:9] Chrome Mox
+1 [MPS:9] Chrome Mox
 1 [C16:249] Cranial Plating
 1 [FRF:160] Hero's Blade
 1 [C16:260] Lightning Greaves
-1 [TE:15] Lotus Petal
-1 [SH:228] Mox Diamond
-1 [SOM:19] Mox Opal
+1 [MPS:15] Lotus Petal
+1 [TPR:228] Mox Diamond
+1 [MPS:19] Mox Opal
 1 [SOK:157] O-Naginata
 1 [C16:271] Skullclamp
 1 [KLD:235] Smuggler's Copter
-1 [MBS:28] Sword of Feast and Famine
-1 [NPH:51] Sword of War and Peace
+1 [MPS:28] Sword of Feast and Famine
+1 [MPS:51] Sword of War and Peace
 1 [FUT:165] Sword of the Meek
-1 [NE:139] Tangle Wire
+1 [V13:8] Tangle Wire
 1 [C16:237] Thopter Foundry
-1 [BOK:4] Umezawa's Jitte
-1 [ORI:234] Thopter Spy Network
+1 [V16:14] Umezawa's Jitte
+1 [ORI:79] Thopter Spy Network
 1 [C16:185] Boros Charm
-1 [C15:40] Brainstorm
-1 [TE:37] Diabolic Edict
-1 [6E:9] Enlightened Tutor
+1 [EMA:40] Brainstorm
+1 [TPR:102] Diabolic Edict
+1 [EMA:9] Enlightened Tutor
 1 [SOM:91] Galvanic Blast
-1 [VI:34] Impulse
-1 [M12:213] Incinerate
-1 [DTK:181] Kolaghan's Command
-1 [M11:162] Lightning Bolt
-1 [RAV:213] Lightning Helix
-1 [M15:129] Shrapnel Blast
+1 [DDN:63] Impulse
+1 [DD3_JVC:51] Incinerate
+1 [DTK:224] Kolaghan's Command
+1 [MM2:122] Lightning Bolt
+1 [DDN:65] Lightning Helix
+1 [M15:161] Shrapnel Blast
 1 [C16:78] Swords to Plowshares
-1 [MM3:194] Terminate
-1 [MR:14] Thirst for Knowledge
+1 [C16:225] Terminate
+1 [MMA:67] Thirst for Knowledge
 1 [KLD:187] Unlicensed Disintegration
-1 [DGM:135] Wear/Tear
-1 [4E:2] Balance
-1 [R:116] Demonic Tutor
-1 [M12:29] Ponder
+1 [DGM:135b] Wear/Tear
+1 [EMA:2] Balance
+1 [DD3_DVD:49] Demonic Tutor
+1 [M12:73] Ponder
 1 [C15:101] Preordain
-1 [FD:19] Steelshaper's Gift
-1 [AP:30] Vindicate
+1 [5DN:19] Steelshaper's Gift
+1 [EMA:210] Vindicate
 SB: 1 [C16:43] Silas Renn, Seeker Adept
 SB: 1 [C16:26] Akiri, Line-Slinger

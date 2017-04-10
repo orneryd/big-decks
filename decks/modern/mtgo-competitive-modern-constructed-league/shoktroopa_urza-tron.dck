@@ -1,38 +1,38 @@
 NAME:UrzaTron
-1 [TSP:269] Academy Ruins
+1 [MMA:219] Academy Ruins
 1 [SOK:164] Oboro, Palace in the Clouds
 1 [FUT:179] River of Tears
-1 [C14:44] Tectonic Edge
+1 [EXP:44] Tectonic Edge
 2 [TSP:274] Gemstone Caverns
-4 [9E:327] Urza's Mine
-4 [9E:328] Urza's Power Plant
-4 [9E:329] Urza's Tower
-6 [UNH:260] Island
+4 [ME4:257] Urza's Mine
+4 [ME4:258] Urza's Power Plant
+4 [ME4:259] Urza's Tower
+6 [PCA:141] Island
 1 [MPS:46] Platinum Angel
-1 [ISD:50] Snapcaster Mage
+1 [ISD:78] Snapcaster Mage
 1 [C16:273] Solemn Simulacrum
-1 [DS:49] Sundering Titan
-2 [MBS:6] Treasure Mage
-2 [C14:54] Wurmcoil Engine
+1 [MPS:49] Sundering Titan
+2 [MBS:34] Treasure Mage
+2 [MPS:54] Wurmcoil Engine
 1 [FRF:1] Ugin, the Spirit Dragon
-1 [FD:36] Engineered Explosives
-1 [CMD:41] Oblivion Stone
-1 [MR:253] Talisman of Dominance
-1 [MR:256] Talisman of Progress
+1 [MPS:36] Engineered Explosives
+1 [MPS:41] Oblivion Stone
+1 [MRD:253] Talisman of Dominance
+1 [MRD:256] Talisman of Progress
 2 [SOM:176] Mindslaver
-4 [ZEN:201] Expedition Map
-1 [C14:35] Cyclonic Rift
-1 [NPH:57] Dismember
+4 [MM2:213] Expedition Map
+1 [C14:104] Cyclonic Rift
+1 [MM2:79] Dismember
 3 [C15:104] Repeal
-4 [FD:27] Condescend
-4 [RAV:63] Remand
-4 [MR:14] Thirst for Knowledge
-SB: 2 [NPH:57] Dismember
-SB: 2 [MR:33] Chalice of the Void
+4 [DD3_JVC:28] Condescend
+4 [MM2:55] Remand
+4 [MMA:67] Thirst for Knowledge
+SB: 2 [MM2:79] Dismember
+SB: 2 [MPS:33] Chalice of the Void
 SB: 1 [C15:285] Ghost Quarter
-SB: 2 [10E:88] Hurkyl's Recall
+SB: 2 [MM2:48] Hurkyl's Recall
 SB: 2 [OGW:8] Spatial Contortion
-SB: 1 [ZEN:51] Spell Pierce
+SB: 1 [ZEN:67] Spell Pierce
 SB: 2 [ZEN:70] Spreading Seas
 SB: 2 [CHK:92] Squelch
-SB: 1 [NPH:33] Surgical Extraction
+SB: 1 [MM2:99] Surgical Extraction

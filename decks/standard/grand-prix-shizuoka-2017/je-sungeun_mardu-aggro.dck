@@ -1,14 +1,14 @@
 NAME:Mardu Aggro
-1 [UNH:266] Mountain
-1 [BFZ:3] Smoldering Marsh
+1 [PCA:150] Mountain
+1 [EXP:3] Smoldering Marsh
 2 [OGW:175] Needle Spires
 2 [AER:184] Spire of Industry
-3 [UNH:257] Plains
+3 [PCA:136] Plains
 3 [BFZ:244] Shambling Vent
 4 [KLD:242] Aether Hub
 4 [KLD:245] Concealed Courtyard
 4 [KLD:246] Inspiring Vantage
-2 [SOI:5] Archangel Avacyn
+2 [SOI:5a] Archangel Avacyn
 3 [EMN:46] Thalia, Heretic Cathar
 3 [AER:181] Walking Ballista
 4 [KLD:231] Scrapheap Scrounger
@@ -28,5 +28,5 @@ SB: 1 [SOI:242] Anguished Unmaking
 SB: 1 [OGW:113] Oath of Chandra
 SB: 2 [AER:96] Release the Gremlins
 SB: 2 [KLD:5] Authority of the Consuls
-SB: 1 [MPS:2] Combustible Gearhulk
-SB: 1 [SOI:5] Archangel Avacyn
+SB: 1 [MPS:4] Combustible Gearhulk
+SB: 1 [SOI:5a] Archangel Avacyn

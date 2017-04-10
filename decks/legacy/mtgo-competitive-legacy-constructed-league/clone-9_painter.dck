@@ -1,32 +1,32 @@
 NAME:Painter
-1 [ZEN:229] Arid Mesa
-1 [C14:133] Great Furnace
-1 [KTK:19] Wooded Foothills
-2 [UNH:266] Mountain
-2 [UNH:257] Plains
-3 [KTK:18] Bloodstained Mire
-3 [EX:237] City of Traitors
-4 [TE:36] Ancient Tomb
-4 [R:308] Plateau
+1 [EXP:24] Arid Mesa
+1 [C14:299] Great Furnace
+1 [EXP:19] Wooded Foothills
+2 [PCA:150] Mountain
+2 [PCA:136] Plains
+3 [EXP:18] Bloodstained Mire
+3 [TPR:237] City of Traitors
+4 [EXP:36] Ancient Tomb
+4 [VMA:308] Plateau
 1 [FUT:101] Magus of the Moon
-2 [C14:80] Goblin Welder
-2 [P3:113] Imperial Recruiter
+2 [C14:177] Goblin Welder
+2 [ME2:130] Imperial Recruiter
 2 [FRF:20] Monastery Mentor
 2 [PLC:122] Simian Spirit Guide
-4 [SHM:20] Painter's Servant
+4 [MPS:20] Painter's Servant
 1 [SOI:247] Nahiri, the Harbinger
-2 [ALA:154] Ajani Vengeant
-2 [MR:9] Chrome Mox
-3 [TE:39] Grindstone
-3 [TE:15] Lotus Petal
-4 [CHK:232] Sensei's Divining Top
-4 [9E:90] Blood Moon
+2 [DDH:1] Ajani Vengeant
+2 [MPS:9] Chrome Mox
+3 [MPS:39] Grindstone
+3 [MPS:15] Lotus Petal
+4 [EMA:232] Sensei's Divining Top
+4 [MMA:106] Blood Moon
 3 [C16:78] Swords to Plowshares
-4 [5E:142] Pyroblast
-SB: 4 [MR:33] Chalice of the Void
-SB: 1 [CMD:19] Duergar Hedge-Mage
+4 [EMA:142] Pyroblast
+SB: 4 [MPS:33] Chalice of the Void
+SB: 1 [CMD:195] Duergar Hedge-Mage
 SB: 4 [M11:101] Leyline of the Void
-SB: 1 [OD:50] Sphere of Law
-SB: 1 [EX:47] Sphere of Resistance
-SB: 3 [TSP:179] Sudden Shock
-SB: 1 [DS:52] Trinisphere
+SB: 1 [ODY:50] Sphere of Law
+SB: 1 [MPS:47] Sphere of Resistance
+SB: 3 [MMA:133] Sudden Shock
+SB: 1 [MPS:52] Trinisphere

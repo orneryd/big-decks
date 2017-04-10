@@ -1,26 +1,26 @@
 NAME:Bomberman
-2 [R:322] Tundra
-4 [TE:36] Ancient Tomb
-4 [AVR:232] Cavern of Souls
-4 [EX:237] City of Traitors
-4 [UNH:257] Plains
+2 [VMA:322] Tundra
+4 [EXP:36] Ancient Tomb
+4 [AVR:226] Cavern of Souls
+4 [TPR:237] City of Traitors
+4 [PCA:136] Plains
 2 [C16:102] Trinket Mage
-4 [FD:5] Auriok Salvagers
+4 [MMA:5] Auriok Salvagers
 4 [FRF:20] Monastery Mentor
 4 [AER:181] Walking Ballista
-4 [MR:33] Chalice of the Void
-4 [MI:271] Lion's Eye Diamond
-4 [AL:213] Lodestone Bauble
-4 [TE:15] Lotus Petal
-4 [SOM:19] Mox Opal
-4 [5E:170] Urza's Bauble
+4 [MPS:33] Chalice of the Void
+4 [VMA:271] Lion's Eye Diamond
+4 [ME2:213] Lodestone Bauble
+4 [MPS:15] Lotus Petal
+4 [MPS:19] Mox Opal
+4 [MED:170] Urza's Bauble
 4 [NPH:35] Gitaxian Probe
 SB: 4 [M11:101] Leyline of the Void
-SB: 2 [C14:3] Containment Priest
-SB: 2 [M15:122] Phyrexian Revoker
-SB: 2 [6E:140] Serenity
-SB: 1 [FUT:55] Venser, Shaper Savant
-SB: 1 [FD:36] Engineered Explosives
-SB: 1 [M14:67] Ratchet Bomb
-SB: 1 [ARENA:6] Disenchant
+SB: 2 [C14:5] Containment Priest
+SB: 2 [M15:225] Phyrexian Revoker
+SB: 2 [6ED:41] Serenity
+SB: 1 [V13:15] Venser, Shaper Savant
+SB: 1 [MPS:36] Engineered Explosives
+SB: 1 [M14:215] Ratchet Bomb
+SB: 1 [CN2:82] Disenchant
 SB: 1 [C15:93] Echoing Truth

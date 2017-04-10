@@ -2,8 +2,8 @@ NAME:Golgari Constrictor
 4 [KLD:243] Blooming Marsh
 4 [C16:294] Evolving Wilds
 4 [OGW:171] Hissing Quagmire
-5 [UNH:263] Swamp
-6 [UNH:269] Forest
+5 [PCA:146] Swamp
+6 [PCA:156] Forest
 1 [MPS:3] Noxious Gearhulk
 2 [MPS:5] Verdurous Gearhulk
 3 [AER:122] Rishkar, Peema Renegade
@@ -11,7 +11,7 @@ NAME:Golgari Constrictor
 4 [EMN:184] Grim Flayer
 4 [AER:181] Walking Ballista
 4 [AER:140] Winding Constrictor
-3 [OGW:138] Nissa, Voice of Zendikar
+3 [DDR:1] Nissa, Voice of Zendikar
 2 [KLD:146] Blossoming Defense
 3 [OGW:85] Grasp of Darkness
 4 [AER:57] Fatal Push
@@ -19,7 +19,7 @@ NAME:Golgari Constrictor
 SB: 2 [KLD:84] Gonti, Lord of Luxury
 SB: 2 [EMN:162] Ishkanah, Grafwidow
 SB: 4 [AER:118] Natural Obsolescence
-SB: 1 [BFZ:119] Ob Nixilis Reignited
+SB: 1 [DDR:36] Ob Nixilis Reignited
 SB: 2 [SOI:129] Pick the Brain
 SB: 2 [SOI:139] To the Slaughter
 SB: 2 [BFZ:101] Transgress the Mind

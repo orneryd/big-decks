@@ -1,37 +1,37 @@
 NAME:Ad Nauseam
-1 [KTK:16] Flooded Strand
-1 [RTR:6] Hallowed Fountain
-1 [UNH:260] Island
-1 [UNH:257] Plains
-1 [RTR:12] Steam Vents
-1 [UNH:263] Swamp
-1 [M15:165] Urborg, Tomb of Yawgmoth
-1 [GTC:7] Watery Grave
-2 [KTK:17] Polluted Delta
-3 [TSP:164] Gemstone Mine
+1 [EXP:16] Flooded Strand
+1 [EXP:6] Hallowed Fountain
+1 [PCA:141] Island
+1 [PCA:136] Plains
+1 [EXP:12] Steam Vents
+1 [PCA:146] Swamp
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [EXP:7] Watery Grave
+2 [EXP:17] Polluted Delta
+3 [TSB:119] Gemstone Mine
 3 [BNG:163] Temple of Enlightenment
 4 [THS:225] Temple of Deceit
 4 [PLC:122] Simian Spirit Guide
-3 [FD:122] Pentad Prism
-4 [TSP:259] Lotus Bloom
+3 [HOP:122] Pentad Prism
+4 [MMA:208] Lotus Bloom
 3 [NPH:18] Phyrexian Unlife
-1 [CHK:110] Desperate Ritual
-1 [CS:89] Lightning Storm
-1 [TSP:44] Mystical Teachings
-1 [FUT:97] Slaughter Pact
-3 [FUT:16] Pact of Negation
-3 [CHK:57] Peer Through Depths
+1 [MMA:110] Desperate Ritual
+1 [CSP:89] Lightning Storm
+1 [TSP:69] Mystical Teachings
+1 [MMA:97] Slaughter Pact
+3 [MMA:56] Pact of Negation
+3 [MMA:57] Peer Through Depths
 4 [ALA:63] Ad Nauseam
-4 [TSP:3] Angel's Grace
-4 [MM3:49] Serum Visions
-4 [9E:51] Sleight of Hand
-SB: 1 [FUT:16] Pact of Negation
+4 [MMA:4] Angel's Grace
+4 [CN2:120] Serum Visions
+4 [ME4:62] Sleight of Hand
+SB: 1 [MMA:56] Pact of Negation
 SB: 1 [ISD:61] Laboratory Maniac
-SB: 4 [M11:23] Leyline of Sanctity
-SB: 2 [TSP:40] Darkness
-SB: 1 [ARENA:6] Disenchant
+SB: 4 [MM2:23] Leyline of Sanctity
+SB: 2 [TSB:40] Darkness
+SB: 1 [CN2:82] Disenchant
 SB: 1 [C15:93] Echoing Truth
 SB: 2 [AER:57] Fatal Push
-SB: 1 [10E:88] Hurkyl's Recall
-SB: 1 [PLC:63] Damnation
+SB: 1 [MM2:48] Hurkyl's Recall
+SB: 1 [PLC:85] Damnation
 SB: 1 [M12:40] Timely Reinforcements

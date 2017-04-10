@@ -1,14 +1,14 @@
 NAME:CopyCat
-1 [BFZ:4] Cinder Glade
+1 [EXP:4] Cinder Glade
 1 [SOI:276] Game Trail
-1 [UNH:260] Island
-1 [UNH:257] Plains
+1 [PCA:141] Island
+1 [PCA:136] Plains
 1 [KLD:249] Spirebluff Canal
 2 [BFZ:239] Lumbering Falls
-2 [UNH:266] Mountain
+2 [PCA:150] Mountain
 4 [KLD:242] Aether Hub
 4 [KLD:244] Botanical Sanctum
-4 [UNH:269] Forest
+4 [PCA:156] Forest
 1 [SOI:233] Tireless Tracker
 2 [KLD:190] Whirler Virtuoso
 4 [AER:19] Felidar Guardian

@@ -3,23 +3,23 @@ NAME:Emerge
 2 [BFZ:242] Sanctum of Ugin
 4 [KLD:249] Spirebluff Canal
 4 [OGW:182] Wandering Fumarole
-6 [UNH:260] Island
-6 [UNH:266] Mountain
+6 [PCA:141] Island
+6 [PCA:150] Mountain
 4 [EMN:49] Advanced Stitchwing
 4 [EMN:5] Elder Deep-Fiend
 4 [SOI:249] Prized Amalgam
 4 [SOI:90] Stitchwing Skaab
 4 [SOI:244] Fevered Visions
 3 [SOI:156] Fiery Temper
-3 [SOI:170] Lightning Axe
 4 [OGW:98] Kozilek's Return
-3 [SOI:186] Tormenting Voice
+4 [SOI:170] Lightning Axe
+2 [CN2:171] Tormenting Voice
 4 [KLD:109] Cathartic Reunion
-SB: 1 [SOI:170] Lightning Axe
-SB: 2 [BFZ:76] Dispel
-SB: 2 [EMN:133] Incendiary Flow
-SB: 1 [KLD:220] Key to the City
-SB: 3 [AER:40] Negate
-SB: 2 [AER:96] Release the Gremlins
-SB: 2 [BFZ:66] Spell Shrivel
 SB: 2 [EMN:12] Wretched Gryff
+SB: 2 [BFZ:66] Spell Shrivel
+SB: 2 [AER:96] Release the Gremlins
+SB: 3 [AER:40] Negate
+SB: 1 [KLD:220] Key to the City
+SB: 2 [EMN:133] Incendiary Flow
+SB: 2 [BFZ:76] Dispel
+SB: 1 [SOI:156] Fiery Temper

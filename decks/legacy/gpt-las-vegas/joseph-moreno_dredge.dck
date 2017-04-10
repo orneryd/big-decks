@@ -1,28 +1,28 @@
 NAME:Dredge
-2 [8E:6] City of Brass
-3 [TSP:164] Gemstone Mine
-4 [OD:317] Cephalid Coliseum
-4 [JOU:42] Mana Confluence
+2 [MD1:15] City of Brass
+3 [TSB:119] Gemstone Mine
+4 [V12:3] Cephalid Coliseum
+4 [EXP:42] Mana Confluence
 2 [SOI:249] Prized Amalgam
-3 [RAV:87] Golgari Thug
-3 [TO:93] Ichorid
-3 [FUT:99] Street Wraith
-4 [RAV:167] Golgari Grave-Troll
-4 [FUT:55] Narcomoeba
-4 [RAV:107] Stinkweed Imp
-4 [MI:271] Lion's Eye Diamond
-4 [FUT:74] Bridge from Below
-1 [C14:55] Dread Return
-3 [CNS:26] Breakthrough
-4 [JU:83] Cabal Therapy
-4 [OD:70] Careful Study
-4 [C15:128] Faithless Looting
-SB: 1 [CNS:26] Breakthrough
-SB: 1 [C14:55] Dread Return
-SB: 1 [8E:6] City of Brass
-SB: 4 [AL:14] Force of Will
-SB: 1 [ZEN:13] Iona, Shield of Emeria
+3 [DDJ:48] Golgari Thug
+3 [EMA:93] Ichorid
+3 [MMA:99] Street Wraith
+4 [DDJ:60] Golgari Grave-Troll
+4 [MMA:55] Narcomoeba
+4 [DD3_DVD:36] Stinkweed Imp
+4 [VMA:271] Lion's Eye Diamond
+4 [MMA:74] Bridge from Below
+1 [DDQ:55] Dread Return
+3 [CNS:92] Breakthrough
+4 [EMA:83] Cabal Therapy
+4 [ODY:70] Careful Study
+4 [EMA:128] Faithless Looting
+SB: 1 [CNS:92] Breakthrough
+SB: 1 [DDQ:55] Dread Return
+SB: 1 [MD1:15] City of Brass
+SB: 4 [EMA:49] Force of Will
+SB: 1 [V15:9] Iona, Shield of Emeria
 SB: 1 [THS:187] Ashen Rider
 SB: 3 [KLD:14] Fragmentize
-SB: 1 [ISD:88] Ancient Grudge
-SB: 2 [MM:168] Unmask
+SB: 1 [ISD:127] Ancient Grudge
+SB: 2 [V16:15] Unmask

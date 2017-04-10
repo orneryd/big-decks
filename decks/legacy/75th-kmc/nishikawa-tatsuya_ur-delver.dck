@@ -1,32 +1,32 @@
 NAME:Ur Delver
-2 [KTK:18] Bloodstained Mire
-2 [UNH:260] Island
-2 [UNH:266] Mountain
-3 [KTK:16] Flooded Strand
-3 [R:324] Volcanic Island
-4 [ZEN:244] Scalding Tarn
+2 [EXP:18] Bloodstained Mire
+2 [PCA:141] Island
+2 [PCA:150] Mountain
+3 [EXP:16] Flooded Strand
+3 [VMA:324] Volcanic Island
+4 [EXP:22] Scalding Tarn
 1 [EMN:118] Bedlam Reveler
 2 [C13:63] True-Name Nemesis
 3 [OGW:159] Stormchaser Mage
-4 [ISD:51] Delver of Secrets
+4 [ISD:51a] Delver of Secrets
 4 [KTK:118] Monastery Swiftspear
-1 [CMD:198] Fire/Ice
-2 [EX:141] Price of Progress
-4 [C15:40] Brainstorm
-4 [NE:12] Daze
-4 [AL:14] Force of Will
-4 [M11:162] Lightning Bolt
-4 [LG:26] Chain Lightning
+1 [DDJ:32b] Fire/Ice
+2 [EMA:141] Price of Progress
+4 [EMA:40] Brainstorm
+4 [EMA:44] Daze
+4 [EMA:49] Force of Will
+4 [MM2:122] Lightning Bolt
+4 [EMA:123] Chain Lightning
 4 [NPH:35] Gitaxian Probe
-4 [M12:29] Ponder
-SB: 1 [EX:141] Price of Progress
-SB: 2 [5E:142] Pyroblast
-SB: 2 [CMD:68] Flusterstorm
-SB: 2 [ORI:107] Smash to Smithereens
-SB: 2 [NPH:33] Surgical Extraction
-SB: 1 [8E:37] Ensnaring Bridge
-SB: 1 [CNS:150] Sulfuric Vortex
-SB: 1 [M12:100] Grim Lavamancer
-SB: 1 [NPH:57] Dismember
-SB: 1 [RTR:44] Pithing Needle
+4 [M12:73] Ponder
+SB: 1 [EMA:141] Price of Progress
+SB: 2 [EMA:142] Pyroblast
+SB: 2 [VMA:68] Flusterstorm
+SB: 2 [ORI:163] Smash to Smithereens
+SB: 2 [MM2:99] Surgical Extraction
+SB: 1 [MPS:37] Ensnaring Bridge
+SB: 1 [EMA:150] Sulfuric Vortex
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [MM2:79] Dismember
+SB: 1 [MPS:44] Pithing Needle
 SB: 1 [PLC:108] Sulfur Elemental

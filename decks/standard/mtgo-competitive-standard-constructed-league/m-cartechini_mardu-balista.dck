@@ -1,9 +1,9 @@
 NAME:Mardu Balista
 1 [OGW:175] Needle Spires
 1 [BFZ:244] Shambling Vent
-2 [UNH:266] Mountain
-2 [UNH:257] Plains
-2 [UNH:263] Swamp
+2 [PCA:150] Mountain
+2 [PCA:136] Plains
+2 [PCA:146] Swamp
 4 [KLD:242] Aether Hub
 4 [KLD:245] Concealed Courtyard
 4 [KLD:246] Inspiring Vantage
@@ -21,7 +21,7 @@ NAME:Mardu Balista
 4 [AER:153] Heart of Kiran
 4 [AER:57] Fatal Push
 4 [KLD:187] Unlicensed Disintegration
-SB: 1 [BFZ:135] Ruinous Path
+SB: 1 [BFZ:123] Ruinous Path
 SB: 3 [AER:96] Release the Gremlins
 SB: 2 [BFZ:120] Painful Truths
 SB: 2 [EMN:99] Oath of Liliana

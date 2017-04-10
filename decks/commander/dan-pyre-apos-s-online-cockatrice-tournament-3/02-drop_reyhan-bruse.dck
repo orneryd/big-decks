@@ -1,101 +1,101 @@
 NAME:Reyhan/bruse
-1 [ZEN:229] Arid Mesa
-1 [R:291] Badlands
-1 [R:293] Bayou
-1 [RTR:8] Blood Crypt
-1 [KTK:18] Bloodstained Mire
+1 [EXP:24] Arid Mesa
+1 [VMA:291] Badlands
+1 [VMA:293] Bayou
+1 [EXP:8] Blood Crypt
+1 [EXP:18] Bloodstained Mire
 1 [KLD:243] Blooming Marsh
 1 [10E:349] Brushland
 1 [C16:285] Caves of Koilos
-1 [8E:6] City of Brass
+1 [MD1:15] City of Brass
 1 [C16:286] Command Tower
 1 [SOM:225] Copperline Gorge
-1 [FUT:174] Dryad Arbor
-1 [KTK:16] Flooded Strand
-1 [UNH:269] Forest
-1 [GTC:11] Godless Shrine
-1 [FUT:176] Grove of the Burnwillows
-1 [FUT:40] Horizon Canopy
+1 [V12:5] Dryad Arbor
+1 [EXP:16] Flooded Strand
+1 [PCA:156] Forest
+1 [EXP:11] Godless Shrine
+1 [V12:8] Grove of the Burnwillows
+1 [EXP:40] Horizon Canopy
 1 [C16:305] Karplusan Forest
-1 [ORI:355] Llanowar Wastes
-1 [JOU:42] Mana Confluence
-1 [ZEN:239] Marsh Flats
-1 [ZEN:240] Misty Rainforest
-1 [RTR:13] Overgrown Tomb
-1 [R:308] Plateau
-1 [KTK:17] Polluted Delta
+1 [ORI:248] Llanowar Wastes
+1 [EXP:42] Mana Confluence
+1 [EXP:21] Marsh Flats
+1 [EXP:25] Misty Rainforest
+1 [EXP:13] Overgrown Tomb
+1 [VMA:308] Plateau
+1 [EXP:17] Polluted Delta
 1 [SOM:228] Razorverge Thicket
-1 [GTC:14] Sacred Foundry
-1 [R:311] Savannah
-1 [ZEN:244] Scalding Tarn
-1 [R:313] Scrubland
-1 [WWK:33] Stirring Wildwood
-1 [GTC:9] Stomping Ground
-1 [R:317] Taiga
-1 [RTR:10] Temple Garden
-1 [10E:143] Treetop Village
-1 [ZEN:249] Verdant Catacombs
-1 [KTK:20] Windswept Heath
-1 [SHM:30] Wooded Bastion
-1 [KTK:19] Wooded Foothills
-1 [KTK:89] Anafenza, the Foremost
-1 [M13:95] Arbor Elf
-1 [ISD:119] Avacyn's Pilgrim
-1 [MBP:28] Birds of Paradise
-1 [RAV:81] Dark Confidant
-1 [RTR:215] Deathrite Shaman
-1 [LRW:10] Doran, the Siege Tower
-1 [RAV:39] Elves of Deep Shadow
-1 [C14:173] Elvish Mystic
+1 [EXP:14] Sacred Foundry
+1 [VMA:311] Savannah
+1 [EXP:22] Scalding Tarn
+1 [VMA:313] Scrubland
+1 [DDP:33] Stirring Wildwood
+1 [EXP:9] Stomping Ground
+1 [VMA:317] Taiga
+1 [EXP:10] Temple Garden
+1 [DDR:30] Treetop Village
+1 [EXP:23] Verdant Catacombs
+1 [EXP:20] Windswept Heath
+1 [EXP:30] Wooded Bastion
+1 [EXP:19] Wooded Foothills
+1 [KTK:163] Anafenza, the Foremost
+1 [M13:160] Arbor Elf
+1 [ISD:170] Avacyn's Pilgrim
+1 [CN2:176] Birds of Paradise
+1 [MM2:75] Dark Confidant
+1 [EMA:215] Deathrite Shaman
+1 [V11:3] Doran, the Siege Tower
+1 [DDJ:47] Elves of Deep Shadow
+1 [C14:191] Elvish Mystic
 1 [THS:193] Fleecemane Lion
-1 [M13:166] Flinthoof Boar
-1 [IA:210] Fyndhorn Elves
+1 [EMA:166] Flinthoof Boar
+1 [VMA:210] Fyndhorn Elves
 1 [EMN:184] Grim Flayer
-1 [CFX:178] Knight of the Reliquary
-1 [C14:175] Llanowar Elves
+1 [MMA:178] Knight of the Reliquary
+1 [EMA:175] Llanowar Elves
 1 [ZEN:168] Lotus Cobra
-1 [ARB:51] Putrid Leech
-1 [ARB:124] Qasali Pridemage
+1 [DDM:51] Putrid Leech
+1 [DDH:10] Qasali Pridemage
 1 [C16:41] Saskia the Unyielding
-1 [MM3:134] Scavenging Ooze
-1 [KTK:133] Siege Rhino
+1 [C16:166] Scavenging Ooze
+1 [KTK:200] Siege Rhino
 1 [WWK:20] Stoneforge Mystic
-1 [FUT:141] Tarmogoyf
-1 [ALA:202] Tidehollow Sculler
-1 [DGM:200] Voice of Resurgence
+1 [MM2:165] Tarmogoyf
+1 [MD1:2] Tidehollow Sculler
+1 [DGM:114] Voice of Resurgence
 1 [KLD:189] Voltaic Brawler
-1 [RAV:239] Watchwolf
-1 [ALA:152] Wild Nacatl
-1 [ALA:203] Woolly Thoctar
-1 [ALA:9] Elspeth, Knight-Errant
-1 [MR:9] Chrome Mox
+1 [ARC:100] Watchwolf
+1 [DDH:4] Wild Nacatl
+1 [DDH:13] Woolly Thoctar
+1 [MD1:13] Elspeth, Knight-Errant
+1 [MPS:9] Chrome Mox
 1 [C16:271] Skullclamp
-1 [BOK:4] Umezawa's Jitte
-1 [5E:234] Winter Orb
-1 [NE:37] Parallax Wave
-1 [M13:180] Rancor
-1 [RTR:146] Abrupt Decay
-1 [NPH:57] Dismember
-1 [DTK:175] Dromoka's Command
-1 [6E:9] Enlightened Tutor
+1 [V16:14] Umezawa's Jitte
+1 [EMA:234] Winter Orb
+1 [VMA:37] Parallax Wave
+1 [PCA:76] Rancor
+1 [RTR:141] Abrupt Decay
+1 [MM2:79] Dismember
+1 [DTK:221] Dromoka's Command
+1 [EMA:9] Enlightened Tutor
 1 [MBS:43] Go for the Throat
-1 [M11:162] Lightning Bolt
-1 [RAV:213] Lightning Helix
-1 [CMD:17] Path to Exile
+1 [MM2:122] Lightning Bolt
+1 [DDN:65] Lightning Helix
+1 [MD1:3] Path to Exile
 1 [C16:78] Swords to Plowshares
-1 [OD:164] Tainted Pact
-1 [MM3:194] Terminate
+1 [ODY:164] Tainted Pact
+1 [C16:225] Terminate
 1 [M15:119] Ulcerate
-1 [LG:26] Chain Lightning
+1 [EMA:123] Chain Lightning
 1 [EMN:85] Collective Brutality
-1 [R:116] Demonic Tutor
+1 [DD3_DVD:49] Demonic Tutor
 1 [RTR:157] Dreadbore
-1 [DTK:86] Duress
-1 [MBS:169] Green Sun's Zenith
-1 [MM3:75] Inquisition of Kozilek
-1 [ARB:29] Maelstrom Pulse
+1 [EMA:86] Duress
+1 [EMA:169] Green Sun's Zenith
+1 [CN2:140] Inquisition of Kozilek
+1 [MMA:180] Maelstrom Pulse
 1 [THS:107] Thoughtseize
-1 [C13:108] Toxic Deluge
-1 [AP:30] Vindicate
+1 [EMA:108] Toxic Deluge
+1 [EMA:210] Vindicate
 SB: 1 [C16:40] Reyhan, Last of the Abzan
 SB: 1 [C16:30] Bruse Tarl, Boorish Herder

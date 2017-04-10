@@ -1,42 +1,42 @@
 NAME:Monastery
-1 [AN:303] Library of Alexandria
-1 [KTK:17] Polluted Delta
-1 [4E:43] Strip Mine
-2 [R:321] Tropical Island
-2 [R:324] Volcanic Island
-3 [ZEN:244] Scalding Tarn
-3 [R:322] Tundra
-4 [KTK:16] Flooded Strand
-2 [ORI:995] Jace, Vryn's Prodigy
+1 [VMA:303] Library of Alexandria
+1 [EXP:17] Polluted Delta
+1 [EXP:43] Strip Mine
+2 [VMA:321] Tropical Island
+2 [VMA:324] Volcanic Island
+3 [EXP:22] Scalding Tarn
+3 [VMA:322] Tundra
+4 [EXP:16] Flooded Strand
+2 [ORI:60a] Jace, Vryn's Prodigy
 4 [FRF:20] Monastery Mentor
-2 [CNS:199] Dack Fayden
-2 [WWK:57] Jace, the Mind Sculptor
-1 [U:4] Black Lotus
-1 [U:5] Mox Emerald
-1 [U:6] Mox Jet
-1 [U:7] Mox Pearl
-1 [U:8] Mox Ruby
-1 [U:9] Mox Sapphire
-2 [5E:187] Sylvan Library
-1 [U:1] Ancestral Recall
-1 [C15:40] Brainstorm
-1 [KTK:97] Dig Through Time
-2 [5E:142] Pyroblast
-3 [MM:72] Gush
+2 [EMA:199] Dack Fayden
+2 [EMA:57] Jace, the Mind Sculptor
+1 [VMA:4] Black Lotus
+1 [VMA:5] Mox Emerald
+1 [VMA:6] Mox Jet
+1 [VMA:7] Mox Pearl
+1 [VMA:8] Mox Ruby
+1 [VMA:9] Mox Sapphire
+2 [EMA:187] Sylvan Library
+1 [VMA:1] Ancestral Recall
+1 [EMA:40] Brainstorm
+1 [KTK:36] Dig Through Time
+2 [EMA:142] Pyroblast
+3 [DD3_JVC:27] Gush
 3 [NPH:38] Mental Misstep
-4 [AL:14] Force of Will
+4 [EMA:49] Force of Will
 4 [C16:78] Swords to Plowshares
-1 [M12:29] Ponder
-1 [U:2] Time Walk
+1 [M12:73] Ponder
+1 [VMA:2] Time Walk
 1 [C16:101] Treasure Cruise
 3 [NPH:35] Gitaxian Probe
-SB: 1 [5E:142] Pyroblast
-SB: 2 [C14:115] Tormod's Crypt
-SB: 1 [RTR:56] Supreme Verdict
+SB: 1 [EMA:142] Pyroblast
+SB: 2 [C14:278] Tormod's Crypt
+SB: 1 [RTR:201] Supreme Verdict
 SB: 1 [RTR:18] Rest in Peace
 SB: 1 [ZEN:57] Mindbreak Trap
-SB: 4 [C14:180] Ingot Chewer
-SB: 1 [CMD:68] Flusterstorm
-SB: 1 [DTK:171] Dragonlord Dromoka
-SB: 2 [C14:3] Containment Priest
-SB: 1 [ISD:88] Ancient Grudge
+SB: 4 [DD3_JVC:45] Ingot Chewer
+SB: 1 [VMA:68] Flusterstorm
+SB: 1 [DTK:217] Dragonlord Dromoka
+SB: 2 [C14:5] Containment Priest
+SB: 1 [ISD:127] Ancient Grudge

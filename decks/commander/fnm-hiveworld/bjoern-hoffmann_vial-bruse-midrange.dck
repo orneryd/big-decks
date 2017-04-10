@@ -1,101 +1,101 @@
 NAME:Vial/bruse Midrange
-1 [ZEN:229] Arid Mesa
-1 [RTR:8] Blood Crypt
-1 [KTK:18] Bloodstained Mire
+1 [EXP:24] Arid Mesa
+1 [EXP:8] Blood Crypt
+1 [EXP:18] Bloodstained Mire
 1 [C16:285] Caves of Koilos
-1 [8E:6] City of Brass
+1 [MD1:15] City of Brass
 1 [ISD:238] Clifftop Retreat
 1 [C16:286] Command Tower
 1 [C16:292] Dragonskull Summit
-1 [MM:37] Dust Bowl
-1 [KTK:16] Flooded Strand
-1 [GTC:11] Godless Shrine
-1 [SHM:28] Graven Cairns
-1 [ISD:242] Isolated Chapel
+1 [EXP:37] Dust Bowl
+1 [EXP:16] Flooded Strand
+1 [EXP:11] Godless Shrine
+1 [EXP:28] Graven Cairns
+1 [MD1:16] Isolated Chapel
 1 [WWK:139] Lavaclaw Reaches
-1 [ZEN:239] Marsh Flats
-1 [UNH:266] Mountain
+1 [EXP:21] Marsh Flats
+1 [PCA:150] Mountain
 1 [OGW:175] Needle Spires
-1 [UNH:257] Plains
-1 [R:308] Plateau
-1 [KTK:17] Polluted Delta
-1 [CNS:328] Reflecting Pool
-1 [GTC:14] Sacred Foundry
+1 [PCA:136] Plains
+1 [VMA:308] Plateau
+1 [EXP:17] Polluted Delta
+1 [CNS:210] Reflecting Pool
+1 [EXP:14] Sacred Foundry
 1 [C16:325] Shadowblood Ridge
 1 [BFZ:244] Shambling Vent
 1 [CHK:282] Shinka, the Bloodsoaked Keep
 1 [CHK:283] Shizo, Death's Storehouse
-1 [CS:244] Snow-Covered Mountain
-1 [CS:241] Snow-Covered Plains
-1 [CS:243] Snow-Covered Swamp
+1 [ME2:244] Snow-Covered Mountain
+1 [ME2:241] Snow-Covered Plains
+1 [ME2:243] Snow-Covered Swamp
 1 [10E:359] Sulfurous Springs
-1 [UNH:263] Swamp
-1 [TO:142] Tainted Peak
-1 [C14:44] Tectonic Edge
+1 [PCA:146] Swamp
+1 [TOR:142] Tainted Peak
+1 [EXP:44] Tectonic Edge
 1 [BNG:164] Temple of Malice
 1 [THS:227] Temple of Silence
-1 [TE:248] Wasteland
-1 [KTK:20] Windswept Heath
-1 [KTK:19] Wooded Foothills
-1 [C14:47] Abyssal Persecutor
-1 [SOI:5] Archangel Avacyn
-1 [FUT:3] Aven Mindcensor
+1 [EMA:248] Wasteland
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
+1 [C14:132] Abyssal Persecutor
+1 [SOI:5a] Archangel Avacyn
+1 [FUT:18] Aven Mindcensor
 1 [BNG:5] Brimaz, King of Oreskos
-1 [KTK:93] Butcher of the Horde
-1 [RAV:81] Dark Confidant
-1 [C14:107] Drana, Kalastria Bloodchief
+1 [KTK:168] Butcher of the Horde
+1 [MM2:75] Dark Confidant
+1 [C14:141] Drana, Kalastria Bloodchief
 1 [BFZ:109] Drana, Liberator of Malakir
-1 [DKA:163] Falkenrath Aristocrat
-1 [C14:160] Flametongue Kavu
-1 [OGW:148] Goblin Dark-Dwellers
-1 [M12:100] Grim Lavamancer
+1 [DKA:138] Falkenrath Aristocrat
+1 [DD3_JVC:42] Flametongue Kavu
+1 [OGW:110] Goblin Dark-Dwellers
+1 [M12:145] Grim Lavamancer
 1 [FRF:20] Monastery Mentor
-1 [CMD:22] Mother of Runes
+1 [EMA:22] Mother of Runes
 1 [DTK:27] Ojutai Exemplars
-1 [ISD:177] Olivia Voldaren
+1 [ISD:215] Olivia Voldaren
 1 [EMN:40] Selfless Spirit
 1 [WWK:20] Stoneforge Mystic
 1 [THS:143] Stormbreath Dragon
 1 [EMN:46] Thalia, Heretic Cathar
-1 [ALA:202] Tidehollow Sculler
-1 [ALA:154] Ajani Vengeant
+1 [MD1:2] Tidehollow Sculler
+1 [DDH:1] Ajani Vengeant
 1 [KLD:110] Chandra, Torch of Defiance
 1 [CN2:74] Daretti, Ingenious Iconoclast
-1 [ALA:9] Elspeth, Knight-Errant
+1 [MD1:13] Elspeth, Knight-Errant
 1 [KTK:119] Sarkhan, the Dragonspeaker
 1 [NPH:130] Batterskull
 1 [C16:260] Lightning Greaves
 1 [KLD:235] Smuggler's Copter
-1 [BOK:4] Umezawa's Jitte
-1 [MOR:58] Bitterblossom
-1 [C15:130] Phyrexian Arena
+1 [V16:14] Umezawa's Jitte
+1 [MM2:71] Bitterblossom
+1 [CN2:144] Phyrexian Arena
 1 [SOI:242] Anguished Unmaking
-1 [ZEN:119] Burst Lightning
+1 [MM2:109] Burst Lightning
 1 [C16:191] Crackling Doom
 1 [AER:57] Fatal Push
-1 [IA:145] Fire Covenant
-1 [DTK:181] Kolaghan's Command
-1 [M11:162] Lightning Bolt
-1 [RAV:213] Lightning Helix
-1 [C14:161] Skeletal Scrying
+1 [MED:145] Fire Covenant
+1 [DTK:224] Kolaghan's Command
+1 [MM2:122] Lightning Bolt
+1 [DDN:65] Lightning Helix
+1 [C14:162] Skeletal Scrying
 1 [C16:78] Swords to Plowshares
-1 [OD:164] Tainted Pact
-1 [MM3:194] Terminate
-1 [TO:108] Chainer's Edict
-1 [CNS:20] Council's Judgment
+1 [ODY:164] Tainted Pact
+1 [C16:225] Terminate
+1 [VMA:108] Chainer's Edict
+1 [VMA:20] Council's Judgment
 1 [SOI:12] Declaration in Stone
-1 [R:116] Demonic Tutor
+1 [DD3_DVD:49] Demonic Tutor
 1 [RTR:157] Dreadbore
-1 [DTK:86] Duress
-1 [ROE:145] Flame Slash
-1 [AP:82] Gerrard's Verdict
-1 [FE:92] Hymn to Tourach
-1 [MM3:75] Inquisition of Kozilek
-1 [DKA:12] Lingering Souls
-1 [FD:100] Night's Whisper
+1 [EMA:86] Duress
+1 [CN2:157] Flame Slash
+1 [APC:102] Gerrard's Verdict
+1 [EMA:92] Hymn to Tourach
+1 [CN2:140] Inquisition of Kozilek
+1 [MD1:11] Lingering Souls
+1 [EMA:100] Night's Whisper
 1 [C13:124] Sudden Demise
 1 [THS:107] Thoughtseize
-1 [C13:108] Toxic Deluge
-1 [AP:30] Vindicate
+1 [EMA:108] Toxic Deluge
+1 [EMA:210] Vindicate
 SB: 1 [C16:49] Vial Smasher the Fierce
 SB: 1 [C16:30] Bruse Tarl, Boorish Herder

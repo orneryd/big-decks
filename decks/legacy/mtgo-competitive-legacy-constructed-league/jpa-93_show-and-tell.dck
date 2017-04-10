@@ -1,32 +1,32 @@
 NAME:Show and Tell
-1 [UNH:266] Mountain
-2 [EX:237] City of Traitors
-3 [TE:36] Ancient Tomb
-3 [KTK:16] Flooded Strand
-3 [UNH:260] Island
-3 [R:324] Volcanic Island
-4 [ZEN:244] Scalding Tarn
-4 [ROE:163] Emrakul, the Aeons Torn
-4 [AVR:72] Griselbrand
-4 [TE:15] Lotus Petal
+1 [PCA:150] Mountain
+2 [TPR:237] City of Traitors
+3 [EXP:36] Ancient Tomb
+3 [EXP:16] Flooded Strand
+3 [PCA:141] Island
+3 [VMA:324] Volcanic Island
+4 [EXP:22] Scalding Tarn
+4 [MM2:3] Emrakul, the Aeons Torn
+4 [AVR:106] Griselbrand
+4 [MPS:15] Lotus Petal
 2 [M13:63] Omniscience
-4 [US:148] Sneak Attack
-3 [ZEN:51] Spell Pierce
-4 [C15:40] Brainstorm
-4 [AL:14] Force of Will
-4 [M12:29] Ponder
+4 [EMA:148] Sneak Attack
+3 [ZEN:67] Spell Pierce
+4 [EMA:40] Brainstorm
+4 [EMA:49] Force of Will
+4 [M12:73] Ponder
 4 [C15:101] Preordain
-4 [USG:96] Show and Tell
-SB: 1 [MOR:55] Vendilion Clique
+4 [CN2:121] Show and Tell
+SB: 1 [MM2:67] Vendilion Clique
 SB: 1 [CHK:193] Through the Breach
-SB: 1 [4E:170] Red Elemental Blast
-SB: 2 [M11:107] Pyroclasm
-SB: 1 [5E:142] Pyroblast
-SB: 1 [WWK:57] Jace, the Mind Sculptor
-SB: 1 [M12:100] Grim Lavamancer
+SB: 1 [ME4:131] Red Elemental Blast
+SB: 2 [DDL:63] Pyroclasm
+SB: 1 [EMA:142] Pyroblast
+SB: 1 [EMA:57] Jace, the Mind Sculptor
+SB: 1 [M12:145] Grim Lavamancer
 SB: 1 [KLD:110] Chandra, Torch of Defiance
-SB: 1 [FD:36] Engineered Explosives
-SB: 1 [CMD:68] Flusterstorm
-SB: 1 [DKA:221] Grafdigger's Cage
-SB: 1 [CHK:2] Boseiju, Who Shelters All
-SB: 2 [9E:90] Blood Moon
+SB: 1 [MPS:36] Engineered Explosives
+SB: 1 [VMA:68] Flusterstorm
+SB: 1 [DKA:149] Grafdigger's Cage
+SB: 1 [V12:2] Boseiju, Who Shelters All
+SB: 2 [MMA:106] Blood Moon

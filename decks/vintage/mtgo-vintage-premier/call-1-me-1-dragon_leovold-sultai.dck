@@ -1,45 +1,45 @@
 NAME:Leovold Sultai
-1 [R:293] Bayou
-1 [UNH:260] Island
-1 [ZEN:244] Scalding Tarn
-1 [4E:43] Strip Mine
-2 [R:321] Tropical Island
-3 [ZEN:240] Misty Rainforest
-3 [KTK:17] Polluted Delta
-3 [R:323] Underground Sea
-3 [TE:248] Wasteland
-1 [ORI:995] Jace, Vryn's Prodigy
+1 [VMA:293] Bayou
+1 [PCA:141] Island
+1 [EXP:22] Scalding Tarn
+1 [EXP:43] Strip Mine
+2 [VMA:321] Tropical Island
+3 [EXP:25] Misty Rainforest
+3 [EXP:17] Polluted Delta
+3 [VMA:323] Underground Sea
+3 [EMA:248] Wasteland
+1 [ORI:60a] Jace, Vryn's Prodigy
 2 [CN2:77] Leovold, Emissary of Trest
-3 [ISD:50] Snapcaster Mage
-4 [RTR:215] Deathrite Shaman
-2 [WWK:57] Jace, the Mind Sculptor
-1 [U:4] Black Lotus
-1 [10E:11] Crucible of Worlds
-1 [U:5] Mox Emerald
-1 [U:6] Mox Jet
-1 [U:9] Mox Sapphire
-1 [WL:154] Null Rod
-1 [U:1] Ancestral Recall
-1 [C15:40] Brainstorm
-1 [KTK:97] Dig Through Time
-1 [CMD:68] Flusterstorm
+3 [ISD:78] Snapcaster Mage
+4 [EMA:215] Deathrite Shaman
+2 [EMA:57] Jace, the Mind Sculptor
+1 [VMA:4] Black Lotus
+1 [MPS:11] Crucible of Worlds
+1 [VMA:5] Mox Emerald
+1 [VMA:6] Mox Jet
+1 [VMA:9] Mox Sapphire
+1 [VMA:278] Null Rod
+1 [VMA:1] Ancestral Recall
+1 [EMA:40] Brainstorm
+1 [KTK:36] Dig Through Time
+1 [VMA:68] Flusterstorm
 1 [ZEN:57] Mindbreak Trap
-1 [MM:162] Snuff Out
-3 [RTR:146] Abrupt Decay
+1 [DD3_GVL:53] Snuff Out
+3 [RTR:141] Abrupt Decay
 3 [NPH:38] Mental Misstep
-4 [AL:14] Force of Will
-1 [R:116] Demonic Tutor
-1 [M12:29] Ponder
-1 [U:2] Time Walk
+4 [EMA:49] Force of Will
+1 [DD3_DVD:49] Demonic Tutor
+1 [M12:73] Ponder
+1 [VMA:2] Time Walk
 1 [C16:101] Treasure Cruise
 2 [BFZ:120] Painful Truths
 2 [THS:107] Thoughtseize
 SB: 1 [DTK:125] Virulent Plague
 SB: 3 [AER:57] Fatal Push
-SB: 2 [DKA:221] Grafdigger's Cage
+SB: 2 [DKA:149] Grafdigger's Cage
 SB: 1 [GTC:69] Illness in the Ranks
-SB: 2 [CNS:178] Nature's Claim
-SB: 2 [C13:187] Nihil Spellbomb
-SB: 2 [C15:209] Trygon Predator
+SB: 2 [EMA:178] Nature's Claim
+SB: 2 [C13:249] Nihil Spellbomb
+SB: 2 [EMA:209] Trygon Predator
 SB: 1 [ZEN:57] Mindbreak Trap
-SB: 1 [CMD:68] Flusterstorm
+SB: 1 [VMA:68] Flusterstorm

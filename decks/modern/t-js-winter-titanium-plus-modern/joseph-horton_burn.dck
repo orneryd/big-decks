@@ -1,26 +1,26 @@
 NAME:Burn
 2 [SOM:225] Copperline Gorge
-2 [UNH:266] Mountain
-2 [GTC:9] Stomping Ground
-3 [ZEN:229] Arid Mesa
-3 [GTC:14] Sacred Foundry
-4 [KTK:18] Bloodstained Mire
-4 [KTK:19] Wooded Foothills
-1 [M12:100] Grim Lavamancer
+2 [PCA:150] Mountain
+2 [EXP:9] Stomping Ground
+3 [EXP:24] Arid Mesa
+3 [EXP:14] Sacred Foundry
+4 [EXP:18] Bloodstained Mire
+4 [EXP:19] Wooded Foothills
+1 [M12:145] Grim Lavamancer
 4 [JOU:94] Eidolon of the Great Revel
-4 [ZEN:96] Goblin Guide
+4 [ZEN:126] Goblin Guide
 4 [KTK:118] Monastery Swiftspear
-4 [ALA:152] Wild Nacatl
-4 [DTK:161] Atarka's Command
+4 [DDH:4] Wild Nacatl
+4 [DTK:213] Atarka's Command
 4 [C16:185] Boros Charm
-4 [M11:162] Lightning Bolt
-4 [WWK:90] Searing Blaze
-3 [TSP:176] Rift Bolt
-4 [CHK:121] Lava Spike
-SB: 2 [KTK:96] Deflecting Palm
+4 [MM2:122] Lightning Bolt
+4 [DDI:67] Searing Blaze
+3 [MMA:126] Rift Bolt
+4 [MMA:121] Lava Spike
+SB: 2 [KTK:173] Deflecting Palm
 SB: 4 [THS:192] Destructive Revelry
-SB: 2 [RAV:213] Lightning Helix
+SB: 2 [DDN:65] Lightning Helix
 SB: 3 [GTC:106] Skullcrack
-SB: 1 [MR:103] Molten Rain
+SB: 1 [MRD:101] Molten Rain
 SB: 2 [BNG:111] Searing Blood
-SB: 1 [TSP:179] Sudden Shock
+SB: 1 [MMA:133] Sudden Shock

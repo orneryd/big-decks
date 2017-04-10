@@ -1,76 +1,76 @@
 NAME:Zurgokinesis
-1 [ZEN:229] Arid Mesa
-1 [OD:28] Barbarian Ring
-1 [KTK:18] Bloodstained Mire
-1 [4E:242] Mishra's Factory
-1 [ZEN:244] Scalding Tarn
+1 [EXP:24] Arid Mesa
+1 [PD2:28] Barbarian Ring
+1 [EXP:18] Bloodstained Mire
+1 [EMA:242] Mishra's Factory
+1 [EXP:22] Scalding Tarn
 1 [CHK:282] Shinka, the Bloodsoaked Keep
-1 [ZEN:226] Teetering Peaks
-1 [TE:248] Wasteland
-1 [KTK:19] Wooded Foothills
+1 [PD2:30] Teetering Peaks
+1 [EMA:248] Wasteland
+1 [EXP:19] Wooded Foothills
 1 [RTR:86] Ash Zealot
-1 [M10:56] Ball Lightning
-1 [ON:189] Blistering Firecat
-1 [PLC:7] Blood Knight
-1 [M14:37] Chandra's Phoenix
+1 [PD2:12] Ball Lightning
+1 [ONS:189] Blistering Firecat
+1 [PLC:115] Blood Knight
+1 [M14:134] Chandra's Phoenix
 1 [JOU:94] Eidolon of the Great Revel
 1 [M11:135] Ember Hauler
-1 [FRF:137] Flamewake Phoenix
+1 [FRF:100] Flamewake Phoenix
 1 [ZEN:125] Goblin Bushwhacker
-1 [ZEN:96] Goblin Guide
-1 [M15:98] Goblin Rabblemaster
+1 [ZEN:126] Goblin Guide
+1 [M15:145] Goblin Rabblemaster
 1 [CN2:54] Grenzo, Havoc Raiser
-1 [M12:100] Grim Lavamancer
-1 [ALA:103] Hell's Thunder
-1 [CFX:25] Hellspark Elemental
+1 [M12:145] Grim Lavamancer
+1 [DDN:10] Hell's Thunder
+1 [DDK:46] Hellspark Elemental
 1 [AER:87] Kari Zev, Skyship Raider
-1 [PLC:136] Keldon Marauders
+1 [EMA:136] Keldon Marauders
 1 [KLD:121] Lathnu Hellion
 1 [AVR:144] Lightning Mauler
 1 [FUT:101] Magus of the Moon
 1 [KTK:118] Monastery Swiftspear
-1 [M15:122] Phyrexian Revoker
+1 [M15:225] Phyrexian Revoker
 1 [PLC:122] Simian Spirit Guide
 1 [EVE:62] Stigma Lasher
-1 [M12:10] Stormblood Berserker
+1 [MM2:130] Stormblood Berserker
 1 [PLC:108] Sulfur Elemental
 1 [SOM:105] Tunnel Ignus
 1 [KLD:110] Chandra, Torch of Defiance
-1 [BOK:4] Umezawa's Jitte
-1 [9E:90] Blood Moon
-1 [CNS:150] Sulfuric Vortex
+1 [V16:14] Umezawa's Jitte
+1 [MMA:106] Blood Moon
+1 [EMA:150] Sulfuric Vortex
 1 [CNS:138] Brimstone Volley
-1 [RAV:117] Char
-1 [PLC:113] Dead/Gone
-1 [VI:79] Fireblast
-1 [SHM:92] Flame Javelin
-1 [BOK:22] Flames of the Blood Hand
-1 [M12:213] Incinerate
+1 [V13:14] Char
+1 [PLC:113b] Dead/Gone
+1 [DD3_JVC:55] Fireblast
+1 [DD3_JVC:53] Flame Javelin
+1 [PD2:22] Flames of the Blood Hand
+1 [DD3_JVC:51] Incinerate
 1 [CMD:127] Lash Out
-1 [M11:162] Lightning Bolt
-1 [M15:127] Lightning Strike
-1 [THS:100] Magma Jet
-1 [EX:141] Price of Progress
-1 [AL:143] Pyrokinesis
-1 [WWK:90] Searing Blaze
+1 [MM2:122] Lightning Bolt
+1 [M15:155] Lightning Strike
+1 [DD3_JVC:52] Magma Jet
+1 [EMA:141] Price of Progress
+1 [EMA:143] Pyrokinesis
+1 [DDI:67] Searing Blaze
 1 [M13:147] Searing Spear
 1 [MOR:103] Shard Volley
 1 [GTC:106] Skullcrack
-1 [ORI:107] Smash to Smithereens
-1 [EX:103] Sonic Burst
-1 [ROE:48] Staggershock
-1 [TSP:179] Sudden Shock
-1 [AVR:113] Thunderous Wrath
+1 [ORI:163] Smash to Smithereens
+1 [BTD:46] Sonic Burst
+1 [ROE:166] Staggershock
+1 [MMA:133] Sudden Shock
+1 [AVR:160] Thunderous Wrath
 1 [CNS:157] Volcanic Fallout
-1 [SOM:81] Arc Trail
-1 [LG:26] Chain Lightning
+1 [PCA:39] Arc Trail
+1 [EMA:123] Chain Lightning
 1 [EMN:123] Collective Defiance
-1 [ORI:207] Exquisite Firecraft
+1 [ORI:143] Exquisite Firecraft
 1 [C15:26] Fiery Confluence
-1 [ROE:145] Flame Slash
-1 [ROE:60] Forked Bolt
-1 [US:132] Gamble
-1 [MR:103] Molten Rain
-1 [GP:75] Shattering Spree
+1 [CN2:157] Flame Slash
+1 [DDP:60] Forked Bolt
+1 [EMA:132] Gamble
+1 [MRD:101] Molten Rain
+1 [GPT:75] Shattering Spree
 1 [MBS:75] Slagstorm
-SB: 1 [DTK:197] Zurgo Bellstriker
+SB: 1 [DTK:169] Zurgo Bellstriker

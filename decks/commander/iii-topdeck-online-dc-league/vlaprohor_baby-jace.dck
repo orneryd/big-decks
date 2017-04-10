@@ -1,76 +1,76 @@
 NAME:Baby Jace
 1 [SOI:271] Drownyard Temple
-1 [KTK:16] Flooded Strand
+1 [EXP:16] Flooded Strand
 1 [SOK:162] Mikokoro, Center of the Sea
-1 [ZEN:240] Misty Rainforest
+1 [EXP:25] Misty Rainforest
 1 [C16:309] Myriad Landscape
-1 [KTK:17] Polluted Delta
-1 [ZEN:244] Scalding Tarn
-1 [TE:248] Wasteland
+1 [EXP:17] Polluted Delta
+1 [EXP:22] Scalding Tarn
+1 [EMA:248] Wasteland
 1 [AER:28] Baral, Chief of Compliance
-1 [UL:86] Palinchron
-1 [ISD:50] Snapcaster Mage
-1 [MPS:4] Torrential Gearhulk
+1 [VMA:86] Palinchron
+1 [ISD:78] Snapcaster Mage
+1 [MPS:2] Torrential Gearhulk
 1 [C14:19] Teferi, Temporal Archmage
-1 [ALA:60] Tezzeret the Seeker
+1 [MM2:62] Tezzeret the Seeker
 1 [FRF:1] Ugin, the Spirit Dragon
-1 [AQ:187] Candelabra of Tawnos
-1 [MR:9] Chrome Mox
-1 [MR:38] Extraplanar Lens
-1 [TE:15] Lotus Petal
-1 [UL:276] Memory Jar
-1 [SH:228] Mox Diamond
-1 [C14:296] Sapphire Medallion
-1 [ON:50] Future Sight
-1 [UD:50] Treachery
+1 [ME4:187] Candelabra of Tawnos
+1 [MPS:9] Chrome Mox
+1 [MPS:38] Extraplanar Lens
+1 [MPS:15] Lotus Petal
+1 [VMA:276] Memory Jar
+1 [TPR:228] Mox Diamond
+1 [C14:266] Sapphire Medallion
+1 [EMA:50] Future Sight
+1 [UDS:50] Treachery
 1 [C15:88] Blue Sun's Zenith
-1 [C15:40] Brainstorm
-1 [FD:27] Condescend
-1 [7E:10] Counterspell
-1 [LRW:11] Cryptic Command
-1 [C14:35] Cyclonic Rift
-1 [NE:12] Daze
-1 [C15:48] Fact or Fiction
-1 [JU:40] Flash of Insight
-1 [AL:14] Force of Will
-1 [UL:70] Frantic Search
-1 [GP:26] Gigadrowse
-1 [FE:80] High Tide
-1 [VI:34] Impulse
-1 [C14:48] Into the Roil
-1 [TE:54] Intuition
-1 [FUT:51] Logic Knot
-1 [M12:44] Mana Leak
-1 [7E:60] Memory Lapse
-1 [JU:46] Mental Note
-1 [UL:36] Miscalculation
-1 [CNS:87] Misdirection
+1 [EMA:40] Brainstorm
+1 [DD3_JVC:28] Condescend
+1 [EMA:43] Counterspell
+1 [MM2:43] Cryptic Command
+1 [C14:104] Cyclonic Rift
+1 [EMA:44] Daze
+1 [EMA:48] Fact or Fiction
+1 [JUD:40] Flash of Insight
+1 [EMA:49] Force of Will
+1 [VMA:70] Frantic Search
+1 [GPT:26] Gigadrowse
+1 [VMA:73] High Tide
+1 [DDN:63] Impulse
+1 [C14:115] Into the Roil
+1 [TPR:54] Intuition
+1 [MMA:51] Logic Knot
+1 [MM2:50] Mana Leak
+1 [EMA:60] Memory Lapse
+1 [JUD:46] Mental Note
+1 [ULG:36] Miscalculation
+1 [CNS:102] Misdirection
 1 [C15:14] Mystic Confluence
-1 [IN:64] Opt
+1 [INV:64] Opt
 1 [10E:94] Peek
-1 [RAV:63] Remand
+1 [MM2:55] Remand
 1 [C15:104] Repeal
-1 [UL:43] Snap
-1 [DKA:21] Thought Scour
-1 [US:60] Turnabout
+1 [ULG:43] Snap
+1 [DDM:21] Thought Scour
+1 [VMA:99] Turnabout
 1 [EMN:79] Unsubstantiate
-1 [P3:38] Capture of Jingzhou
+1 [ME3:33] Capture of Jingzhou
 1 [NPH:35] Gitaxian Probe
-1 [8E:42] Merchant Scroll
+1 [8ED:91] Merchant Scroll
 1 [C13:52] Order of Succession
-1 [M12:29] Ponder
+1 [M12:73] Ponder
 1 [C15:101] Preordain
-1 [MM3:49] Serum Visions
-1 [9E:51] Sleight of Hand
-1 [SC:96] Temporal Fissure
-1 [P2:54] Temporal Manipulation
-1 [AVR:54] Temporal Mastery
+1 [CN2:120] Serum Visions
+1 [ME4:62] Sleight of Hand
+1 [VMA:96] Temporal Fissure
+1 [ME2:69] Temporal Manipulation
+1 [AVR:81] Temporal Mastery
 1 [FRF:55] Temporal Trespass
-1 [US:103] Time Spiral
+1 [USG:103] Time Spiral
 1 [10E:118] Time Stretch
-1 [M10:74] Time Warp
-1 [U:3] Timetwister
+1 [TPR:74] Time Warp
+1 [VMA:3] Timetwister
 1 [TSP:93] Walk the Aeons
-1 [C13:82] Wash Out
+1 [C13:66] Wash Out
 1 [C16:104] Windfall
-SB: 1 [ORI:995] Jace, Vryn's Prodigy
+SB: 1 [ORI:60a] Jace, Vryn's Prodigy

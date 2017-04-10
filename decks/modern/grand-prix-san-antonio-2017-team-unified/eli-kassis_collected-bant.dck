@@ -1,33 +1,33 @@
 NAME:Collected Bant
-1 [GTC:15] Breeding Pool
-1 [KTK:16] Flooded Strand
+1 [EXP:15] Breeding Pool
+1 [EXP:16] Flooded Strand
 1 [C15:285] Ghost Quarter
-1 [RTR:6] Hallowed Fountain
-1 [FUT:40] Horizon Canopy
-1 [RTR:10] Temple Garden
+1 [EXP:6] Hallowed Fountain
+1 [EXP:40] Horizon Canopy
+1 [EXP:10] Temple Garden
 2 [ISD:239] Gavony Township
-2 [UNH:257] Plains
-4 [UNH:269] Forest
-4 [ZEN:240] Misty Rainforest
-4 [KTK:20] Windswept Heath
-1 [ARB:124] Qasali Pridemage
-2 [BNG:12] Courser of Kruphix
-2 [MM3:134] Scavenging Ooze
+2 [PCA:136] Plains
+4 [PCA:156] Forest
+4 [EXP:25] Misty Rainforest
+4 [EXP:20] Windswept Heath
+1 [DDH:10] Qasali Pridemage
+2 [CPK:6] Courser of Kruphix
+2 [C16:166] Scavenging Ooze
 3 [EMN:40] Selfless Spirit
-3 [DGM:200] Voice of Resurgence
-4 [MBP:28] Birds of Paradise
-4 [CFX:178] Knight of the Reliquary
-4 [CFX:151] Noble Hierarch
+3 [DGM:114] Voice of Resurgence
+4 [CN2:176] Birds of Paradise
+4 [MMA:178] Knight of the Reliquary
+4 [MM2:151] Noble Hierarch
 4 [EMN:189] Spell Queller
 2 [BFZ:29] Gideon, Ally of Zendikar
-2 [BFZ:082] Retreat to Coralhelm
-3 [CMD:17] Path to Exile
+2 [BFZ:82] Retreat to Coralhelm
+3 [MD1:3] Path to Exile
 4 [DTK:177] Collected Company
-SB: 2 [BNG:12] Courser of Kruphix
+SB: 2 [CPK:6] Courser of Kruphix
 SB: 1 [C15:285] Ghost Quarter
-SB: 1 [C14:132] Bojuka Bog
+SB: 1 [C14:285] Bojuka Bog
 SB: 1 [RTR:155] Detention Sphere
-SB: 4 [ARB:116] Meddling Mage
-SB: 2 [C14:39] Reclamation Sage
+SB: 4 [ARB:8] Meddling Mage
+SB: 2 [C14:213] Reclamation Sage
 SB: 3 [OGW:157] Reflector Mage
 SB: 1 [ROE:92] Unified Will

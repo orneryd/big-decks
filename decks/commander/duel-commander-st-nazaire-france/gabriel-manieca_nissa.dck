@@ -1,82 +1,82 @@
 NAME:Nissa
-1 [AVR:232] Cavern of Souls
-1 [C14:24] Crystal Vein
-1 [FUT:174] Dryad Arbor
-1 [MM:37] Dust Bowl
-1 [ROE:68] Eldrazi Temple
-1 [WWK:38] Eye of Ugin
+1 [AVR:226] Cavern of Souls
+1 [C14:289] Crystal Vein
+1 [V12:5] Dryad Arbor
+1 [EXP:37] Dust Bowl
+1 [DDP:68] Eldrazi Temple
+1 [EXP:38] Eye of Ugin
 1 [C16:301] Homeward Path
-1 [DK:241] Maze of Ith
-1 [ZEN:240] Misty Rainforest
-1 [CS:148] Mouth of Ronom
+1 [EMA:241] Maze of Ith
+1 [EXP:25] Misty Rainforest
+1 [CSP:148] Mouth of Ronom
 1 [C16:309] Myriad Landscape
-1 [MM:324] Rishadan Port
+1 [MMQ:324] Rishadan Port
 1 [BFZ:242] Sanctum of Ugin
 1 [BFZ:245] Shrine of the Forsaken Gods
-1 [CS:245] Snow-Covered Forest
-1 [C14:44] Tectonic Edge
+1 [ME2:245] Snow-Covered Forest
+1 [EXP:44] Tectonic Edge
 1 [C16:331] Temple of the False God
-1 [ZEN:249] Verdant Catacombs
-1 [TE:248] Wasteland
+1 [EXP:23] Verdant Catacombs
+1 [EMA:248] Wasteland
 1 [OGW:184] Wastes
-1 [KTK:20] Windswept Heath
-1 [KTK:19] Wooded Foothills
-1 [M13:95] Arbor Elf
-1 [MBP:28] Birds of Paradise
-1 [CS:105] Boreal Druid
-1 [BFZ:004] Conduit of Ruin
-1 [BNG:12] Courser of Kruphix
-1 [C14:173] Elvish Mystic
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
+1 [M13:160] Arbor Elf
+1 [CN2:176] Birds of Paradise
+1 [CSP:105] Boreal Druid
+1 [BFZ:4] Conduit of Ruin
+1 [CPK:6] Courser of Kruphix
+1 [C14:191] Elvish Mystic
 1 [EMN:6] Emrakul, the Promised End
 1 [C15:183] Eternal Witness
-1 [CMD:119] Fierce Empath
-1 [IA:210] Fyndhorn Elves
+1 [CMD:155] Fierce Empath
+1 [VMA:210] Fyndhorn Elves
 1 [ROE:190] Joraga Treespeaker
 1 [OGW:4] Kozilek, the Great Distortion
-1 [C14:175] Llanowar Elves
+1 [EMA:175] Llanowar Elves
 1 [ZEN:168] Lotus Cobra
-1 [BFZ:011] Oblivion Sower
+1 [BFZ:11] Oblivion Sower
 1 [M11:188] Obstinate Baloth
 1 [ZEN:172] Oracle of Mul Daya
-1 [C14:270] Priest of Titania
-1 [M12:156] Primeval Titan
+1 [C14:210] Priest of Titania
+1 [MM2:156] Primeval Titan
 1 [OGW:7] Reality Smasher
-1 [C14:39] Reclamation Sage
-1 [UD:229] Rofellos, Llanowar Emissary
+1 [C14:213] Reclamation Sage
+1 [VMA:229] Rofellos, Llanowar Emissary
 1 [C16:164] Sakura-Tribe Elder
-1 [MM3:134] Scavenging Ooze
+1 [C16:166] Scavenging Ooze
 1 [OGW:9] Thought-Knot Seer
-1 [M13:143] Thragtusk
+1 [M13:193] Thragtusk
 1 [SOI:233] Tireless Tracker
 1 [C14:50] Titania, Protector of Argoth
-1 [BFZ:015] Ulamog, the Ceaseless Hunger
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
 1 [OGW:126] World Breaker
-1 [C14:54] Wurmcoil Engine
-1 [CMD:16] Garruk Wildspeaker
-1 [NPH:1] Karn Liberated
+1 [MPS:54] Wurmcoil Engine
+1 [DD3_GVL:1] Garruk Wildspeaker
+1 [MM2:4] Karn Liberated
 1 [KLD:163] Nissa, Vital Force
 1 [FRF:1] Ugin, the Spirit Dragon
-1 [ZEN:201] Expedition Map
+1 [MM2:213] Expedition Map
 1 [C16:143] Burgeoning
-1 [CNS:250] Exploration
-1 [LRW:228] Lignify
+1 [CNS:164] Exploration
+1 [DD3_GVL:16] Lignify
 1 [DIS:99] Utopia Sprawl
-1 [7E:138] Wild Growth
-1 [UL:98] Crop Rotation
-1 [CNS:178] Nature's Claim
+1 [7ED:282] Wild Growth
+1 [DDR:7] Crop Rotation
+1 [EMA:178] Nature's Claim
 1 [OGW:8] Spatial Contortion
 1 [OGW:12] Warping Wail
-1 [ROE:1] All Is Dust
-1 [FUT:144] Edge of Autumn
-1 [MBS:169] Green Sun's Zenith
-1 [CS:111] Into the North
+1 [MM2:1] All Is Dust
+1 [DDG:25] Edge of Autumn
+1 [EMA:169] Green Sun's Zenith
+1 [CSP:111] Into the North
 1 [TSP:207] Mwonvuli Acid-Moss
-1 [ST:220] Nature's Lore
+1 [DD3_GVL:17] Nature's Lore
 1 [C16:161] Rampant Growth
-1 [DS:81] Reap and Sow
+1 [DST:81] Reap and Sow
 1 [C13:167] Restore
-1 [TSP:216] Search for Tomorrow
-1 [NE:117] Skyshroud Claim
+1 [MMA:161] Search for Tomorrow
+1 [NMS:117] Skyshroud Claim
 1 [BFZ:192] Sylvan Scrying
 1 [SOI:234] Traverse the Ulvenwald
-SB: 1 [ORI:998] Nissa, Vastwood Seer
+SB: 1 [ORI:189a] Nissa, Vastwood Seer

@@ -1,33 +1,33 @@
 NAME:Blue Moon
 1 [KLD:249] Spirebluff Canal
-2 [UNH:266] Mountain
-2 [RTR:12] Steam Vents
+2 [PCA:150] Mountain
+2 [EXP:12] Steam Vents
 2 [ISD:248] Sulfur Falls
-4 [KTK:17] Polluted Delta
-4 [ZEN:244] Scalding Tarn
-7 [UNH:260] Island
-1 [OGW:148] Goblin Dark-Dwellers
+4 [EXP:17] Polluted Delta
+4 [EXP:22] Scalding Tarn
+7 [PCA:141] Island
+1 [OGW:110] Goblin Dark-Dwellers
 1 [SOM:193] Platinum Emperion
-3 [ISD:50] Snapcaster Mage
-3 [MOR:55] Vendilion Clique
-1 [RTR:44] Jace, Architect of Thought
-2 [9E:90] Blood Moon
-1 [M12:44] Mana Leak
-1 [ZEN:51] Spell Pierce
-2 [CMD:42] Electrolyze
-2 [RTR:171] Izzet Charm
-2 [DIS:64] Spell Snare
-3 [LRW:11] Cryptic Command
-3 [RAV:63] Remand
-4 [M11:162] Lightning Bolt
+3 [ISD:78] Snapcaster Mage
+3 [MM2:67] Vendilion Clique
+1 [DDM:1] Jace, Architect of Thought
+2 [MMA:106] Blood Moon
+1 [MM2:50] Mana Leak
+1 [ZEN:67] Spell Pierce
+2 [MM2:174] Electrolyze
+2 [RTR:172] Izzet Charm
+2 [MMA:64] Spell Snare
+3 [MM2:43] Cryptic Command
+3 [MM2:55] Remand
+4 [MM2:122] Lightning Bolt
 2 [KLD:122] Madcap Experiment
-3 [TSP:48] Ancestral Vision
-4 [MM3:49] Serum Visions
+3 [DD3_JVC:21] Ancestral Vision
+4 [CN2:120] Serum Visions
 SB: 2 [THS:112] Anger of the Gods
 SB: 1 [EMN:118] Bedlam Reveler
 SB: 3 [KLD:40] Ceremonious Rejection
 SB: 2 [BFZ:76] Dispel
-SB: 1 [ORI:128] Pia and Kiran Nalaar
-SB: 2 [SOI:92] Thing in the Ice
+SB: 1 [ORI:157] Pia and Kiran Nalaar
+SB: 2 [SOI:92a] Thing in the Ice
 SB: 3 [BOK:56] Threads of Disloyalty
 SB: 1 [C15:170] Vandalblast

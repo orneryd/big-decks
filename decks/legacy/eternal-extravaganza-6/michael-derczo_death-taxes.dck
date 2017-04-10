@@ -1,28 +1,28 @@
 NAME:Death & Taxes
-2 [AVR:232] Cavern of Souls
-3 [LG:240] Karakas
-4 [MM:324] Rishadan Port
-4 [TE:248] Wasteland
+2 [AVR:226] Cavern of Souls
+3 [EMA:240] Karakas
+4 [MMQ:324] Rishadan Port
+4 [EMA:248] Wasteland
 1 [CN2:23] Sanctum Prelate
-2 [M15:122] Phyrexian Revoker
+2 [M15:225] Phyrexian Revoker
 2 [CN2:22] Recruiter of the Guard
-2 [M13:6] Serra Avenger
-3 [MBS:32] Mirran Crusader
-4 [C14:6] Flickerwisp
-4 [CMD:22] Mother of Runes
+2 [M13:33] Serra Avenger
+3 [MM2:25] Mirran Crusader
+4 [C14:71] Flickerwisp
+4 [EMA:22] Mother of Runes
 4 [WWK:20] Stoneforge Mystic
-4 [DKA:3] Thalia, Guardian of Thraben
-1 [DS:29] Sword of Fire and Ice
-1 [NPH:51] Sword of War and Peace
-1 [BOK:4] Umezawa's Jitte
-4 [DS:6] Aether Vial
+4 [DKA:24] Thalia, Guardian of Thraben
+1 [MPS:29] Sword of Fire and Ice
+1 [MPS:51] Sword of War and Peace
+1 [V16:14] Umezawa's Jitte
+4 [MPS:6] Aether Vial
 4 [C16:78] Swords to Plowshares
-SB: 2 [CNS:20] Council's Judgment
-SB: 2 [RTR:44] Pithing Needle
+SB: 2 [VMA:20] Council's Judgment
+SB: 2 [MPS:44] Pithing Needle
 SB: 1 [RTR:18] Rest in Peace
 SB: 2 [BFZ:29] Gideon, Ally of Zendikar
-SB: 2 [CMD:17] Path to Exile
-SB: 2 [ALA:10] Ethersworn Canonist
-SB: 2 [NPH:33] Surgical Extraction
-SB: 1 [C14:3] Containment Priest
+SB: 2 [MD1:3] Path to Exile
+SB: 2 [MMA:14] Ethersworn Canonist
+SB: 2 [MM2:99] Surgical Extraction
+SB: 1 [C14:5] Containment Priest
 SB: 1 [NPH:130] Batterskull

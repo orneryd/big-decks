@@ -1,31 +1,31 @@
 NAME:Titanshift
-1 [ZEN:240] Misty Rainforest
-1 [ZEN:249] Verdant Catacombs
-1 [KTK:20] Windswept Heath
-2 [GTC:9] Stomping Ground
-3 [UNH:269] Forest
-4 [BFZ:4] Cinder Glade
+1 [EXP:25] Misty Rainforest
+1 [EXP:23] Verdant Catacombs
+1 [EXP:20] Windswept Heath
+2 [EXP:9] Stomping Ground
+3 [PCA:156] Forest
+4 [EXP:4] Cinder Glade
 4 [ZEN:228] Valakut, the Molten Pinnacle
-4 [KTK:19] Wooded Foothills
-8 [UNH:266] Mountain
+4 [EXP:19] Wooded Foothills
+8 [PCA:150] Mountain
 1 [M11:188] Obstinate Baloth
-4 [M12:156] Primeval Titan
+4 [MM2:156] Primeval Titan
 4 [C16:164] Sakura-Tribe Elder
 1 [SHM:126] Prismatic Omen
-2 [ZEN:18] Khalni Heart Expedition
-2 [FUT:164] Summoner's Pact
-4 [M11:162] Lightning Bolt
+2 [DDP:18] Khalni Heart Expedition
+2 [MMA:164] Summoner's Pact
+4 [MM2:122] Lightning Bolt
 2 [THS:112] Anger of the Gods
-2 [WWK:125] Explore
+2 [DDO:45] Explore
 2 [C16:149] Farseek
 4 [MOR:136] Scapeshift
-4 [TSP:216] Search for Tomorrow
-SB: 2 [C14:39] Reclamation Sage
-SB: 1 [TSP:179] Sudden Shock
-SB: 1 [CNS:178] Nature's Claim
-SB: 1 [ALA:231] Relic of Progenitus
-SB: 2 [FD:36] Engineered Explosives
-SB: 3 [MR:33] Chalice of the Void
+4 [MMA:161] Search for Tomorrow
+SB: 2 [C14:213] Reclamation Sage
+SB: 1 [MMA:133] Sudden Shock
+SB: 1 [EMA:178] Nature's Claim
+SB: 1 [EMA:231] Relic of Progenitus
+SB: 2 [MPS:36] Engineered Explosives
+SB: 3 [MPS:33] Chalice of the Void
 SB: 2 [C15:173] Acidic Slime
 SB: 2 [M11:188] Obstinate Baloth
 SB: 1 [THS:112] Anger of the Gods

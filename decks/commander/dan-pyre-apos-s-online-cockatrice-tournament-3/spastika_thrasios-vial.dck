@@ -1,101 +1,101 @@
 NAME:Thrasios/vial
-1 [ZEN:229] Arid Mesa
-1 [R:291] Badlands
-1 [R:293] Bayou
+1 [EXP:24] Arid Mesa
+1 [VMA:291] Badlands
+1 [VMA:293] Bayou
 1 [SOM:224] Blackcleave Cliffs
-1 [RTR:8] Blood Crypt
-1 [KTK:18] Bloodstained Mire
+1 [EXP:8] Blood Crypt
+1 [EXP:18] Bloodstained Mire
 1 [KLD:243] Blooming Marsh
 1 [KLD:244] Botanical Sanctum
-1 [GTC:15] Breeding Pool
-1 [AVR:232] Cavern of Souls
-1 [8E:6] City of Brass
+1 [EXP:15] Breeding Pool
+1 [AVR:226] Cavern of Souls
+1 [MD1:15] City of Brass
 1 [C16:286] Command Tower
 1 [SOM:225] Copperline Gorge
 1 [WWK:134] Creeping Tar Pit
 1 [SOM:226] Darkslick Shores
-1 [EVE:35] Flooded Grove
-1 [KTK:16] Flooded Strand
-1 [FUT:176] Grove of the Burnwillows
-1 [JOU:42] Mana Confluence
-1 [ZEN:239] Marsh Flats
-1 [ZEN:240] Misty Rainforest
-1 [KTK:17] Polluted Delta
-1 [CNS:328] Reflecting Pool
+1 [EXP:35] Flooded Grove
+1 [EXP:16] Flooded Strand
+1 [V12:8] Grove of the Burnwillows
+1 [EXP:42] Mana Confluence
+1 [EXP:21] Marsh Flats
+1 [EXP:25] Misty Rainforest
+1 [EXP:17] Polluted Delta
+1 [CNS:210] Reflecting Pool
 1 [FUT:179] River of Tears
-1 [ZEN:244] Scalding Tarn
-1 [CS:242] Snow-Covered Island
+1 [EXP:22] Scalding Tarn
+1 [ME2:242] Snow-Covered Island
 1 [KLD:249] Spirebluff Canal
-1 [RTR:12] Steam Vents
-1 [GTC:9] Stomping Ground
-1 [R:317] Taiga
+1 [EXP:12] Steam Vents
+1 [EXP:9] Stomping Ground
+1 [VMA:317] Taiga
 1 [THS:224] Temple of Abandon
 1 [THS:225] Temple of Deceit
 1 [JOU:164] Temple of Epiphany
-1 [THS:226] Temple of Mystery
-1 [R:321] Tropical Island
-1 [R:323] Underground Sea
-1 [ZEN:249] Verdant Catacombs
-1 [R:324] Volcanic Island
-1 [KTK:20] Windswept Heath
-1 [KTK:19] Wooded Foothills
-1 [M13:95] Arbor Elf
-1 [MBP:28] Birds of Paradise
-1 [C16:184] Bloodbraid Elf
+1 [CPK:6] Temple of Mystery
+1 [VMA:321] Tropical Island
+1 [VMA:323] Underground Sea
+1 [EXP:23] Verdant Catacombs
+1 [VMA:324] Volcanic Island
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
+1 [M13:160] Arbor Elf
+1 [CN2:176] Birds of Paradise
+1 [PCA:84] Bloodbraid Elf
 1 [EVE:66] Bloom Tender
-1 [RAV:81] Dark Confidant
-1 [RTR:215] Deathrite Shaman
-1 [RAV:39] Elves of Deep Shadow
-1 [C14:173] Elvish Mystic
-1 [IA:210] Fyndhorn Elves
+1 [MM2:75] Dark Confidant
+1 [EMA:215] Deathrite Shaman
+1 [DDJ:47] Elves of Deep Shadow
+1 [C14:191] Elvish Mystic
+1 [VMA:210] Fyndhorn Elves
 1 [KTK:137] Hooting Mandrills
-1 [DKA:140] Huntmaster of the Fells
-1 [ORI:995] Jace, Vryn's Prodigy
-1 [C14:175] Llanowar Elves
+1 [DKA:140a] Huntmaster of the Fells
+1 [ORI:60a] Jace, Vryn's Prodigy
+1 [EMA:175] Llanowar Elves
 1 [ZEN:168] Lotus Cobra
 1 [M11:188] Obstinate Baloth
-1 [ISD:50] Snapcaster Mage
-1 [FRF:153] Tasigur, the Golden Fang
-1 [FUT:55] Venser, Shaper Savant
+1 [ISD:78] Snapcaster Mage
+1 [FRF:87] Tasigur, the Golden Fang
+1 [V13:15] Venser, Shaper Savant
 1 [THS:188] Ashiok, Nightmare Weaver
 1 [KLD:110] Chandra, Torch of Defiance
-1 [WWK:57] Jace, the Mind Sculptor
-1 [BNG:34] Kiora, the Crashing Wave
-1 [MR:9] Chrome Mox
-1 [SH:228] Mox Diamond
-1 [RTR:146] Abrupt Decay
-1 [C15:40] Brainstorm
-1 [7E:10] Counterspell
-1 [NE:12] Daze
+1 [EMA:57] Jace, the Mind Sculptor
+1 [DDO:34] Kiora, the Crashing Wave
+1 [MPS:9] Chrome Mox
+1 [TPR:228] Mox Diamond
+1 [RTR:141] Abrupt Decay
+1 [EMA:40] Brainstorm
+1 [EMA:43] Counterspell
+1 [EMA:44] Daze
 1 [FUT:35] Delay
-1 [AP:50] Evasive Action
-1 [C15:48] Fact or Fiction
-1 [IA:145] Fire Covenant
-1 [VI:79] Fireblast
-1 [7E:76] Force Spike
-1 [AL:14] Force of Will
-1 [TE:54] Intuition
-1 [M11:162] Lightning Bolt
-1 [FUT:51] Logic Knot
-1 [M12:44] Mana Leak
-1 [7E:60] Memory Lapse
-1 [UL:36] Miscalculation
-1 [CNS:87] Misdirection
+1 [DDE:50] Evasive Action
+1 [EMA:48] Fact or Fiction
+1 [MED:145] Fire Covenant
+1 [DD3_JVC:55] Fireblast
+1 [DDJ:14] Force Spike
+1 [EMA:49] Force of Will
+1 [TPR:54] Intuition
+1 [MM2:122] Lightning Bolt
+1 [MMA:51] Logic Knot
+1 [MM2:50] Mana Leak
+1 [EMA:60] Memory Lapse
+1 [ULG:36] Miscalculation
+1 [CNS:102] Misdirection
 1 [KTK:81] Murderous Cut
 1 [C15:14] Mystic Confluence
-1 [TSP:44] Mystical Teachings
+1 [TSP:69] Mystical Teachings
 1 [AER:40] Negate
-1 [RAV:63] Remand
-1 [DIS:64] Spell Snare
-1 [OD:164] Tainted Pact
-1 [MM3:194] Terminate
-1 [P3:38] Capture of Jingzhou
-1 [R:116] Demonic Tutor
+1 [MM2:55] Remand
+1 [MMA:64] Spell Snare
+1 [ODY:164] Tainted Pact
+1 [C16:225] Terminate
+1 [ME3:33] Capture of Jingzhou
+1 [DD3_DVD:49] Demonic Tutor
 1 [C15:26] Fiery Confluence
-1 [BFZ:48] Radiant Flames
+1 [BFZ:151] Radiant Flames
 1 [KTK:54] Set Adrift
-1 [P2:54] Temporal Manipulation
-1 [M10:74] Time Warp
-1 [C13:108] Toxic Deluge
+1 [ME2:69] Temporal Manipulation
+1 [TPR:74] Time Warp
+1 [EMA:108] Toxic Deluge
 SB: 1 [C16:49] Vial Smasher the Fierce
 SB: 1 [C16:46] Thrasios, Triton Hero

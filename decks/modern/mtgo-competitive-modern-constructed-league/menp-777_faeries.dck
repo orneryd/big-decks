@@ -1,31 +1,31 @@
 NAME:Faeries
 1 [SOM:226] Darkslick Shores
-1 [UNH:263] Swamp
-1 [GTC:7] Watery Grave
+1 [PCA:146] Swamp
+1 [EXP:7] Watery Grave
 2 [FUT:179] River of Tears
-2 [ZEN:244] Scalding Tarn
+2 [EXP:22] Scalding Tarn
 3 [WWK:134] Creeping Tar Pit
-3 [UNH:260] Island
-4 [M14:12] Mutavault
-4 [KTK:17] Polluted Delta
+3 [PCA:141] Island
+4 [M14:228] Mutavault
+4 [EXP:17] Polluted Delta
 4 [LRW:271] Secluded Glen
-2 [ISD:50] Snapcaster Mage
+2 [ISD:78] Snapcaster Mage
 3 [LRW:75] Mistbind Clique
-3 [MOR:55] Vendilion Clique
-4 [LRW:65] Spellstutter Sprite
-4 [MOR:58] Bitterblossom
+3 [MM2:67] Vendilion Clique
+4 [MMA:65] Spellstutter Sprite
+4 [MM2:71] Bitterblossom
 1 [KTK:81] Murderous Cut
-3 [LRW:11] Cryptic Command
-3 [M12:44] Mana Leak
+3 [MM2:43] Cryptic Command
+3 [MM2:50] Mana Leak
 4 [AER:57] Fatal Push
-4 [MM3:75] Inquisition of Kozilek
-4 [MM3:49] Serum Visions
+4 [CN2:140] Inquisition of Kozilek
+4 [CN2:120] Serum Visions
 SB: 2 [THS:107] Thoughtseize
-SB: 2 [DIS:64] Spell Snare
+SB: 2 [MMA:64] Spell Snare
 SB: 3 [M11:101] Leyline of the Void
-SB: 1 [DKA:221] Grafdigger's Cage
+SB: 1 [DKA:149] Grafdigger's Cage
 SB: 1 [MBS:43] Go for the Throat
-SB: 1 [EVE:47] Glen Elendra Archmage
+SB: 1 [MMA:47] Glen Elendra Archmage
 SB: 2 [OGW:70] Flaying Tendrils
 SB: 2 [EMN:85] Collective Brutality
 SB: 1 [NPH:130] Batterskull

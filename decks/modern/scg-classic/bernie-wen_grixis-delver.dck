@@ -1,40 +1,40 @@
 NAME:Grixis Delver
-1 [RTR:8] Blood Crypt
-1 [KTK:18] Bloodstained Mire
+1 [EXP:8] Blood Crypt
+1 [EXP:18] Bloodstained Mire
 1 [SOM:226] Darkslick Shores
-1 [UNH:266] Mountain
+1 [PCA:150] Mountain
 1 [KLD:249] Spirebluff Canal
-1 [UNH:263] Swamp
-1 [GTC:7] Watery Grave
-2 [UNH:260] Island
-2 [RTR:12] Steam Vents
-4 [KTK:17] Polluted Delta
-4 [ZEN:244] Scalding Tarn
+1 [PCA:146] Swamp
+1 [EXP:7] Watery Grave
+2 [PCA:141] Island
+2 [EXP:12] Steam Vents
+4 [EXP:17] Polluted Delta
+4 [EXP:22] Scalding Tarn
 2 [FRF:72] Gurmag Angler
-2 [FRF:153] Tasigur, the Golden Fang
-2 [M14:155] Young Pyromancer
-4 [ISD:51] Delver of Secrets
-4 [ISD:50] Snapcaster Mage
-1 [CMD:42] Electrolyze
+2 [FRF:87] Tasigur, the Golden Fang
+2 [EMA:155] Young Pyromancer
+4 [ISD:51a] Delver of Secrets
+4 [ISD:78] Snapcaster Mage
+1 [MM2:174] Electrolyze
 1 [KTK:81] Murderous Cut
-1 [DIS:64] Spell Snare
+1 [MMA:64] Spell Snare
 2 [AER:57] Fatal Push
-2 [DTK:181] Kolaghan's Command
-2 [M12:44] Mana Leak
-2 [RAV:63] Remand
-2 [MM3:194] Terminate
-4 [M11:162] Lightning Bolt
-4 [DKA:21] Thought Scour
+2 [DTK:224] Kolaghan's Command
+2 [MM2:50] Mana Leak
+2 [MM2:55] Remand
+2 [C16:225] Terminate
+4 [MM2:122] Lightning Bolt
+4 [DDM:21] Thought Scour
 2 [EMN:85] Collective Brutality
-4 [MM3:49] Serum Visions
+4 [CN2:120] Serum Visions
 SB: 1 [AER:57] Fatal Push
-SB: 1 [DTK:181] Kolaghan's Command
-SB: 1 [FD:36] Engineered Explosives
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [MPS:36] Engineered Explosives
 SB: 1 [RTR:173] Izzet Staticaster
-SB: 1 [9E:90] Blood Moon
-SB: 2 [7E:10] Counterspell
-SB: 3 [NPH:33] Surgical Extraction
-SB: 1 [TSP:48] Ancestral Vision
+SB: 1 [MMA:106] Blood Moon
+SB: 2 [EMA:43] Counterspell
+SB: 3 [MM2:99] Surgical Extraction
+SB: 1 [DD3_JVC:21] Ancestral Vision
 SB: 1 [BFZ:120] Painful Truths
 SB: 1 [THS:107] Thoughtseize
 SB: 2 [C15:285] Ghost Quarter

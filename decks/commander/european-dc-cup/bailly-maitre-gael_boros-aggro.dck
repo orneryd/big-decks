@@ -1,86 +1,86 @@
 NAME:Boros Aggro
-1 [MR:130] Ancient Den
-1 [ZEN:229] Arid Mesa
-1 [ORI:348] Battlefield Forge
-1 [DS:236] Blinkmoth Nexus
-1 [KTK:18] Bloodstained Mire
-1 [AVR:232] Cavern of Souls
+1 [HOP:130] Ancient Den
+1 [EXP:24] Arid Mesa
+1 [ORI:244] Battlefield Forge
+1 [MM2:236] Blinkmoth Nexus
+1 [EXP:18] Bloodstained Mire
+1 [AVR:226] Cavern of Souls
 1 [C16:286] Command Tower
 1 [C16:288] Darksteel Citadel
-1 [KTK:16] Flooded Strand
-1 [C14:133] Great Furnace
+1 [EXP:16] Flooded Strand
+1 [C14:299] Great Furnace
 1 [KLD:246] Inspiring Vantage
-1 [ZEN:239] Marsh Flats
-1 [4E:242] Mishra's Factory
-1 [R:308] Plateau
-1 [GTC:14] Sacred Foundry
-1 [ZEN:244] Scalding Tarn
-1 [ZEN:226] Teetering Peaks
-1 [TE:248] Wasteland
-1 [KTK:20] Windswept Heath
-1 [KTK:19] Wooded Foothills
-8 [UNH:257] Plains
-9 [UNH:266] Mountain
-1 [JU:4] Benevolent Bodyguard
-1 [NPH:3] Blade Splicer
-1 [LRW:7] Burrenton Forge-Tender
-1 [CFX:13] Court Homunculus
-1 [SOM:154] Etched Champion
-1 [FE:94] Goblin Chirurgeon
-1 [ZEN:96] Goblin Guide
-1 [C14:80] Goblin Welder
-1 [M12:100] Grim Lavamancer
-1 [WWK:38] Hada Freeblade
-1 [SOM:4] Memnite
+1 [EXP:21] Marsh Flats
+1 [EMA:242] Mishra's Factory
+1 [VMA:308] Plateau
+1 [EXP:14] Sacred Foundry
+1 [EXP:22] Scalding Tarn
+1 [PD2:30] Teetering Peaks
+1 [EMA:248] Wasteland
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
+8 [PCA:136] Plains
+9 [PCA:150] Mountain
+1 [EMA:4] Benevolent Bodyguard
+1 [NPH:4] Blade Splicer
+1 [MD1:22] Burrenton Forge-Tender
+1 [MM2:13] Court Homunculus
+1 [MM2:209] Etched Champion
+1 [MED:94] Goblin Chirurgeon
+1 [ZEN:126] Goblin Guide
+1 [C14:177] Goblin Welder
+1 [M12:145] Grim Lavamancer
+1 [WWK:7] Hada Freeblade
+1 [SOM:174] Memnite
 1 [KTK:118] Monastery Swiftspear
-1 [CMD:22] Mother of Runes
+1 [EMA:22] Mother of Runes
 1 [AER:167] Ornithopter
-1 [M15:122] Phyrexian Revoker
+1 [M15:225] Phyrexian Revoker
 1 [NPH:19] Porcelain Legionnaire
 1 [NPH:20] Puresteel Paladin
-1 [MBS:66] Signal Pest
-1 [SOM:104] Spikeshot Elder
+1 [MBS:131] Signal Pest
+1 [MM2:127] Spikeshot Elder
 1 [SOI:44] Thraben Inspector
 1 [KLD:32] Toolcraft Exemplar
-1 [MI:249] Vigilant Martyr
+1 [MIR:undefined] Vigilant Martyr
 1 [ZEN:195] Adventuring Gear
 1 [AER:142] Aethersphere Harvester
 1 [OGW:161] Bone Saw
-1 [MR:52] Bonesplitter
-1 [MR:9] Chrome Mox
-1 [TE:267] Cursed Scroll
-1 [MBS:110] Flayer Husk
-1 [FD:126] Grafted Wargear
+1 [MMA:202] Bonesplitter
+1 [MPS:9] Chrome Mox
+1 [TPR:220] Cursed Scroll
+1 [PCA:110] Flayer Husk
+1 [5DN:126] Grafted Wargear
 1 [C16:260] Lightning Greaves
-1 [TE:15] Lotus Petal
-1 [CS:138] Mishra's Bauble
-1 [SH:228] Mox Diamond
-1 [SOM:19] Mox Opal
+1 [MPS:15] Lotus Petal
+1 [CSP:138] Mishra's Bauble
+1 [TPR:228] Mox Diamond
+1 [MPS:19] Mox Opal
 1 [SOK:157] O-Naginata
-1 [FD:211] Paradise Mantle
-1 [RTR:44] Pithing Needle
-1 [MR:212] Pyrite Spellbomb
-1 [ALA:231] Relic of Progenitus
-1 [PC2:113] Sai of the Shinobi
+1 [MMA:211] Paradise Mantle
+1 [MPS:44] Pithing Needle
+1 [MMA:212] Pyrite Spellbomb
+1 [EMA:231] Relic of Progenitus
+1 [PCA:113] Sai of the Shinobi
 1 [BOK:159] Shuko
 1 [C16:271] Skullclamp
 1 [KLD:235] Smuggler's Copter
-1 [BNG:261] Springleaf Drum
-1 [NE:139] Tangle Wire
-1 [BOK:4] Umezawa's Jitte
-1 [5E:170] Urza's Bauble
-1 [MR:274] Welding Jar
-1 [5E:234] Winter Orb
+1 [BNG:162] Springleaf Drum
+1 [V13:8] Tangle Wire
+1 [V16:14] Umezawa's Jitte
+1 [MED:170] Urza's Bauble
+1 [MRD:274] Welding Jar
+1 [EMA:234] Winter Orb
 1 [THS:4] Chained to the Rocks
-1 [6E:9] Enlightened Tutor
+1 [EMA:9] Enlightened Tutor
 1 [SOM:91] Galvanic Blast
-1 [M12:213] Incinerate
-1 [M11:162] Lightning Bolt
-1 [RAV:213] Lightning Helix
-1 [EX:141] Price of Progress
-1 [WWK:90] Searing Blaze
-1 [M15:129] Shrapnel Blast
-1 [4E:2] Balance
-1 [LG:26] Chain Lightning
+1 [DD3_JVC:51] Incinerate
+1 [MM2:122] Lightning Bolt
+1 [DDN:65] Lightning Helix
+1 [EMA:141] Price of Progress
+1 [DDI:67] Searing Blaze
+1 [M15:161] Shrapnel Blast
+1 [EMA:2] Balance
+1 [EMA:123] Chain Lightning
 SB: 1 [C16:30] Bruse Tarl, Boorish Herder
 SB: 1 [C16:26] Akiri, Line-Slinger

@@ -1,28 +1,28 @@
 NAME:Grishoalbrand
-1 [RTR:8] Blood Crypt
-1 [ZEN:239] Marsh Flats
-1 [UNH:266] Mountain
-1 [ZEN:249] Verdant Catacombs
-3 [UNH:263] Swamp
+1 [EXP:8] Blood Crypt
+1 [EXP:21] Marsh Flats
+1 [PCA:150] Mountain
+1 [EXP:23] Verdant Catacombs
+3 [PCA:146] Swamp
 4 [SOM:224] Blackcleave Cliffs
-4 [KTK:18] Bloodstained Mire
+4 [EXP:18] Bloodstained Mire
 4 [BNG:164] Temple of Malice
 4 [GTC:147] Borborygmos Enraged
-4 [AVR:72] Griselbrand
+4 [AVR:106] Griselbrand
 4 [PLC:122] Simian Spirit Guide
 4 [RTR:140] Worldspine Wurm
-1 [SHM:211] Manamorphose
-3 [CHK:110] Desperate Ritual
+1 [MMA:191] Manamorphose
+3 [MMA:110] Desperate Ritual
 4 [BOK:67] Goryo's Vengeance
 4 [BOK:137] Nourishing Shoal
 4 [CHK:193] Through the Breach
-3 [FD:100] Night's Whisper
+3 [EMA:100] Night's Whisper
 4 [KLD:109] Cathartic Reunion
-4 [C15:128] Faithless Looting
-SB: 1 [ROE:163] Emrakul, the Aeons Torn
+4 [EMA:128] Faithless Looting
+SB: 1 [MM2:3] Emrakul, the Aeons Torn
 SB: 2 [C15:170] Vandalblast
-SB: 2 [9E:34] Defense Grid
+SB: 2 [MPS:34] Defense Grid
 SB: 2 [THS:107] Thoughtseize
 SB: 2 [THS:112] Anger of the Gods
-SB: 3 [9E:90] Blood Moon
+SB: 3 [MMA:106] Blood Moon
 SB: 3 [EMN:85] Collective Brutality

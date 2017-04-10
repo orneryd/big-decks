@@ -1,35 +1,35 @@
 NAME:Death's Shadow Aggro
-1 [RTR:8] Blood Crypt
-1 [UNH:269] Forest
-1 [GTC:11] Godless Shrine
-1 [RTR:13] Overgrown Tomb
-1 [GTC:9] Stomping Ground
-1 [UNH:263] Swamp
-1 [KTK:19] Wooded Foothills
-2 [KTK:17] Polluted Delta
-4 [KTK:18] Bloodstained Mire
-4 [ZEN:249] Verdant Catacombs
-1 [ARB:77] Architects of Will
-4 [WWK:64] Death's Shadow
-4 [FUT:99] Street Wraith
-4 [FUT:141] Tarmogoyf
+1 [EXP:8] Blood Crypt
+1 [PCA:156] Forest
+1 [EXP:11] Godless Shrine
+1 [EXP:13] Overgrown Tomb
+1 [EXP:9] Stomping Ground
+1 [PCA:146] Swamp
+1 [EXP:19] Wooded Foothills
+2 [EXP:17] Polluted Delta
+4 [EXP:18] Bloodstained Mire
+4 [EXP:23] Verdant Catacombs
+1 [ARC:77] Architects of Will
+4 [WWK:57] Death's Shadow
+4 [MMA:99] Street Wraith
+4 [MM2:165] Tarmogoyf
 2 [EMN:93] Liliana, the Last Hope
-4 [CS:138] Mishra's Bauble
-1 [LRW:194] Tarfire
-2 [RTR:146] Abrupt Decay
+4 [CSP:138] Mishra's Bauble
+1 [DD3_EVG:56] Tarfire
+2 [RTR:141] Abrupt Decay
 2 [FRF:116] Temur Battle Rage
 3 [AER:57] Fatal Push
-3 [DTK:181] Kolaghan's Command
+3 [DTK:224] Kolaghan's Command
 1 [EMN:85] Collective Brutality
-4 [MM3:75] Inquisition of Kozilek
+4 [CN2:140] Inquisition of Kozilek
 4 [THS:107] Thoughtseize
 4 [SOI:234] Traverse the Ulvenwald
-SB: 2 [NPH:33] Surgical Extraction
-SB: 1 [DKA:221] Grafdigger's Cage
+SB: 2 [MM2:99] Surgical Extraction
+SB: 1 [DKA:149] Grafdigger's Cage
 SB: 1 [AER:57] Fatal Push
 SB: 2 [EMN:85] Collective Brutality
-SB: 3 [SHM:188] Fulminator Mage
-SB: 1 [ISD:76] Liliana of the Veil
-SB: 3 [DKA:12] Lingering Souls
-SB: 1 [ALA:19] Ranger of Eos
-SB: 1 [ISD:88] Ancient Grudge
+SB: 3 [MM2:193] Fulminator Mage
+SB: 1 [ISD:105] Liliana of the Veil
+SB: 3 [MD1:11] Lingering Souls
+SB: 1 [ALA:21] Ranger of Eos
+SB: 1 [ISD:127] Ancient Grudge

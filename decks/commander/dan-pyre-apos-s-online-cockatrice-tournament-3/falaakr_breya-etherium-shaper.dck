@@ -1,101 +1,101 @@
 NAME:Breya, Etherium Shaper
 1 [10E:347] Adarkar Wastes
-1 [ZEN:229] Arid Mesa
-1 [R:291] Badlands
-1 [KTK:18] Bloodstained Mire
-1 [AVR:232] Cavern of Souls
+1 [EXP:24] Arid Mesa
+1 [VMA:291] Badlands
+1 [EXP:18] Bloodstained Mire
+1 [AVR:226] Cavern of Souls
 1 [C16:285] Caves of Koilos
 1 [C16:286] Command Tower
 1 [M13:223] Drowned Catacomb
-1 [KTK:16] Flooded Strand
+1 [EXP:16] Flooded Strand
 1 [M13:225] Glacial Fortress
-1 [GTC:11] Godless Shrine
-1 [RTR:6] Hallowed Fountain
-1 [ISD:242] Isolated Chapel
-1 [JOU:42] Mana Confluence
-1 [ZEN:239] Marsh Flats
-1 [ZEN:240] Misty Rainforest
-1 [SHM:26] Mystic Gate
-1 [R:308] Plateau
-1 [KTK:17] Polluted Delta
-1 [ZEN:244] Scalding Tarn
-1 [R:313] Scrubland
-1 [ORI:357] Shivan Reef
-1 [RTR:12] Steam Vents
+1 [EXP:11] Godless Shrine
+1 [EXP:6] Hallowed Fountain
+1 [MD1:16] Isolated Chapel
+1 [EXP:42] Mana Confluence
+1 [EXP:21] Marsh Flats
+1 [EXP:25] Misty Rainforest
+1 [EXP:26] Mystic Gate
+1 [VMA:308] Plateau
+1 [EXP:17] Polluted Delta
+1 [EXP:22] Scalding Tarn
+1 [VMA:313] Scrubland
+1 [ORI:251] Shivan Reef
+1 [EXP:12] Steam Vents
 1 [ISD:248] Sulfur Falls
-1 [SHM:27] Sunken Ruins
+1 [EXP:27] Sunken Ruins
 1 [THS:225] Temple of Deceit
 1 [BNG:163] Temple of Enlightenment
 1 [JOU:164] Temple of Epiphany
 1 [THS:227] Temple of Silence
 1 [C16:331] Temple of the False God
-1 [R:322] Tundra
+1 [VMA:322] Tundra
 1 [C16:335] Underground River
-1 [R:323] Underground Sea
-1 [M15:165] Urborg, Tomb of Yawgmoth
-1 [ZEN:249] Verdant Catacombs
-1 [R:324] Volcanic Island
-1 [TE:248] Wasteland
-1 [GTC:7] Watery Grave
-1 [KTK:20] Windswept Heath
-1 [KTK:19] Wooded Foothills
-1 [C16:181] Baleful Strix
-1 [ORI:995] Jace, Vryn's Prodigy
+1 [VMA:323] Underground Sea
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [EXP:23] Verdant Catacombs
+1 [VMA:324] Volcanic Island
+1 [EMA:248] Wasteland
+1 [EXP:7] Watery Grave
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
+1 [PCA:82] Baleful Strix
+1 [ORI:60a] Jace, Vryn's Prodigy
 1 [FRF:20] Monastery Mentor
-1 [ISD:50] Snapcaster Mage
-1 [MPS:4] Torrential Gearhulk
+1 [ISD:78] Snapcaster Mage
+1 [MPS:2] Torrential Gearhulk
 1 [CN2:74] Daretti, Ingenious Iconoclast
-1 [THS:9] Elspeth, Sun's Champion
-1 [WWK:57] Jace, the Mind Sculptor
-1 [ISD:76] Liliana of the Veil
-1 [DIS:215] Azorius Signet
-1 [C15:217] Boros Signet
-1 [MR:9] Chrome Mox
-1 [CMD:219] Dimir Signet
-1 [C15:223] Izzet Signet
-1 [MM3:224] Orzhov Signet
-1 [MM3:225] Rakdos Signet
-1 [MR:253] Talisman of Dominance
-1 [MR:256] Talisman of Progress
-1 [C15:40] Brainstorm
-1 [7E:10] Counterspell
-1 [LRW:11] Cryptic Command
-1 [NPH:57] Dismember
+1 [DDO:1] Elspeth, Sun's Champion
+1 [EMA:57] Jace, the Mind Sculptor
+1 [ISD:105] Liliana of the Veil
+1 [ARC:103] Azorius Signet
+1 [C15:247] Boros Signet
+1 [MPS:9] Chrome Mox
+1 [CMD:246] Dimir Signet
+1 [C15:256] Izzet Signet
+1 [C16:266] Orzhov Signet
+1 [C16:268] Rakdos Signet
+1 [MRD:253] Talisman of Dominance
+1 [MRD:256] Talisman of Progress
+1 [EMA:40] Brainstorm
+1 [EMA:43] Counterspell
+1 [MM2:43] Cryptic Command
+1 [MM2:79] Dismember
 1 [THS:47] Dissolve
 1 [ALA:167] Esper Charm
-1 [AP:50] Evasive Action
-1 [C15:48] Fact or Fiction
-1 [IA:145] Fire Covenant
-1 [CMD:198] Fire/Ice
-1 [AL:14] Force of Will
+1 [DDE:50] Evasive Action
+1 [EMA:48] Fact or Fiction
+1 [MED:145] Fire Covenant
+1 [DDJ:32b] Fire/Ice
+1 [EMA:49] Force of Will
 1 [MBS:43] Go for the Throat
-1 [VI:34] Impulse
-1 [M11:162] Lightning Bolt
-1 [M12:44] Mana Leak
-1 [UL:36] Miscalculation
+1 [DDN:63] Impulse
+1 [MM2:122] Lightning Bolt
+1 [MM2:50] Mana Leak
+1 [ULG:36] Miscalculation
 1 [C15:14] Mystic Confluence
-1 [TSP:44] Mystical Teachings
+1 [TSP:69] Mystical Teachings
 1 [AER:40] Negate
-1 [CMD:17] Path to Exile
-1 [RAV:63] Remand
+1 [MD1:3] Path to Exile
+1 [MM2:55] Remand
 1 [C16:78] Swords to Plowshares
-1 [OD:164] Tainted Pact
-1 [MM3:194] Terminate
-1 [ISD:86] Think Twice
-1 [DGM:135] Wear/Tear
-1 [TSP:48] Ancestral Vision
-1 [4E:2] Balance
-1 [CNS:20] Council's Judgment
-1 [PLC:63] Damnation
-1 [M12:22] Day of Judgment
-1 [R:116] Demonic Tutor
+1 [ODY:164] Tainted Pact
+1 [C16:225] Terminate
+1 [ISD:83] Think Twice
+1 [DGM:135b] Wear/Tear
+1 [DD3_JVC:21] Ancestral Vision
+1 [EMA:2] Balance
+1 [VMA:20] Council's Judgment
+1 [PLC:85] Damnation
+1 [M12:12] Day of Judgment
+1 [DD3_DVD:49] Demonic Tutor
 1 [RTR:157] Dreadbore
-1 [ROE:145] Flame Slash
-1 [ROE:7] Oust
-1 [M12:29] Ponder
+1 [CN2:157] Flame Slash
+1 [DDP:7] Oust
+1 [M12:73] Ponder
 1 [C15:101] Preordain
-1 [RTR:56] Supreme Verdict
-1 [C13:108] Toxic Deluge
-1 [AP:30] Vindicate
-1 [C13:7] Wrath of God
+1 [RTR:201] Supreme Verdict
+1 [EMA:108] Toxic Deluge
+1 [EMA:210] Vindicate
+1 [EMA:38] Wrath of God
 SB: 1 [C16:29] Breya, Etherium Shaper

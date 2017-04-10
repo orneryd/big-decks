@@ -1,29 +1,29 @@
 NAME:Elves
-1 [TSP:120] Pendelhaven
-2 [R:293] Bayou
-2 [AVR:232] Cavern of Souls
-2 [FUT:174] Dryad Arbor
-2 [UNH:269] Forest
-3 [ZEN:249] Verdant Catacombs
-4 [US:321] Gaea's Cradle
-4 [KTK:20] Windswept Heath
-1 [C14:39] Reclamation Sage
-2 [ON:248] Birchlore Rangers
-2 [AVR:122] Craterhoof Behemoth
-3 [MOR:171] Heritage Druid
-4 [RTR:215] Deathrite Shaman
-4 [C15:182] Elvish Visionary
+1 [TSB:120] Pendelhaven
+2 [VMA:293] Bayou
+2 [AVR:226] Cavern of Souls
+2 [V12:5] Dryad Arbor
+2 [PCA:156] Forest
+3 [EXP:23] Verdant Catacombs
+4 [USG:321] Gaea's Cradle
+4 [EXP:20] Windswept Heath
+1 [C14:213] Reclamation Sage
+2 [ONS:248] Birchlore Rangers
+2 [AVR:172] Craterhoof Behemoth
+3 [EMA:171] Heritage Druid
+4 [EMA:215] Deathrite Shaman
+4 [DDR:8] Elvish Visionary
 4 [EVE:71] Nettle Sentinel
-4 [VI:67] Quirion Ranger
-4 [SC:192] Wirewood Symbiote
-1 [BOK:4] Umezawa's Jitte
-3 [PT:177] Natural Order
+4 [pFNM:15] Quirion Ranger
+4 [EMA:192] Wirewood Symbiote
+1 [V16:14] Umezawa's Jitte
+3 [EMA:177] Natural Order
 4 [CHK:210] Glimpse of Nature
-4 [MBS:169] Green Sun's Zenith
-SB: 3 [JU:83] Cabal Therapy
+4 [EMA:169] Green Sun's Zenith
+SB: 3 [EMA:83] Cabal Therapy
 SB: 3 [THS:107] Thoughtseize
-SB: 2 [NPH:33] Surgical Extraction
-SB: 1 [MM3:134] Scavenging Ooze
+SB: 2 [MM2:99] Surgical Extraction
+SB: 1 [C16:166] Scavenging Ooze
 SB: 1 [LRW:248] Gaddock Teeg
-SB: 4 [RTR:146] Abrupt Decay
+SB: 4 [RTR:141] Abrupt Decay
 SB: 1 [KLD:163] Nissa, Vital Force

@@ -1,43 +1,43 @@
 NAME:Jeskai Mentor
-1 [AVR:232] Cavern of Souls
-1 [AN:303] Library of Alexandria
-1 [4E:43] Strip Mine
-2 [KTK:17] Polluted Delta
-3 [UNH:260] Island
-3 [R:322] Tundra
-4 [KTK:16] Flooded Strand
-1 [ORI:995] Jace, Vryn's Prodigy
-2 [ISD:50] Snapcaster Mage
+1 [AVR:226] Cavern of Souls
+1 [VMA:303] Library of Alexandria
+1 [EXP:43] Strip Mine
+2 [EXP:17] Polluted Delta
+3 [PCA:141] Island
+3 [VMA:322] Tundra
+4 [EXP:16] Flooded Strand
+1 [ORI:60a] Jace, Vryn's Prodigy
+2 [ISD:78] Snapcaster Mage
 4 [FRF:20] Monastery Mentor
-1 [WWK:57] Jace, the Mind Sculptor
-1 [U:4] Black Lotus
-1 [FD:36] Engineered Explosives
-1 [U:5] Mox Emerald
-1 [U:6] Mox Jet
-1 [U:7] Mox Pearl
-1 [U:8] Mox Ruby
-1 [U:9] Mox Sapphire
-1 [C15:272] Sol Ring
-1 [U:1] Ancestral Recall
-1 [C15:40] Brainstorm
-1 [KTK:97] Dig Through Time
-2 [CMD:68] Flusterstorm
-2 [M12:44] Mana Leak
-3 [MM:72] Gush
-4 [AL:14] Force of Will
+1 [EMA:57] Jace, the Mind Sculptor
+1 [VMA:4] Black Lotus
+1 [MPS:36] Engineered Explosives
+1 [VMA:5] Mox Emerald
+1 [VMA:6] Mox Jet
+1 [VMA:7] Mox Pearl
+1 [VMA:8] Mox Ruby
+1 [VMA:9] Mox Sapphire
+1 [C16:272] Sol Ring
+1 [VMA:1] Ancestral Recall
+1 [EMA:40] Brainstorm
+1 [KTK:36] Dig Through Time
+2 [VMA:68] Flusterstorm
+2 [MM2:50] Mana Leak
+3 [DD3_JVC:27] Gush
+4 [EMA:49] Force of Will
 4 [NPH:38] Mental Misstep
-4 [CNS:78] Swords to Plowshares
-1 [M12:29] Ponder
-1 [U:2] Time Walk
-1 [KTK:101] Treasure Cruise
+4 [C16:78] Swords to Plowshares
+1 [M12:73] Ponder
+1 [VMA:2] Time Walk
+1 [C16:101] Treasure Cruise
 4 [C15:101] Preordain
-SB: 4 [C14:3] Containment Priest
-SB: 1 [4E:2] Balance
-SB: 1 [7E:60] Arcane Laboratory
-SB: 1 [RTR:56] Supreme Verdict
+SB: 4 [C14:5] Containment Priest
+SB: 1 [EMA:2] Balance
+SB: 1 [7ED:60] Arcane Laboratory
+SB: 1 [RTR:201] Supreme Verdict
 SB: 1 [RTR:18] Rest in Peace
-SB: 1 [UNH:257] Plains
-SB: 2 [CMD:17] Path to Exile
-SB: 1 [WL:154] Null Rod
-SB: 1 [SOK:14] Kataki, War's Wage
-SB: 2 [ARENA:6] Disenchant
+SB: 1 [PCA:136] Plains
+SB: 2 [MD1:3] Path to Exile
+SB: 1 [VMA:278] Null Rod
+SB: 1 [MD1:24] Kataki, War's Wage
+SB: 2 [CN2:82] Disenchant

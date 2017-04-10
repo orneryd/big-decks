@@ -1,36 +1,36 @@
 NAME:Grixis Delver
-1 [RTR:8] Blood Crypt
-1 [KTK:18] Bloodstained Mire
-1 [UNH:266] Mountain
+1 [EXP:8] Blood Crypt
+1 [EXP:18] Bloodstained Mire
+1 [PCA:150] Mountain
 1 [KLD:249] Spirebluff Canal
-1 [UNH:263] Swamp
-1 [GTC:7] Watery Grave
+1 [PCA:146] Swamp
+1 [EXP:7] Watery Grave
 2 [SOM:226] Darkslick Shores
-2 [UNH:260] Island
-2 [RTR:12] Steam Vents
-4 [KTK:17] Polluted Delta
-4 [ZEN:244] Scalding Tarn
+2 [PCA:141] Island
+2 [EXP:12] Steam Vents
+4 [EXP:17] Polluted Delta
+4 [EXP:22] Scalding Tarn
 1 [FRF:72] Gurmag Angler
-1 [MOR:55] Vendilion Clique
-3 [FRF:153] Tasigur, the Golden Fang
-4 [ISD:51] Delver of Secrets
-4 [ISD:50] Snapcaster Mage
-2 [DTK:181] Kolaghan's Command
-2 [MM3:194] Terminate
-3 [M12:44] Mana Leak
-3 [DIS:64] Spell Snare
+1 [MM2:67] Vendilion Clique
+3 [FRF:87] Tasigur, the Golden Fang
+4 [ISD:51a] Delver of Secrets
+4 [ISD:78] Snapcaster Mage
+2 [DTK:224] Kolaghan's Command
+2 [C16:225] Terminate
+3 [MM2:50] Mana Leak
+3 [MMA:64] Spell Snare
 4 [AER:57] Fatal Push
-4 [M11:162] Lightning Bolt
-4 [DKA:21] Thought Scour
+4 [MM2:122] Lightning Bolt
+4 [DDM:21] Thought Scour
 1 [EMN:85] Collective Brutality
-4 [MM3:49] Serum Visions
+4 [CN2:120] Serum Visions
 SB: 2 [EMN:85] Collective Brutality
-SB: 2 [FD:36] Engineered Explosives
-SB: 2 [SHM:188] Fulminator Mage
+SB: 2 [MPS:36] Engineered Explosives
+SB: 2 [MM2:193] Fulminator Mage
 SB: 1 [RTR:173] Izzet Staticaster
-SB: 2 [CFX:59] Countersquall
+SB: 2 [DDH:59] Countersquall
 SB: 1 [BFZ:76] Dispel
-SB: 1 [NPH:33] Surgical Extraction
+SB: 1 [MM2:99] Surgical Extraction
 SB: 1 [BFZ:128] Crumble to Dust
 SB: 2 [BFZ:120] Painful Truths
 SB: 1 [C15:170] Vandalblast

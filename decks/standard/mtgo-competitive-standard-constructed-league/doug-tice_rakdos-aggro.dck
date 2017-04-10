@@ -1,9 +1,9 @@
 NAME:Rakdos Aggro
 2 [AER:184] Spire of Industry
 4 [SOI:272] Foreboding Ruins
-4 [BFZ:3] Smoldering Marsh
-6 [UNH:266] Mountain
-7 [UNH:263] Swamp
+4 [EXP:3] Smoldering Marsh
+6 [PCA:150] Mountain
+7 [PCA:146] Swamp
 1 [SOI:248] Olivia, Mobilized for War
 1 [KLD:124] Pia Nalaar
 2 [OGW:86] Kalitas, Traitor of Ghet
@@ -24,5 +24,5 @@ SB: 2 [OGW:85] Grasp of Darkness
 SB: 1 [EMN:93] Liliana, the Last Hope
 SB: 2 [OGW:113] Oath of Chandra
 SB: 2 [EMN:99] Oath of Liliana
-SB: 2 [BFZ:119] Ob Nixilis Reignited
+SB: 2 [DDR:36] Ob Nixilis Reignited
 SB: 2 [AER:96] Release the Gremlins

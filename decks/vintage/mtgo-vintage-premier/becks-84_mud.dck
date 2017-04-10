@@ -1,36 +1,36 @@
 NAME:MUD
-1 [4E:43] Strip Mine
-1 [US:319] Tolarian Academy
-3 [4E:242] Mishra's Factory
-4 [TE:36] Ancient Tomb
-4 [AQ:305] Mishra's Workshop
-4 [TE:248] Wasteland
-1 [WWK:127] Lodestone Golem
-1 [M11:269] Triskelion
-3 [ORI:13] Hangarback Walker
-4 [DS:31] Arcbound Ravager
+1 [EXP:43] Strip Mine
+1 [VMA:319] Tolarian Academy
+3 [EMA:242] Mishra's Factory
+4 [EXP:36] Ancient Tomb
+4 [VMA:305] Mishra's Workshop
+4 [EMA:248] Wasteland
+1 [MM2:219] Lodestone Golem
+1 [DDF:57] Triskelion
+3 [MPS:13] Hangarback Walker
+4 [MPS:31] Arcbound Ravager
 4 [KLD:215] Foundry Inspector
-4 [M15:122] Phyrexian Revoker
+4 [M15:225] Phyrexian Revoker
 4 [AER:181] Walking Ballista
-1 [U:4] Black Lotus
-1 [MR:33] Chalice of the Void
+1 [VMA:4] Black Lotus
+1 [MPS:33] Chalice of the Void
 1 [MPS:16] Mana Crypt
-1 [U:5] Mox Emerald
-1 [U:6] Mox Jet
-1 [U:7] Mox Pearl
-1 [U:8] Mox Ruby
-1 [U:9] Mox Sapphire
+1 [VMA:5] Mox Emerald
+1 [VMA:6] Mox Jet
+1 [VMA:7] Mox Pearl
+1 [VMA:8] Mox Ruby
+1 [VMA:9] Mox Sapphire
 1 [C16:272] Sol Ring
-1 [DS:52] Trinisphere
-4 [EX:47] Sphere of Resistance
-4 [NE:139] Tangle Wire
+1 [MPS:52] Trinisphere
+4 [MPS:47] Sphere of Resistance
+4 [V13:8] Tangle Wire
 4 [LRW:262] Thorn of Amethyst
-SB: 2 [10E:11] Crucible of Worlds
-SB: 1 [NPH:57] Dismember
-SB: 1 [MR:35] Duplicant
-SB: 4 [DKA:221] Grafdigger's Cage
-SB: 1 [9E:301] Jester's Cap
-SB: 1 [LG:240] Karakas
-SB: 2 [ALA:231] Relic of Progenitus
-SB: 1 [C14:115] Tormod's Crypt
-SB: 2 [C14:54] Wurmcoil Engine
+SB: 2 [MPS:11] Crucible of Worlds
+SB: 1 [MM2:79] Dismember
+SB: 1 [MPS:35] Duplicant
+SB: 4 [DKA:149] Grafdigger's Cage
+SB: 1 [V10:5] Jester's Cap
+SB: 1 [EMA:240] Karakas
+SB: 2 [EMA:231] Relic of Progenitus
+SB: 1 [C14:278] Tormod's Crypt
+SB: 2 [MPS:54] Wurmcoil Engine

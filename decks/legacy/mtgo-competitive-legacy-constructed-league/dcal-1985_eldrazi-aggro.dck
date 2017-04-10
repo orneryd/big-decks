@@ -1,28 +1,28 @@
 NAME:Eldrazi Aggro
-1 [LG:240] Karakas
-3 [EX:237] City of Traitors
-3 [WWK:38] Eye of Ugin
-3 [4E:242] Mishra's Factory
-3 [TE:248] Wasteland
-4 [TE:36] Ancient Tomb
-4 [AVR:232] Cavern of Souls
-4 [ROE:68] Eldrazi Temple
-1 [BFZ:011] Oblivion Sower
+1 [EMA:240] Karakas
+3 [TPR:237] City of Traitors
+3 [EXP:38] Eye of Ugin
+3 [EMA:242] Mishra's Factory
+3 [EMA:248] Wasteland
+4 [EXP:36] Ancient Tomb
+4 [AVR:226] Cavern of Souls
+4 [DDP:68] Eldrazi Temple
+1 [BFZ:11] Oblivion Sower
 2 [OGW:3] Endbringer
 2 [PLC:122] Simian Spirit Guide
 4 [OGW:2] Eldrazi Mimic
-4 [BFZ:008] Endless One
+4 [BFZ:8] Endless One
 4 [OGW:6] Matter Reshaper
 4 [OGW:7] Reality Smasher
 4 [OGW:9] Thought-Knot Seer
-1 [BOK:4] Umezawa's Jitte
-4 [MR:33] Chalice of the Void
-2 [NPH:57] Dismember
+1 [V16:14] Umezawa's Jitte
+4 [MPS:33] Chalice of the Void
+2 [MM2:79] Dismember
 3 [OGW:12] Warping Wail
-SB: 1 [BOK:4] Umezawa's Jitte
+SB: 1 [V16:14] Umezawa's Jitte
 SB: 4 [M11:101] Leyline of the Void
-SB: 2 [RTR:44] Pithing Needle
-SB: 2 [M14:67] Ratchet Bomb
+SB: 2 [MPS:44] Pithing Needle
+SB: 2 [M14:215] Ratchet Bomb
 SB: 2 [OGW:8] Spatial Contortion
 SB: 3 [LRW:262] Thorn of Amethyst
-SB: 1 [5E:234] Winter Orb
+SB: 1 [EMA:234] Winter Orb

@@ -1,28 +1,28 @@
 NAME:Valakut
-2 [BFZ:4] Cinder Glade
-2 [UNH:269] Forest
+2 [EXP:4] Cinder Glade
+2 [PCA:156] Forest
 3 [ZEN:228] Valakut, the Molten Pinnacle
-4 [ZEN:229] Arid Mesa
-4 [GTC:9] Stomping Ground
-4 [KTK:19] Wooded Foothills
-6 [UNH:266] Mountain
-1 [BNG:12] Courser of Kruphix
+4 [EXP:24] Arid Mesa
+4 [EXP:9] Stomping Ground
+4 [EXP:19] Wooded Foothills
+6 [PCA:150] Mountain
+1 [CPK:6] Courser of Kruphix
 1 [M11:188] Obstinate Baloth
 3 [PLC:122] Simian Spirit Guide
-4 [M12:156] Primeval Titan
+4 [MM2:156] Primeval Titan
 4 [C16:164] Sakura-Tribe Elder
-4 [ALA:231] Relic of Progenitus
-4 [FUT:164] Summoner's Pact
+4 [EMA:231] Relic of Progenitus
+4 [MMA:164] Summoner's Pact
 4 [CHK:193] Through the Breach
 2 [THS:112] Anger of the Gods
 4 [C16:149] Farseek
-4 [TSP:216] Search for Tomorrow
+4 [MMA:161] Search for Tomorrow
 SB: 1 [THS:112] Anger of the Gods
 SB: 2 [SOI:233] Tireless Tracker
-SB: 1 [M13:143] Thragtusk
-SB: 2 [M11:162] Lightning Bolt
-SB: 1 [M15:159] Hornet Queen
-SB: 1 [ORI:208] Gaea's Revenge
+SB: 1 [M13:193] Thragtusk
+SB: 2 [MM2:122] Lightning Bolt
+SB: 1 [M15:178] Hornet Queen
+SB: 1 [ORI:177] Gaea's Revenge
 SB: 1 [BFZ:128] Crumble to Dust
-SB: 3 [MR:33] Chalice of the Void
-SB: 3 [ISD:88] Ancient Grudge
+SB: 3 [MPS:33] Chalice of the Void
+SB: 3 [ISD:127] Ancient Grudge

@@ -1,28 +1,28 @@
 NAME:Miracles
-2 [ZEN:229] Arid Mesa
-2 [UNH:257] Plains
-2 [R:324] Volcanic Island
-3 [R:322] Tundra
-4 [KTK:16] Flooded Strand
-4 [UNH:260] Island
-4 [ZEN:244] Scalding Tarn
+2 [EXP:24] Arid Mesa
+2 [PCA:136] Plains
+2 [VMA:324] Volcanic Island
+3 [VMA:322] Tundra
+4 [EXP:16] Flooded Strand
+4 [PCA:141] Island
+4 [EXP:22] Scalding Tarn
 3 [FRF:20] Monastery Mentor
-3 [ISD:50] Snapcaster Mage
-2 [WWK:57] Jace, the Mind Sculptor
-2 [FD:36] Engineered Explosives
-4 [CHK:232] Sensei's Divining Top
-4 [CS:9] Counterbalance
-1 [7E:10] Counterspell
-4 [C15:40] Brainstorm
-4 [AL:14] Force of Will
+3 [ISD:78] Snapcaster Mage
+2 [EMA:57] Jace, the Mind Sculptor
+2 [MPS:36] Engineered Explosives
+4 [EMA:232] Sensei's Divining Top
+4 [CSP:31] Counterbalance
+1 [EMA:43] Counterspell
+4 [EMA:40] Brainstorm
+4 [EMA:49] Force of Will
 4 [C16:78] Swords to Plowshares
-4 [M12:29] Ponder
-4 [AVR:26] Terminus
+4 [M12:73] Ponder
+4 [V14:12] Terminus
 SB: 1 [RTR:173] Izzet Staticaster
-SB: 3 [NPH:33] Surgical Extraction
-SB: 2 [CMD:68] Flusterstorm
-SB: 2 [9E:90] Blood Moon
-SB: 2 [5E:142] Pyroblast
-SB: 2 [ARENA:6] Disenchant
-SB: 1 [RTR:44] Pithing Needle
-SB: 2 [MOR:55] Vendilion Clique
+SB: 3 [MM2:99] Surgical Extraction
+SB: 2 [VMA:68] Flusterstorm
+SB: 2 [MMA:106] Blood Moon
+SB: 2 [EMA:142] Pyroblast
+SB: 2 [CN2:82] Disenchant
+SB: 1 [MPS:44] Pithing Needle
+SB: 2 [MM2:67] Vendilion Clique

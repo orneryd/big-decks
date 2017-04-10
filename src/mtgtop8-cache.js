@@ -13,7 +13,6 @@ const get = (options) => {
 
 const set = (options, contents) => {
   let filePath = cachePath(_.camelCase(options.path));
-  console.log(`saving: ${options.path}`);
   fs.writeFileSync(filePath, contents);
 };
 

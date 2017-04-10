@@ -1,74 +1,74 @@
 NAME:Nin's Combo Punishment
-1 [ZEN:229] Arid Mesa
-1 [KTK:18] Bloodstained Mire
-1 [EVE:32] Cascade Bluffs
+1 [EXP:24] Arid Mesa
+1 [EXP:18] Bloodstained Mire
+1 [EXP:32] Cascade Bluffs
 1 [C16:286] Command Tower
-1 [KTK:16] Flooded Strand
-1 [AQ:305] Mishra's Workshop
-1 [ZEN:240] Misty Rainforest
-1 [KTK:17] Polluted Delta
-1 [ZEN:244] Scalding Tarn
-1 [RTR:12] Steam Vents
-1 [R:324] Volcanic Island
-1 [TE:248] Wasteland
-1 [KTK:19] Wooded Foothills
-8 [UNH:266] Mountain
-1 [NPH:33] Deceiver Exarch
-1 [US:76] Gilded Drake
-1 [P3:113] Imperial Recruiter
-1 [CHK:121] Kiki-Jiki, Mirror Breaker
+1 [EXP:16] Flooded Strand
+1 [VMA:305] Mishra's Workshop
+1 [EXP:25] Misty Rainforest
+1 [EXP:17] Polluted Delta
+1 [EXP:22] Scalding Tarn
+1 [EXP:12] Steam Vents
+1 [VMA:324] Volcanic Island
+1 [EMA:248] Wasteland
+1 [EXP:19] Wooded Foothills
+8 [PCA:150] Mountain
+1 [CN2:106] Deceiver Exarch
+1 [USG:76] Gilded Drake
+1 [ME2:130] Imperial Recruiter
+1 [MM2:121] Kiki-Jiki, Mirror Breaker
 1 [FUT:101] Magus of the Moon
-1 [LRW:59] Pestermite
-1 [ISD:50] Snapcaster Mage
-1 [MPS:4] Torrential Gearhulk
-1 [FUT:55] Venser, Shaper Savant
+1 [MMA:59] Pestermite
+1 [ISD:78] Snapcaster Mage
+1 [MPS:2] Torrential Gearhulk
+1 [V13:15] Venser, Shaper Savant
 1 [OGW:104] Chandra, Flamecaller
-1 [CNS:199] Dack Fayden
-1 [WWK:57] Jace, the Mind Sculptor
-1 [MR:9] Chrome Mox
-1 [FD:53] Vedalken Shackles
-1 [9E:90] Blood Moon
-1 [ROE:165] Splinter Twin
-1 [C15:40] Brainstorm
-1 [CS:29] Commandeer
-1 [ON:76] Complicate
-1 [FD:27] Condescend
-1 [7E:10] Counterspell
-1 [LRW:11] Cryptic Command
-1 [NE:12] Daze
+1 [EMA:199] Dack Fayden
+1 [EMA:57] Jace, the Mind Sculptor
+1 [MPS:9] Chrome Mox
+1 [MPS:53] Vedalken Shackles
+1 [MMA:106] Blood Moon
+1 [MM2:129] Splinter Twin
+1 [EMA:40] Brainstorm
+1 [CSP:29] Commandeer
+1 [ONS:76] Complicate
+1 [DD3_JVC:28] Condescend
+1 [EMA:43] Counterspell
+1 [MM2:43] Cryptic Command
+1 [EMA:44] Daze
 1 [THS:47] Dissolve
-1 [CMD:42] Electrolyze
-1 [C15:48] Fact or Fiction
-1 [CMD:198] Fire/Ice
-1 [JU:40] Flash of Insight
-1 [7E:76] Force Spike
-1 [AL:14] Force of Will
-1 [VI:34] Impulse
-1 [C14:48] Into the Roil
-1 [RTR:171] Izzet Charm
-1 [M11:162] Lightning Bolt
-1 [M12:44] Mana Leak
-1 [7E:60] Memory Lapse
+1 [MM2:174] Electrolyze
+1 [EMA:48] Fact or Fiction
+1 [DDJ:32b] Fire/Ice
+1 [JUD:40] Flash of Insight
+1 [DDJ:14] Force Spike
+1 [EMA:49] Force of Will
+1 [DDN:63] Impulse
+1 [C14:115] Into the Roil
+1 [RTR:172] Izzet Charm
+1 [MM2:122] Lightning Bolt
+1 [MM2:50] Mana Leak
+1 [EMA:60] Memory Lapse
 1 [NPH:38] Mental Misstep
-1 [UL:36] Miscalculation
-1 [CNS:87] Misdirection
+1 [ULG:36] Miscalculation
+1 [CNS:102] Misdirection
 1 [C15:14] Mystic Confluence
 1 [AER:40] Negate
-1 [IN:64] Opt
-1 [RAV:63] Remand
+1 [INV:64] Opt
+1 [MM2:55] Remand
 1 [C15:104] Repeal
-1 [US:213] Scrap
-1 [ZEN:51] Spell Pierce
-1 [DIS:64] Spell Snare
+1 [USG:213] Scrap
+1 [ZEN:67] Spell Pierce
+1 [MMA:64] Spell Snare
 1 [C16:98] Swan Song
-1 [TSP:48] Ancestral Vision
+1 [DD3_JVC:21] Ancestral Vision
 1 [THS:112] Anger of the Gods
-1 [ROE:145] Flame Slash
+1 [CN2:157] Flame Slash
 1 [C13:52] Order of Succession
-1 [M12:29] Ponder
+1 [M12:73] Ponder
 1 [C15:101] Preordain
-1 [P3:122] Rolling Earthquake
-1 [CMD:95] Ruination
+1 [V14:10] Rolling Earthquake
+1 [CMD:134] Ruination
 1 [MBS:75] Slagstorm
 1 [C13:124] Sudden Demise
 SB: 1 [CMD:213] Nin, the Pain Artist

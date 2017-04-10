@@ -1,65 +1,65 @@
 NAME:Jace, Vryn's High Tide 
 1 [AER:28] Baral, Chief of Compliance
 1 [EMN:6] Emrakul, the Promised End
-1 [UL:86] Palinchron
-1 [US:64] Peregrine Drake
-1 [ISD:50] Snapcaster Mage
-1 [MPS:4] Torrential Gearhulk
-1 [MOR:55] Vendilion Clique
+1 [VMA:86] Palinchron
+1 [PCA:22] Peregrine Drake
+1 [ISD:78] Snapcaster Mage
+1 [MPS:2] Torrential Gearhulk
+1 [MM2:67] Vendilion Clique
 1 [C14:19] Teferi, Temporal Archmage
 1 [FRF:1] Ugin, the Spirit Dragon
-1 [MR:9] Chrome Mox
-1 [MR:38] Extraplanar Lens
-1 [TSP:12] Gauntlet of Power
-1 [SH:228] Mox Diamond
-1 [C14:296] Sapphire Medallion
-1 [ON:50] Future Sight
-1 [UD:50] Treachery
+1 [MPS:9] Chrome Mox
+1 [MPS:38] Extraplanar Lens
+1 [MPS:12] Gauntlet of Power
+1 [TPR:228] Mox Diamond
+1 [C14:266] Sapphire Medallion
+1 [EMA:50] Future Sight
+1 [UDS:50] Treachery
 1 [C15:88] Blue Sun's Zenith
-1 [C15:40] Brainstorm
-1 [TSP:52] Careful Consideration
-1 [7E:10] Counterspell
-1 [LRW:11] Cryptic Command
-1 [C14:35] Cyclonic Rift
+1 [EMA:40] Brainstorm
+1 [MMA:37] Careful Consideration
+1 [EMA:43] Counterspell
+1 [MM2:43] Cryptic Command
+1 [C14:104] Cyclonic Rift
 1 [RAV:43] Dizzy Spell
 1 [SOI:58] Engulf the Shore
 1 [SOI:59] Epiphany at the Drownyard
-1 [C15:48] Fact or Fiction
-1 [JU:40] Flash of Insight
-1 [AL:14] Force of Will
-1 [UL:70] Frantic Search
-1 [GP:26] Gigadrowse
+1 [EMA:48] Fact or Fiction
+1 [JUD:40] Flash of Insight
+1 [EMA:49] Force of Will
+1 [VMA:70] Frantic Search
+1 [GPT:26] Gigadrowse
 1 [KLD:49] Glimmer of Genius
-1 [FE:80] High Tide
-1 [VI:34] Impulse
-1 [C14:48] Into the Roil
-1 [TE:54] Intuition
-1 [JU:46] Mental Note
+1 [VMA:73] High Tide
+1 [DDN:63] Impulse
+1 [C14:115] Into the Roil
+1 [TPR:54] Intuition
+1 [JUD:46] Mental Note
 1 [C15:14] Mystic Confluence
-1 [IN:64] Opt
+1 [INV:64] Opt
 1 [10E:94] Peek
-1 [RAV:63] Remand
+1 [MM2:55] Remand
 1 [C15:104] Repeal
-1 [CMD:58] Repulse
-1 [UL:43] Snap
-1 [DKA:21] Thought Scour
-1 [US:60] Turnabout
+1 [CN2:119] Repulse
+1 [ULG:43] Snap
+1 [DDM:21] Thought Scour
+1 [VMA:99] Turnabout
 1 [EMN:79] Unsubstantiate
 1 [TSP:94] Wipe Away
-1 [OD:114] Words of Wisdom
-1 [C13:45] Deep Analysis
+1 [ODY:114] Words of Wisdom
+1 [EMA:45] Deep Analysis
 1 [NPH:35] Gitaxian Probe
-1 [8E:42] Merchant Scroll
-1 [SC:80] Mind's Desire
+1 [8ED:91] Merchant Scroll
+1 [V16:8] Mind's Desire
 1 [SOI:78] Pieces of the Puzzle
-1 [M12:29] Ponder
+1 [M12:73] Ponder
 1 [C15:101] Preordain
-1 [MM3:49] Serum Visions
-1 [9E:51] Sleight of Hand
-1 [SC:96] Temporal Fissure
-1 [P2:54] Temporal Manipulation
+1 [CN2:120] Serum Visions
+1 [ME4:62] Sleight of Hand
+1 [VMA:96] Temporal Fissure
+1 [ME2:69] Temporal Manipulation
 1 [FRF:55] Temporal Trespass
-1 [US:103] Time Spiral
-1 [M10:74] Time Warp
+1 [USG:103] Time Spiral
+1 [TPR:74] Time Warp
 1 [TSP:93] Walk the Aeons
-SB: 1 [ORI:995] Jace, Vryn's Prodigy
+SB: 1 [ORI:60a] Jace, Vryn's Prodigy

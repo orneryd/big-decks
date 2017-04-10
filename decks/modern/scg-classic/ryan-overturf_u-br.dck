@@ -1,31 +1,31 @@
 NAME:UBr
-1 [RTR:8] Blood Crypt
-1 [UNH:260] Island
-1 [UNH:263] Swamp
-2 [RTR:12] Steam Vents
-2 [GTC:7] Watery Grave
-4 [KTK:18] Bloodstained Mire
-4 [KTK:17] Polluted Delta
-4 [ZEN:244] Scalding Tarn
+1 [EXP:8] Blood Crypt
+1 [PCA:141] Island
+1 [PCA:146] Swamp
+2 [EXP:12] Steam Vents
+2 [EXP:7] Watery Grave
+4 [EXP:18] Bloodstained Mire
+4 [EXP:17] Polluted Delta
+4 [EXP:22] Scalding Tarn
 1 [FRF:72] Gurmag Angler
-2 [FRF:153] Tasigur, the Golden Fang
-4 [WWK:64] Death's Shadow
-4 [ISD:51] Delver of Secrets
-4 [ISD:50] Snapcaster Mage
-1 [DTK:181] Kolaghan's Command
-1 [MM3:194] Terminate
+2 [FRF:87] Tasigur, the Golden Fang
+4 [WWK:57] Death's Shadow
+4 [ISD:51a] Delver of Secrets
+4 [ISD:78] Snapcaster Mage
+1 [DTK:224] Kolaghan's Command
+1 [C16:225] Terminate
 2 [AER:57] Fatal Push
-2 [M12:44] Mana Leak
-4 [M11:162] Lightning Bolt
-4 [DIS:64] Spell Snare
-4 [DKA:21] Thought Scour
-4 [MM3:49] Serum Visions
+2 [MM2:50] Mana Leak
+4 [MM2:122] Lightning Bolt
+4 [MMA:64] Spell Snare
+4 [DDM:21] Thought Scour
+4 [CN2:120] Serum Visions
 4 [THS:107] Thoughtseize
-SB: 3 [CFX:59] Countersquall
+SB: 3 [DDH:59] Countersquall
 SB: 1 [EMN:85] Collective Brutality
 SB: 1 [EMN:93] Liliana, the Last Hope
-SB: 2 [ZEN:51] Spell Pierce
-SB: 2 [JOU:108] Magma Spray
+SB: 2 [ZEN:67] Spell Pierce
+SB: 2 [JOU:103] Magma Spray
 SB: 1 [BFZ:76] Dispel
-SB: 3 [MM3:194] Terminate
-SB: 2 [M12:44] Mana Leak
+SB: 3 [C16:225] Terminate
+SB: 2 [MM2:50] Mana Leak

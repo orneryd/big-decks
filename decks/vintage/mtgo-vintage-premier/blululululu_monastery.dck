@@ -1,42 +1,42 @@
 NAME:Monastery
-1 [UNH:260] Island
-1 [AN:303] Library of Alexandria
-1 [UNH:257] Plains
-1 [4E:43] Strip Mine
-3 [KTK:16] Flooded Strand
-3 [R:322] Tundra
-3 [R:324] Volcanic Island
-4 [ZEN:244] Scalding Tarn
-2 [ORI:995] Jace, Vryn's Prodigy
-2 [ISD:50] Snapcaster Mage
+1 [PCA:141] Island
+1 [VMA:303] Library of Alexandria
+1 [PCA:136] Plains
+1 [EXP:43] Strip Mine
+3 [EXP:16] Flooded Strand
+3 [VMA:322] Tundra
+3 [VMA:324] Volcanic Island
+4 [EXP:22] Scalding Tarn
+2 [ORI:60a] Jace, Vryn's Prodigy
+2 [ISD:78] Snapcaster Mage
 4 [FRF:20] Monastery Mentor
-3 [CNS:199] Dack Fayden
-1 [U:4] Black Lotus
-1 [U:7] Mox Pearl
-1 [U:8] Mox Ruby
-1 [U:9] Mox Sapphire
-2 [ISD:25] Stony Silence
-1 [U:1] Ancestral Recall
-1 [C15:40] Brainstorm
-1 [KTK:97] Dig Through Time
-1 [CMD:68] Flusterstorm
+3 [EMA:199] Dack Fayden
+1 [VMA:4] Black Lotus
+1 [VMA:7] Mox Pearl
+1 [VMA:8] Mox Ruby
+1 [VMA:9] Mox Sapphire
+2 [ISD:36] Stony Silence
+1 [VMA:1] Ancestral Recall
+1 [EMA:40] Brainstorm
+1 [KTK:36] Dig Through Time
+1 [VMA:68] Flusterstorm
 1 [ZEN:57] Mindbreak Trap
-1 [TSP:179] Sudden Shock
-3 [MM:72] Gush
+1 [MMA:133] Sudden Shock
+3 [DD3_JVC:27] Gush
 3 [NPH:38] Mental Misstep
-4 [AL:14] Force of Will
+4 [EMA:49] Force of Will
 4 [C16:78] Swords to Plowshares
 1 [KLD:14] Fragmentize
-1 [M12:29] Ponder
-1 [U:2] Time Walk
+1 [M12:73] Ponder
+1 [VMA:2] Time Walk
 1 [C16:101] Treasure Cruise
 2 [C15:101] Preordain
 SB: 1 [KLD:14] Fragmentize
 SB: 1 [NPH:38] Mental Misstep
-SB: 1 [ISD:25] Stony Silence
-SB: 4 [C14:3] Containment Priest
-SB: 2 [C14:180] Ingot Chewer
-SB: 1 [UNH:266] Mountain
-SB: 1 [CMD:17] Path to Exile
-SB: 2 [5E:142] Pyroblast
+SB: 1 [ISD:36] Stony Silence
+SB: 4 [C14:5] Containment Priest
+SB: 2 [DD3_JVC:45] Ingot Chewer
+SB: 1 [PCA:150] Mountain
+SB: 1 [MD1:3] Path to Exile
+SB: 2 [EMA:142] Pyroblast
 SB: 2 [RTR:18] Rest in Peace

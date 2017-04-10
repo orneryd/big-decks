@@ -1,43 +1,43 @@
 NAME:Loam
-1 [R:291] Badlands
+1 [VMA:291] Badlands
 1 [C15:277] Barren Moor
-1 [OD:315] Cabal Pit
-1 [FUT:174] Dryad Arbor
-1 [UNH:269] Forest
-1 [LG:240] Karakas
-1 [DK:241] Maze of Ith
-1 [R:311] Savannah
-1 [R:313] Scrubland
-1 [R:317] Taiga
-1 [C14:320] Tranquil Thicket
-1 [ZEN:249] Verdant Catacombs
-2 [R:293] Bayou
-2 [KTK:20] Windswept Heath
-2 [KTK:19] Wooded Foothills
-3 [FUT:176] Grove of the Burnwillows
-4 [TE:248] Wasteland
+1 [ODY:315] Cabal Pit
+1 [V12:5] Dryad Arbor
+1 [PCA:156] Forest
+1 [EMA:240] Karakas
+1 [EMA:241] Maze of Ith
+1 [VMA:311] Savannah
+1 [VMA:313] Scrubland
+1 [VMA:317] Taiga
+1 [DD3_EVG:26] Tranquil Thicket
+1 [EXP:23] Verdant Catacombs
+2 [VMA:293] Bayou
+2 [EXP:20] Windswept Heath
+2 [EXP:19] Wooded Foothills
+3 [V12:8] Grove of the Burnwillows
+4 [EMA:248] Wasteland
 1 [C15:35] Centaur Vinecrasher
-1 [RTR:215] Deathrite Shaman
+1 [EMA:215] Deathrite Shaman
 1 [LRW:248] Gaddock Teeg
-1 [MM3:134] Scavenging Ooze
-4 [RAV:81] Dark Confidant
-4 [CFX:178] Knight of the Reliquary
-3 [ISD:76] Liliana of the Veil
-4 [MR:33] Chalice of the Void
-4 [SH:228] Mox Diamond
-1 [5E:187] Sylvan Library
-3 [RTR:146] Abrupt Decay
-3 [CMD:142] Punishing Fire
-1 [ARB:29] Maelstrom Pulse
-2 [MBS:169] Green Sun's Zenith
-2 [RAV:172] Life from the Loam
+1 [C16:166] Scavenging Ooze
+4 [MM2:75] Dark Confidant
+4 [MMA:178] Knight of the Reliquary
+3 [ISD:105] Liliana of the Veil
+4 [MPS:33] Chalice of the Void
+4 [TPR:228] Mox Diamond
+1 [EMA:187] Sylvan Library
+3 [RTR:141] Abrupt Decay
+3 [CMD:131] Punishing Fire
+1 [MMA:180] Maelstrom Pulse
+2 [EMA:169] Green Sun's Zenith
+2 [MMA:153] Life from the Loam
 SB: 2 [THS:107] Thoughtseize
-SB: 1 [ALA:10] Ethersworn Canonist
-SB: 1 [C14:39] Reclamation Sage
+SB: 1 [MMA:14] Ethersworn Canonist
+SB: 1 [C14:213] Reclamation Sage
 SB: 3 [M11:101] Leyline of the Void
 SB: 2 [C16:78] Swords to Plowshares
 SB: 1 [KLD:110] Chandra, Torch of Defiance
-SB: 1 [ISD:181] Garruk Relentless
-SB: 1 [C14:3] Containment Priest
+SB: 1 [ISD:181a] Garruk Relentless
+SB: 1 [C14:5] Containment Priest
 SB: 1 [C15:221] Golgari Charm
-SB: 2 [C13:108] Toxic Deluge
+SB: 2 [EMA:108] Toxic Deluge

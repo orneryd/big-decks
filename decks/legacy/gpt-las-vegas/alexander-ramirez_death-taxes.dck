@@ -1,33 +1,33 @@
 NAME:Death & Taxes
-1 [FUT:40] Horizon Canopy
-2 [AVR:232] Cavern of Souls
-3 [LG:240] Karakas
-4 [MM:324] Rishadan Port
-4 [TE:248] Wasteland
-9 [UNH:257] Plains
-1 [MBS:32] Mirran Crusader
+1 [EXP:40] Horizon Canopy
+2 [AVR:226] Cavern of Souls
+3 [EMA:240] Karakas
+4 [MMQ:324] Rishadan Port
+4 [EMA:248] Wasteland
+9 [PCA:136] Plains
+1 [MM2:25] Mirran Crusader
 1 [CN2:23] Sanctum Prelate
-1 [M13:6] Serra Avenger
+1 [M13:33] Serra Avenger
 1 [BNG:27] Spirit of the Labyrinth
 2 [CN2:22] Recruiter of the Guard
 2 [EMN:46] Thalia, Heretic Cathar
-3 [C14:6] Flickerwisp
-3 [CMD:22] Mother of Runes
-3 [M15:122] Phyrexian Revoker
+3 [C14:71] Flickerwisp
+3 [EMA:22] Mother of Runes
+3 [M15:225] Phyrexian Revoker
 4 [WWK:20] Stoneforge Mystic
-4 [DKA:3] Thalia, Guardian of Thraben
+4 [DKA:24] Thalia, Guardian of Thraben
 1 [NPH:130] Batterskull
 1 [KLD:235] Smuggler's Copter
-1 [DS:29] Sword of Fire and Ice
-1 [BOK:4] Umezawa's Jitte
-4 [DS:6] Aether Vial
+1 [MPS:29] Sword of Fire and Ice
+1 [V16:14] Umezawa's Jitte
+4 [MPS:6] Aether Vial
 4 [C16:78] Swords to Plowshares
-SB: 2 [CMD:17] Path to Exile
+SB: 2 [MD1:3] Path to Exile
 SB: 2 [RTR:18] Rest in Peace
-SB: 2 [C14:3] Containment Priest
-SB: 2 [ALA:10] Ethersworn Canonist
-SB: 2 [CNS:20] Council's Judgment
-SB: 1 [SHM:66] Faerie Macabre
+SB: 2 [C14:5] Containment Priest
+SB: 2 [MMA:14] Ethersworn Canonist
+SB: 2 [VMA:20] Council's Judgment
+SB: 1 [DD3_GVL:42] Faerie Macabre
 SB: 2 [BFZ:29] Gideon, Ally of Zendikar
-SB: 1 [RTR:44] Pithing Needle
-SB: 1 [NPH:51] Sword of War and Peace
+SB: 1 [MPS:44] Pithing Needle
+SB: 1 [MPS:51] Sword of War and Peace

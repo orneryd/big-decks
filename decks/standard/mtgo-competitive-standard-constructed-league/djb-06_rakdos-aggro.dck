@@ -1,11 +1,11 @@
 NAME:Rakdos Aggro
 1 [BFZ:230] Blighted Fen
-3 [UNH:266] Mountain
+3 [PCA:150] Mountain
 4 [KLD:242] Aether Hub
 4 [SOI:272] Foreboding Ruins
 4 [OGW:176] Ruins of Oran-Rief
 4 [AER:184] Spire of Industry
-6 [UNH:263] Swamp
+6 [PCA:146] Swamp
 1 [SOI:248] Olivia, Mobilized for War
 3 [KLD:124] Pia Nalaar
 4 [AER:62] Glint-Sleeve Siphoner
@@ -20,7 +20,7 @@ NAME:Rakdos Aggro
 SB: 2 [KLD:110] Chandra, Torch of Defiance
 SB: 2 [KLD:117] Harnessed Lightning
 SB: 1 [EMN:93] Liliana, the Last Hope
-SB: 1 [BFZ:119] Ob Nixilis Reignited
+SB: 1 [DDR:36] Ob Nixilis Reignited
 SB: 3 [AER:96] Release the Gremlins
 SB: 3 [BFZ:101] Transgress the Mind
 SB: 2 [AER:98] Shock

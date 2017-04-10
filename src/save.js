@@ -20,7 +20,8 @@ const saveDeck = (deckFile, $eventPage, format) => {
   let deckName = _.kebabCase(match[1]);
   let eventName = _.kebabCase($selectors.$eventName($eventPage).html().split(/-|@/)[1].trim());
   let fileName = getFileName({eventName, formatName, creator, deckName});
-  // fs.writeFileSync(ensureDirectory(fileName), toDeckFormat(deckFile, match[1]));
+  toDeckFormat(deckFile, match[1]);
+  fs.writeFileSync(ensureDirectory(fileName), toDeckFormat(deckFile, match[1]));
 };
 
 const ensureDirectory = (filePath) => {

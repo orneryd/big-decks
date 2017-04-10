@@ -1,30 +1,30 @@
 NAME:Mardu Pyromancer Burn
-1 [ZEN:239] Marsh Flats
-1 [GTC:14] Sacred Foundry
-1 [UNH:263] Swamp
-2 [RTR:8] Blood Crypt
-3 [UNH:266] Mountain
-3 [KTK:19] Wooded Foothills
+1 [EXP:21] Marsh Flats
+1 [EXP:14] Sacred Foundry
+1 [PCA:146] Swamp
+2 [EXP:8] Blood Crypt
+3 [PCA:150] Mountain
+3 [EXP:19] Wooded Foothills
 4 [SOM:224] Blackcleave Cliffs
-4 [KTK:18] Bloodstained Mire
+4 [EXP:18] Bloodstained Mire
 2 [KTK:118] Monastery Swiftspear
 4 [EMN:118] Bedlam Reveler
-4 [M14:155] Young Pyromancer
-1 [9E:90] Blood Moon
-1 [ZEN:119] Burst Lightning
-2 [RAV:213] Lightning Helix
-2 [MM3:194] Terminate
-3 [DTK:181] Kolaghan's Command
-4 [M11:162] Lightning Bolt
+4 [EMA:155] Young Pyromancer
+1 [MMA:106] Blood Moon
+1 [MM2:109] Burst Lightning
+2 [DDN:65] Lightning Helix
+2 [C16:225] Terminate
+3 [DTK:224] Kolaghan's Command
+4 [MM2:122] Lightning Bolt
 1 [RTR:157] Dreadbore
-2 [ROE:60] Forked Bolt
+2 [DDP:60] Forked Bolt
 3 [THS:107] Thoughtseize
-4 [C15:128] Faithless Looting
-4 [MM3:75] Inquisition of Kozilek
-4 [DKA:12] Lingering Souls
-SB: 1 [GTC:9] Stomping Ground
-SB: 3 [RTR:146] Abrupt Decay
+4 [EMA:128] Faithless Looting
+4 [CN2:140] Inquisition of Kozilek
+4 [MD1:11] Lingering Souls
+SB: 1 [EXP:9] Stomping Ground
+SB: 3 [RTR:141] Abrupt Decay
 SB: 2 [AER:57] Fatal Push
 SB: 4 [M11:101] Leyline of the Void
-SB: 3 [RTR:44] Pithing Needle
-SB: 2 [9E:90] Blood Moon
+SB: 3 [MPS:44] Pithing Needle
+SB: 2 [MMA:106] Blood Moon

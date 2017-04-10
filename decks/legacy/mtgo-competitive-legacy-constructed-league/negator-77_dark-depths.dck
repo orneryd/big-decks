@@ -1,32 +1,32 @@
 NAME:Dark Depths
-1 [C14:132] Bojuka Bog
-1 [WWK:142] Sejiri Steppe
-1 [R:321] Tropical Island
-1 [R:323] Underground Sea
-1 [TE:248] Wasteland
-2 [R:293] Bayou
-2 [ZEN:240] Misty Rainforest
-3 [TSP:164] Gemstone Mine
-4 [CS:4] Dark Depths
-4 [KTK:17] Polluted Delta
+1 [C14:285] Bojuka Bog
+1 [DDG:36] Sejiri Steppe
+1 [VMA:321] Tropical Island
+1 [VMA:323] Underground Sea
+1 [EMA:248] Wasteland
+2 [VMA:293] Bayou
+2 [EXP:25] Misty Rainforest
+3 [TSB:119] Gemstone Mine
+4 [V16:4] Dark Depths
+4 [EXP:17] Polluted Delta
 4 [GTC:248] Thespian's Stage
-4 [M15:165] Urborg, Tomb of Yawgmoth
-4 [C14:114] Vampire Hexmage
-2 [ZEN:201] Expedition Map
-2 [RTR:44] Pithing Needle
-4 [SH:228] Mox Diamond
-1 [RTR:146] Abrupt Decay
-4 [C15:40] Brainstorm
-4 [UL:98] Crop Rotation
-2 [DTK:86] Duress
-2 [MM3:75] Inquisition of Kozilek
+4 [M15:248] Urborg, Tomb of Yawgmoth
+4 [C14:168] Vampire Hexmage
+2 [MM2:213] Expedition Map
+2 [MPS:44] Pithing Needle
+4 [TPR:228] Mox Diamond
+1 [RTR:141] Abrupt Decay
+4 [EMA:40] Brainstorm
+4 [DDR:7] Crop Rotation
+2 [EMA:86] Duress
+2 [CN2:140] Inquisition of Kozilek
 3 [BFZ:192] Sylvan Scrying
 4 [THS:107] Thoughtseize
-SB: 1 [RTR:146] Abrupt Decay
-SB: 2 [RTR:44] Pithing Needle
-SB: 3 [CMD:68] Flusterstorm
+SB: 1 [RTR:141] Abrupt Decay
+SB: 2 [MPS:44] Pithing Needle
+SB: 3 [VMA:68] Flusterstorm
 SB: 1 [C15:285] Ghost Quarter
-SB: 1 [LG:240] Karakas
+SB: 1 [EMA:240] Karakas
 SB: 2 [C15:189] Krosan Grip
-SB: 1 [CNS:18] Stifle
-SB: 4 [NPH:33] Surgical Extraction
+SB: 1 [CNS:108] Stifle
+SB: 4 [MM2:99] Surgical Extraction

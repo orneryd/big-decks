@@ -1,45 +1,45 @@
 NAME:PW Control
-1 [US:319] Tolarian Academy
-3 [R:323] Underground Sea
-3 [R:324] Volcanic Island
-4 [ZEN:244] Scalding Tarn
+1 [VMA:319] Tolarian Academy
+3 [VMA:323] Underground Sea
+3 [VMA:324] Volcanic Island
+4 [EXP:22] Scalding Tarn
 4 [C16:323] Seat of the Synod
 1 [MBS:99] Blightsteel Colossus
-1 [ISD:50] Snapcaster Mage
-1 [CNS:199] Dack Fayden
-1 [WWK:57] Jace, the Mind Sculptor
-1 [ALA:60] Tezzeret the Seeker
-1 [U:4] Black Lotus
+1 [ISD:78] Snapcaster Mage
+1 [EMA:199] Dack Fayden
+1 [EMA:57] Jace, the Mind Sculptor
+1 [MM2:62] Tezzeret the Seeker
+1 [VMA:4] Black Lotus
 1 [MPS:16] Mana Crypt
-1 [5E:17] Mana Vault
-1 [U:5] Mox Emerald
-1 [U:6] Mox Jet
-1 [U:7] Mox Pearl
-1 [U:8] Mox Ruby
-1 [U:9] Mox Sapphire
+1 [MPS:17] Mana Vault
+1 [VMA:5] Mox Emerald
+1 [VMA:6] Mox Jet
+1 [VMA:7] Mox Pearl
+1 [VMA:8] Mox Ruby
+1 [VMA:9] Mox Sapphire
 1 [C16:272] Sol Ring
-1 [U:287] Time Vault
-2 [SOM:19] Mox Opal
-2 [CHK:232] Sensei's Divining Top
-2 [M11:314] Voltaic Key
-1 [U:1] Ancestral Recall
-1 [C15:40] Brainstorm
+1 [VMA:287] Time Vault
+2 [MPS:19] Mox Opal
+2 [EMA:232] Sensei's Divining Top
+2 [M11:219] Voltaic Key
+1 [VMA:1] Ancestral Recall
+1 [EMA:40] Brainstorm
 1 [C15:104] Repeal
-1 [6E:112] Vampiric Tutor
-2 [CMD:68] Flusterstorm
-2 [LG:78] Mana Drain
+1 [EMA:112] Vampiric Tutor
+2 [VMA:68] Flusterstorm
+2 [VMA:78] Mana Drain
 2 [NPH:38] Mental Misstep
-3 [MR:14] Thirst for Knowledge
-4 [AL:14] Force of Will
-1 [R:116] Demonic Tutor
-1 [U:2] Time Walk
-1 [UL:45] Tinker
-4 [MR:64] Thoughtcast
-SB: 1 [CST:129] Gorilla Shaman
+3 [MMA:67] Thirst for Knowledge
+4 [EMA:49] Force of Will
+1 [DD3_DVD:49] Demonic Tutor
+1 [VMA:2] Time Walk
+1 [V09:14] Tinker
+4 [MM2:64] Thoughtcast
+SB: 1 [ME2:129] Gorilla Shaman
 SB: 2 [THS:112] Anger of the Gods
-SB: 4 [C14:180] Ingot Chewer
+SB: 4 [DD3_JVC:45] Ingot Chewer
 SB: 1 [AER:40] Negate
-SB: 1 [5E:142] Pyroblast
-SB: 1 [C14:115] Tormod's Crypt
-SB: 1 [10E:88] Hurkyl's Recall
-SB: 4 [DKA:221] Grafdigger's Cage
+SB: 1 [EMA:142] Pyroblast
+SB: 1 [C14:278] Tormod's Crypt
+SB: 1 [MM2:48] Hurkyl's Recall
+SB: 4 [DKA:149] Grafdigger's Cage

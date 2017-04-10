@@ -1,46 +1,46 @@
 NAME:Monastery
-1 [UNH:260] Island
-1 [AN:303] Library of Alexandria
-1 [UNH:257] Plains
-1 [KTK:17] Polluted Delta
-1 [4E:43] Strip Mine
-2 [ZEN:244] Scalding Tarn
-2 [R:324] Volcanic Island
-3 [R:322] Tundra
-4 [KTK:16] Flooded Strand
-2 [ORI:995] Jace, Vryn's Prodigy
+1 [PCA:141] Island
+1 [VMA:303] Library of Alexandria
+1 [PCA:136] Plains
+1 [EXP:17] Polluted Delta
+1 [EXP:43] Strip Mine
+2 [EXP:22] Scalding Tarn
+2 [VMA:324] Volcanic Island
+3 [VMA:322] Tundra
+4 [EXP:16] Flooded Strand
+2 [ORI:60a] Jace, Vryn's Prodigy
 3 [FRF:20] Monastery Mentor
-1 [WWK:57] Jace, the Mind Sculptor
+1 [EMA:57] Jace, the Mind Sculptor
 1 [DTK:225] Narset Transcendent
-2 [CNS:199] Dack Fayden
-1 [U:4] Black Lotus
-1 [U:7] Mox Pearl
-1 [U:8] Mox Ruby
-1 [U:9] Mox Sapphire
-2 [ISD:25] Stony Silence
-1 [U:1] Ancestral Recall
-1 [C15:40] Brainstorm
-1 [KTK:97] Dig Through Time
-1 [CMD:68] Flusterstorm
-1 [M11:162] Lightning Bolt
-1 [6E:62] Mystical Tutor
-3 [MM:72] Gush
+2 [EMA:199] Dack Fayden
+1 [VMA:4] Black Lotus
+1 [VMA:7] Mox Pearl
+1 [VMA:8] Mox Ruby
+1 [VMA:9] Mox Sapphire
+2 [ISD:36] Stony Silence
+1 [VMA:1] Ancestral Recall
+1 [EMA:40] Brainstorm
+1 [KTK:36] Dig Through Time
+1 [VMA:68] Flusterstorm
+1 [MM2:122] Lightning Bolt
+1 [EMA:62] Mystical Tutor
+3 [DD3_JVC:27] Gush
 3 [C16:78] Swords to Plowshares
-4 [AL:14] Force of Will
+4 [EMA:49] Force of Will
 4 [NPH:38] Mental Misstep
-1 [4E:2] Balance
+1 [EMA:2] Balance
 1 [KLD:14] Fragmentize
-1 [M12:29] Ponder
-1 [U:2] Time Walk
+1 [M12:73] Ponder
+1 [VMA:2] Time Walk
 1 [C16:101] Treasure Cruise
 2 [NPH:35] Gitaxian Probe
 2 [C15:101] Preordain
 SB: 2 [ZEN:57] Mindbreak Trap
-SB: 1 [SOK:14] Kataki, War's Wage
-SB: 2 [5E:142] Pyroblast
+SB: 1 [MD1:24] Kataki, War's Wage
+SB: 2 [EMA:142] Pyroblast
 SB: 2 [RTR:18] Rest in Peace
-SB: 2 [DKA:221] Grafdigger's Cage
-SB: 2 [C14:3] Containment Priest
-SB: 1 [4E:2] Balance
-SB: 2 [ISD:25] Stony Silence
+SB: 2 [DKA:149] Grafdigger's Cage
+SB: 2 [C14:5] Containment Priest
+SB: 1 [EMA:2] Balance
+SB: 2 [ISD:36] Stony Silence
 SB: 1 [C16:78] Swords to Plowshares

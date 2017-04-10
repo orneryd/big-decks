@@ -1,96 +1,96 @@
 NAME:Leovold
-1 [KTK:18] Bloodstained Mire
-1 [GTC:15] Breeding Pool
-1 [AVR:232] Cavern of Souls
+1 [EXP:18] Bloodstained Mire
+1 [EXP:15] Breeding Pool
+1 [AVR:226] Cavern of Souls
 1 [C16:286] Command Tower
 1 [WWK:134] Creeping Tar Pit
 1 [M13:223] Drowned Catacomb
-1 [KTK:16] Flooded Strand
-1 [UNH:269] Forest
+1 [EXP:16] Flooded Strand
+1 [PCA:156] Forest
 1 [EMN:203] Geier Reach Sanitarium
 1 [ISD:241] Hinterland Harbor
 1 [OGW:171] Hissing Quagmire
-1 [ORI:355] Llanowar Wastes
+1 [ORI:248] Llanowar Wastes
 1 [BFZ:239] Lumbering Falls
-1 [ZEN:239] Marsh Flats
-1 [ZEN:240] Misty Rainforest
-1 [RTR:13] Overgrown Tomb
-1 [KTK:17] Polluted Delta
-1 [CNS:328] Reflecting Pool
+1 [EXP:21] Marsh Flats
+1 [EXP:25] Misty Rainforest
+1 [EXP:13] Overgrown Tomb
+1 [EXP:17] Polluted Delta
+1 [CNS:210] Reflecting Pool
 1 [FUT:179] River of Tears
-1 [ZEN:244] Scalding Tarn
-1 [BFZ:2] Sunken Hollow
-1 [SHM:27] Sunken Ruins
+1 [EXP:22] Scalding Tarn
+1 [EXP:2] Sunken Hollow
+1 [EXP:27] Sunken Ruins
 1 [JOU:165] Temple of Malady
-1 [R:321] Tropical Island
-1 [EVE:33] Twilight Mire
+1 [VMA:321] Tropical Island
+1 [EXP:33] Twilight Mire
 1 [C16:335] Underground River
-1 [M15:165] Urborg, Tomb of Yawgmoth
-1 [ZEN:249] Verdant Catacombs
-1 [SH:248] Volrath's Stronghold
-1 [TE:248] Wasteland
-1 [GTC:7] Watery Grave
-1 [KTK:20] Windswept Heath
-1 [KTK:19] Wooded Foothills
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [EXP:23] Verdant Catacombs
+1 [TPR:248] Volrath's Stronghold
+1 [EMA:248] Wasteland
+1 [EXP:7] Watery Grave
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
 1 [ISD:249] Woodland Cemetery
-1 [ORI:363] Yavimaya Coast
-3 [UNH:260] Island
-3 [UNH:263] Swamp
-1 [C16:181] Baleful Strix
-1 [BNG:12] Courser of Kruphix
+1 [ORI:252] Yavimaya Coast
+3 [PCA:141] Island
+3 [PCA:146] Swamp
+1 [PCA:82] Baleful Strix
+1 [CPK:6] Courser of Kruphix
 1 [C15:183] Eternal Witness
-1 [ORI:995] Jace, Vryn's Prodigy
+1 [ORI:60a] Jace, Vryn's Prodigy
 1 [OGW:86] Kalitas, Traitor of Ghet
-1 [ORI:998] Nissa, Vastwood Seer
-1 [ISD:50] Snapcaster Mage
-1 [NPH:159] Spellskite
-1 [FRF:153] Tasigur, the Golden Fang
-1 [M13:143] Thragtusk
-1 [MPS:4] Torrential Gearhulk
+1 [ORI:189a] Nissa, Vastwood Seer
+1 [ISD:78] Snapcaster Mage
+1 [MM2:230] Spellskite
+1 [FRF:87] Tasigur, the Golden Fang
+1 [M13:193] Thragtusk
+1 [MPS:2] Torrential Gearhulk
 1 [C13:63] True-Name Nemesis
-1 [MOR:55] Vendilion Clique
-1 [C16:175] Wall of Blossoms
+1 [MM2:67] Vendilion Clique
+1 [PCA:81] Wall of Blossoms
 1 [THS:188] Ashiok, Nightmare Weaver
-1 [WWK:57] Jace, the Mind Sculptor
-1 [ISD:76] Liliana of the Veil
+1 [EMA:57] Jace, the Mind Sculptor
+1 [ISD:105] Liliana of the Veil
 1 [EMN:93] Liliana, the Last Hope
 1 [CNS:191] Pernicious Deed
-1 [RTR:146] Abrupt Decay
-1 [C15:40] Brainstorm
-1 [FD:27] Condescend
-1 [7E:10] Counterspell
-1 [CFX:59] Countersquall
-1 [LRW:11] Cryptic Command
-1 [NPH:57] Dismember
-1 [ARENA:29] Dismiss
+1 [RTR:141] Abrupt Decay
+1 [EMA:40] Brainstorm
+1 [DD3_JVC:28] Condescend
+1 [EMA:43] Counterspell
+1 [DDH:59] Countersquall
+1 [MM2:43] Cryptic Command
+1 [MM2:79] Dismember
+1 [CN2:108] Dismiss
 1 [THS:47] Dissolve
 1 [M14:55] Essence Scatter
-1 [C15:48] Fact or Fiction
+1 [EMA:48] Fact or Fiction
 1 [AER:57] Fatal Push
-1 [AL:14] Force of Will
+1 [EMA:49] Force of Will
 1 [MBS:43] Go for the Throat
-1 [THS:90] Hero's Downfall
-1 [M12:44] Mana Leak
-1 [7E:60] Memory Lapse
+1 [CPK:8] Hero's Downfall
+1 [MM2:50] Mana Leak
+1 [EMA:60] Memory Lapse
 1 [KTK:81] Murderous Cut
 1 [C15:14] Mystic Confluence
 1 [AER:40] Negate
 1 [OGW:141] Pulse of Murasa
-1 [RAV:63] Remand
-1 [KTK:117] Sultai Charm
-1 [OD:164] Tainted Pact
+1 [MM2:55] Remand
+1 [KTK:204] Sultai Charm
+1 [ODY:164] Tainted Pact
 1 [SOI:139] To the Slaughter
-1 [TSP:48] Ancestral Vision
+1 [DD3_JVC:21] Ancestral Vision
 1 [EMN:85] Collective Brutality
-1 [PLC:63] Damnation
-1 [ORI:202] Dark Petition
+1 [PLC:85] Damnation
+1 [ORI:90] Dark Petition
 1 [ORI:51] Day's Undoing
-1 [R:116] Demonic Tutor
-1 [MM3:75] Inquisition of Kozilek
+1 [DD3_DVD:49] Demonic Tutor
+1 [CN2:140] Inquisition of Kozilek
 1 [C16:114] Languish
-1 [ARB:29] Maelstrom Pulse
+1 [MMA:180] Maelstrom Pulse
 1 [C15:101] Preordain
-1 [BFZ:135] Ruinous Path
+1 [BFZ:123] Ruinous Path
 1 [SOI:226] Seasons Past
 1 [SOI:234] Traverse the Ulvenwald
 1 [AER:75] Yahenni's Expertise

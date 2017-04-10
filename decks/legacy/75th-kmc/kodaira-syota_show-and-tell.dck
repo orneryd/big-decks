@@ -1,36 +1,36 @@
 NAME:Show and Tell
-1 [CHK:2] Boseiju, Who Shelters All
-1 [CS:244] Snow-Covered Mountain
-1 [R:322] Tundra
-2 [TE:36] Ancient Tomb
-2 [EX:237] City of Traitors
-2 [R:324] Volcanic Island
-3 [KTK:16] Flooded Strand
-3 [CS:242] Snow-Covered Island
-4 [ZEN:244] Scalding Tarn
-3 [ROE:163] Emrakul, the Aeons Torn
-3 [AVR:72] Griselbrand
-1 [WWK:57] Jace, the Mind Sculptor
-2 [CHK:232] Sensei's Divining Top
-3 [TE:15] Lotus Petal
+1 [V12:2] Boseiju, Who Shelters All
+1 [ME2:244] Snow-Covered Mountain
+1 [VMA:322] Tundra
+2 [EXP:36] Ancient Tomb
+2 [TPR:237] City of Traitors
+2 [VMA:324] Volcanic Island
+3 [EXP:16] Flooded Strand
+3 [ME2:242] Snow-Covered Island
+4 [EXP:22] Scalding Tarn
+3 [MM2:3] Emrakul, the Aeons Torn
+3 [AVR:106] Griselbrand
+1 [EMA:57] Jace, the Mind Sculptor
+2 [EMA:232] Sensei's Divining Top
+3 [MPS:15] Lotus Petal
 2 [M13:63] Omniscience
-4 [US:148] Sneak Attack
-1 [CMD:68] Flusterstorm
-1 [VI:34] Impulse
-1 [TE:54] Intuition
+4 [EMA:148] Sneak Attack
+1 [VMA:68] Flusterstorm
+1 [DDN:63] Impulse
+1 [TPR:54] Intuition
 1 [CHK:193] Through the Breach
-3 [ZEN:51] Spell Pierce
-4 [C15:40] Brainstorm
-4 [AL:14] Force of Will
-4 [M12:29] Ponder
-4 [USG:96] Show and Tell
-SB: 1 [CHK:2] Boseiju, Who Shelters All
-SB: 3 [M15:98] Goblin Rabblemaster
-SB: 2 [DKA:221] Grafdigger's Cage
-SB: 2 [TSP:179] Sudden Shock
-SB: 2 [M12:100] Grim Lavamancer
+3 [ZEN:67] Spell Pierce
+4 [EMA:40] Brainstorm
+4 [EMA:49] Force of Will
+4 [M12:73] Ponder
+4 [CN2:121] Show and Tell
+SB: 1 [V12:2] Boseiju, Who Shelters All
+SB: 3 [M15:145] Goblin Rabblemaster
+SB: 2 [DKA:149] Grafdigger's Cage
+SB: 2 [MMA:133] Sudden Shock
+SB: 2 [M12:145] Grim Lavamancer
 SB: 1 [TSP:94] Wipe Away
-SB: 1 [5E:142] Pyroblast
-SB: 1 [M11:107] Pyroclasm
-SB: 1 [4E:170] Red Elemental Blast
-SB: 1 [DGM:135] Wear/Tear
+SB: 1 [EMA:142] Pyroblast
+SB: 1 [DDL:63] Pyroclasm
+SB: 1 [ME4:131] Red Elemental Blast
+SB: 1 [DGM:135b] Wear/Tear

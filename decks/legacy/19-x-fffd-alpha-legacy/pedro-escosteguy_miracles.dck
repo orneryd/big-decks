@@ -1,35 +1,35 @@
 NAME:Miracles
-1 [LG:240] Karakas
-1 [UNH:266] Mountain
-1 [R:324] Volcanic Island
-2 [ZEN:229] Arid Mesa
-2 [UNH:257] Plains
-2 [R:322] Tundra
-4 [KTK:16] Flooded Strand
-4 [UNH:260] Island
-4 [ZEN:244] Scalding Tarn
+1 [EMA:240] Karakas
+1 [PCA:150] Mountain
+1 [VMA:324] Volcanic Island
+2 [EXP:24] Arid Mesa
+2 [PCA:136] Plains
+2 [VMA:322] Tundra
+4 [EXP:16] Flooded Strand
+4 [PCA:141] Island
+4 [EXP:22] Scalding Tarn
 3 [FRF:20] Monastery Mentor
-3 [ISD:50] Snapcaster Mage
-2 [WWK:57] Jace, the Mind Sculptor
-4 [CHK:232] Sensei's Divining Top
-4 [CS:9] Counterbalance
-1 [7E:10] Counterspell
-4 [C15:40] Brainstorm
-4 [AL:14] Force of Will
+3 [ISD:78] Snapcaster Mage
+2 [EMA:57] Jace, the Mind Sculptor
+4 [EMA:232] Sensei's Divining Top
+4 [CSP:31] Counterbalance
+1 [EMA:43] Counterspell
+4 [EMA:40] Brainstorm
+4 [EMA:49] Force of Will
 4 [C16:78] Swords to Plowshares
-1 [CNS:20] Council's Judgment
-2 [AVR:4] Entreat the Angels
-3 [M12:29] Ponder
-4 [AVR:26] Terminus
-SB: 1 [CNS:20] Council's Judgment
-SB: 1 [RTR:56] Supreme Verdict
+1 [VMA:20] Council's Judgment
+2 [V15:7] Entreat the Angels
+3 [M12:73] Ponder
+4 [V14:12] Terminus
+SB: 1 [VMA:20] Council's Judgment
+SB: 1 [RTR:201] Supreme Verdict
 SB: 1 [RTR:173] Izzet Staticaster
-SB: 1 [C14:3] Containment Priest
-SB: 1 [ALA:10] Ethersworn Canonist
-SB: 1 [DKA:221] Grafdigger's Cage
-SB: 1 [9E:197] Circle of Protection: Red
-SB: 1 [MOR:55] Vendilion Clique
-SB: 1 [US:62] Back to Basics
-SB: 1 [NPH:33] Surgical Extraction
-SB: 2 [DGM:135] Wear/Tear
-SB: 3 [5E:142] Pyroblast
+SB: 1 [C14:5] Containment Priest
+SB: 1 [MMA:14] Ethersworn Canonist
+SB: 1 [DKA:149] Grafdigger's Cage
+SB: 1 [9ED:11] Circle of Protection: Red
+SB: 1 [MM2:67] Vendilion Clique
+SB: 1 [USG:62] Back to Basics
+SB: 1 [MM2:99] Surgical Extraction
+SB: 2 [DGM:135b] Wear/Tear
+SB: 3 [EMA:142] Pyroblast

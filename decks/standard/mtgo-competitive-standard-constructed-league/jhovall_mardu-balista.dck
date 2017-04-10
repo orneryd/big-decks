@@ -1,14 +1,14 @@
 NAME:Mardu Balista
 2 [OGW:175] Needle Spires
 2 [BFZ:244] Shambling Vent
-2 [BFZ:3] Smoldering Marsh
-3 [UNH:263] Swamp
+2 [EXP:3] Smoldering Marsh
+3 [PCA:146] Swamp
 4 [KLD:245] Concealed Courtyard
 4 [KLD:246] Inspiring Vantage
-4 [UNH:257] Plains
+4 [PCA:136] Plains
 4 [AER:184] Spire of Industry
 2 [EMN:46] Thalia, Heretic Cathar
-3 [SOI:5] Archangel Avacyn
+3 [SOI:5a] Archangel Avacyn
 3 [AER:181] Walking Ballista
 4 [KLD:231] Scrapheap Scrounger
 4 [SOI:44] Thraben Inspector
@@ -17,13 +17,13 @@ NAME:Mardu Balista
 4 [AER:153] Heart of Kiran
 3 [AER:57] Fatal Push
 4 [KLD:187] Unlicensed Disintegration
-SB: 1 [BFZ:47] Stasis Snare
-SB: 1 [SOI:251] Sorin, Grim Nemesis
-SB: 2 [AER:98] Shock
-SB: 2 [AER:96] Release the Gremlins
-SB: 2 [BFZ:120] Painful Truths
-SB: 1 [BFZ:119] Ob Nixilis Reignited
-SB: 2 [EMN:99] Oath of Liliana
-SB: 2 [SOI:247] Nahiri, the Harbinger
-SB: 1 [SOI:242] Anguished Unmaking
 SB: 1 [AER:57] Fatal Push
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 2 [SOI:247] Nahiri, the Harbinger
+SB: 1 [EMN:99] Oath of Liliana
+SB: 1 [DDR:36] Ob Nixilis Reignited
+SB: 2 [BFZ:120] Painful Truths
+SB: 2 [AER:96] Release the Gremlins
+SB: 2 [AER:98] Shock
+SB: 1 [SOI:251] Sorin, Grim Nemesis
+SB: 2 [BFZ:50] Stasis Snare

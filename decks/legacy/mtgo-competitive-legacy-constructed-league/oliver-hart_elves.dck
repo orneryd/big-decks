@@ -1,26 +1,26 @@
 NAME:Elves
-2 [R:293] Bayou
-2 [AVR:232] Cavern of Souls
-2 [FUT:174] Dryad Arbor
-2 [UNH:269] Forest
-4 [US:321] Gaea's Cradle
-4 [ZEN:240] Misty Rainforest
-4 [ZEN:249] Verdant Catacombs
-1 [ON:248] Birchlore Rangers
-1 [C14:39] Reclamation Sage
-2 [AVR:122] Craterhoof Behemoth
-4 [RTR:215] Deathrite Shaman
-4 [C15:182] Elvish Visionary
-4 [MOR:171] Heritage Druid
+2 [VMA:293] Bayou
+2 [AVR:226] Cavern of Souls
+2 [V12:5] Dryad Arbor
+2 [PCA:156] Forest
+4 [USG:321] Gaea's Cradle
+4 [EXP:25] Misty Rainforest
+4 [EXP:23] Verdant Catacombs
+1 [ONS:248] Birchlore Rangers
+1 [C14:213] Reclamation Sage
+2 [AVR:172] Craterhoof Behemoth
+4 [EMA:215] Deathrite Shaman
+4 [DDR:8] Elvish Visionary
+4 [EMA:171] Heritage Druid
 4 [EVE:71] Nettle Sentinel
-4 [VI:67] Quirion Ranger
-4 [SC:192] Wirewood Symbiote
+4 [pFNM:15] Quirion Ranger
+4 [EMA:192] Wirewood Symbiote
 4 [CHK:210] Glimpse of Nature
-4 [MBS:169] Green Sun's Zenith
-4 [PT:177] Natural Order
+4 [EMA:169] Green Sun's Zenith
+4 [EMA:177] Natural Order
 SB: 4 [THS:107] Thoughtseize
-SB: 2 [NPH:33] Surgical Extraction
-SB: 1 [MM3:134] Scavenging Ooze
-SB: 2 [RTR:44] Pithing Needle
-SB: 2 [JU:83] Cabal Therapy
-SB: 4 [RTR:146] Abrupt Decay
+SB: 2 [MM2:99] Surgical Extraction
+SB: 1 [C16:166] Scavenging Ooze
+SB: 2 [MPS:44] Pithing Needle
+SB: 2 [EMA:83] Cabal Therapy
+SB: 4 [RTR:141] Abrupt Decay

@@ -1,45 +1,45 @@
 NAME:Unburial Rites Value
-1 [KTK:18] Bloodstained Mire
+1 [EXP:18] Bloodstained Mire
 1 [C16:292] Dragonskull Summit
-1 [UNH:269] Forest
-1 [GTC:11] Godless Shrine
-1 [UNH:266] Mountain
-1 [RTR:13] Overgrown Tomb
-1 [UNH:257] Plains
+1 [PCA:156] Forest
+1 [EXP:11] Godless Shrine
+1 [PCA:150] Mountain
+1 [EXP:13] Overgrown Tomb
+1 [PCA:136] Plains
 1 [C16:317] Rootbound Crag
-1 [GTC:14] Sacred Foundry
-1 [GTC:9] Stomping Ground
+1 [EXP:14] Sacred Foundry
+1 [EXP:9] Stomping Ground
 1 [C16:329] Sunpetal Grove
-1 [UNH:263] Swamp
-1 [DKA:158] Vault of the Archangel
+1 [PCA:146] Swamp
+1 [MD1:17] Vault of the Archangel
 1 [ISD:249] Woodland Cemetery
-2 [RTR:8] Blood Crypt
-2 [RTR:10] Temple Garden
-2 [ZEN:249] Verdant Catacombs
-3 [ZEN:239] Marsh Flats
-1 [NPH:9] Elesh Norn, Grand Cenobite
-1 [C14:35] Grave Titan
-1 [C14:54] Wurmcoil Engine
-2 [SHM:229] Kitchen Finks
+2 [EXP:8] Blood Crypt
+2 [EXP:10] Temple Garden
+2 [EXP:23] Verdant Catacombs
+3 [EXP:21] Marsh Flats
+1 [MM2:16] Elesh Norn, Grand Cenobite
+1 [C14:145] Grave Titan
+1 [MPS:54] Wurmcoil Engine
+2 [MMA:190] Kitchen Finks
 2 [C16:165] Satyr Wayfinder
-2 [KTK:133] Siege Rhino
-2 [M13:143] Thragtusk
-4 [FUT:141] Tarmogoyf
+2 [KTK:200] Siege Rhino
+2 [M13:193] Thragtusk
+4 [MM2:165] Tarmogoyf
 1 [EMN:93] Liliana, the Last Hope
-2 [RTR:146] Abrupt Decay
+2 [RTR:141] Abrupt Decay
 2 [KTK:81] Murderous Cut
-3 [CMD:17] Path to Exile
-1 [PLC:63] Damnation
+3 [MD1:3] Path to Exile
+1 [PLC:85] Damnation
 2 [THS:107] Thoughtseize
-3 [ISD:85] Unburial Rites
-4 [C15:128] Faithless Looting
-4 [DKA:12] Lingering Souls
-SB: 1 [NPH:9] Elesh Norn, Grand Cenobite
-SB: 1 [ISD:88] Ancient Grudge
+3 [ISD:122] Unburial Rites
+4 [EMA:128] Faithless Looting
+4 [MD1:11] Lingering Souls
+SB: 1 [MM2:16] Elesh Norn, Grand Cenobite
+SB: 1 [ISD:127] Ancient Grudge
 SB: 1 [C16:218] Rakdos Charm
 SB: 1 [THS:112] Anger of the Gods
-SB: 1 [ARB:29] Maelstrom Pulse
-SB: 1 [C13:175] Jund Charm
+SB: 1 [MMA:180] Maelstrom Pulse
+SB: 1 [C13:195] Jund Charm
 SB: 2 [M12:40] Timely Reinforcements
 SB: 2 [EMN:85] Collective Brutality
 SB: 3 [RTR:197] Slaughter Games

@@ -1,31 +1,31 @@
 NAME:Storm
-1 [R:293] Bayou
-1 [UNH:260] Island
-1 [UNH:263] Swamp
-1 [R:321] Tropical Island
-1 [R:324] Volcanic Island
-2 [KTK:18] Bloodstained Mire
-2 [ZEN:240] Misty Rainforest
-2 [R:323] Underground Sea
-4 [KTK:17] Polluted Delta
-4 [MI:271] Lion's Eye Diamond
-4 [TE:15] Lotus Petal
+1 [VMA:293] Bayou
+1 [PCA:141] Island
+1 [PCA:146] Swamp
+1 [VMA:321] Tropical Island
+1 [VMA:324] Volcanic Island
+2 [EXP:18] Bloodstained Mire
+2 [EXP:25] Misty Rainforest
+2 [VMA:323] Underground Sea
+4 [EXP:17] Polluted Delta
+4 [VMA:271] Lion's Eye Diamond
+4 [MPS:15] Lotus Petal
 1 [ALA:63] Ad Nauseam
-4 [C15:40] Brainstorm
-4 [TO:106] Cabal Ritual
-4 [CST:21] Dark Ritual
-1 [MM3:105] Past in Flames
-1 [SC:142] Tendrils of Agony
-2 [ORI:202] Dark Petition
+4 [EMA:40] Brainstorm
+4 [V16:2] Cabal Ritual
+4 [TPR:93] Dark Ritual
+1 [C16:131] Past in Flames
+1 [VMA:142] Tendrils of Agony
+2 [ORI:90] Dark Petition
 2 [C15:101] Preordain
-3 [JU:83] Cabal Therapy
-3 [DTK:86] Duress
+3 [EMA:83] Cabal Therapy
+3 [EMA:86] Duress
 4 [NPH:35] Gitaxian Probe
 4 [DIS:46] Infernal Tutor
-4 [M12:29] Ponder
-SB: 4 [M14:155] Young Pyromancer
-SB: 1 [ZEN:110] Sadistic Sacrament
-SB: 1 [NE:58] Massacre
-SB: 4 [TSP:152] Empty the Warrens
+4 [M12:73] Ponder
+SB: 4 [RTR:141] Abrupt Decay
 SB: 1 [C15:93] Echoing Truth
-SB: 4 [RTR:146] Abrupt Decay
+SB: 4 [MMA:112] Empty the Warrens
+SB: 1 [NMS:58] Massacre
+SB: 1 [ZEN:110] Sadistic Sacrament
+SB: 4 [EMA:155] Young Pyromancer

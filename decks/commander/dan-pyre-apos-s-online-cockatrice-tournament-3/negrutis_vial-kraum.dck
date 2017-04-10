@@ -1,99 +1,99 @@
 NAME:Vial/kraum
-1 [ZEN:229] Arid Mesa
-1 [R:291] Badlands
+1 [EXP:24] Arid Mesa
+1 [VMA:291] Badlands
 1 [SOM:224] Blackcleave Cliffs
-1 [RTR:8] Blood Crypt
-1 [KTK:18] Bloodstained Mire
-1 [EVE:32] Cascade Bluffs
-1 [AVR:232] Cavern of Souls
+1 [EXP:8] Blood Crypt
+1 [EXP:18] Bloodstained Mire
+1 [EXP:32] Cascade Bluffs
+1 [AVR:226] Cavern of Souls
 1 [C16:286] Command Tower
 1 [WWK:134] Creeping Tar Pit
 1 [SOM:226] Darkslick Shores
 1 [C16:292] Dragonskull Summit
 1 [M13:223] Drowned Catacomb
-1 [KTK:16] Flooded Strand
-1 [SHM:28] Graven Cairns
-1 [ZEN:239] Marsh Flats
-1 [ZEN:240] Misty Rainforest
-1 [KTK:17] Polluted Delta
-1 [CNS:328] Reflecting Pool
+1 [EXP:16] Flooded Strand
+1 [EXP:28] Graven Cairns
+1 [EXP:21] Marsh Flats
+1 [EXP:25] Misty Rainforest
+1 [EXP:17] Polluted Delta
+1 [CNS:210] Reflecting Pool
 1 [FUT:179] River of Tears
-1 [ZEN:244] Scalding Tarn
-1 [ORI:357] Shivan Reef
+1 [EXP:22] Scalding Tarn
+1 [ORI:251] Shivan Reef
 1 [KLD:249] Spirebluff Canal
-1 [RTR:12] Steam Vents
+1 [EXP:12] Steam Vents
 1 [ISD:248] Sulfur Falls
 1 [10E:359] Sulfurous Springs
-1 [SHM:27] Sunken Ruins
-1 [UNH:263] Swamp
+1 [EXP:27] Sunken Ruins
+1 [PCA:146] Swamp
 1 [THS:225] Temple of Deceit
 1 [JOU:164] Temple of Epiphany
 1 [BNG:164] Temple of Malice
 1 [C16:335] Underground River
-1 [R:323] Underground Sea
-1 [M15:165] Urborg, Tomb of Yawgmoth
-1 [ZEN:249] Verdant Catacombs
-1 [R:324] Volcanic Island
-1 [TE:248] Wasteland
-1 [GTC:7] Watery Grave
-1 [KTK:19] Wooded Foothills
-3 [UNH:260] Island
+1 [VMA:323] Underground Sea
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [EXP:23] Verdant Catacombs
+1 [VMA:324] Volcanic Island
+1 [EMA:248] Wasteland
+1 [EXP:7] Watery Grave
+1 [EXP:19] Wooded Foothills
+3 [PCA:141] Island
 1 [C13:30] Augur of Bolas
-1 [ORI:995] Jace, Vryn's Prodigy
-1 [ISD:50] Snapcaster Mage
-1 [NPH:159] Spellskite
-1 [SOI:92] Thing in the Ice
-1 [CNS:199] Dack Fayden
-1 [WWK:57] Jace, the Mind Sculptor
-1 [ISD:76] Liliana of the Veil
-1 [MR:9] Chrome Mox
-1 [UD:50] Treachery
-1 [C15:40] Brainstorm
-1 [FD:27] Condescend
-1 [7E:10] Counterspell
-1 [LRW:11] Cryptic Command
-1 [NE:12] Daze
-1 [TE:37] Diabolic Edict
-1 [NPH:57] Dismember
-1 [CMD:42] Electrolyze
-1 [C15:48] Fact or Fiction
-1 [CMD:198] Fire/Ice
-1 [7E:76] Force Spike
-1 [AL:14] Force of Will
+1 [ORI:60a] Jace, Vryn's Prodigy
+1 [ISD:78] Snapcaster Mage
+1 [MM2:230] Spellskite
+1 [SOI:92a] Thing in the Ice
+1 [EMA:199] Dack Fayden
+1 [EMA:57] Jace, the Mind Sculptor
+1 [ISD:105] Liliana of the Veil
+1 [MPS:9] Chrome Mox
+1 [UDS:50] Treachery
+1 [EMA:40] Brainstorm
+1 [DD3_JVC:28] Condescend
+1 [EMA:43] Counterspell
+1 [MM2:43] Cryptic Command
+1 [EMA:44] Daze
+1 [TPR:102] Diabolic Edict
+1 [MM2:79] Dismember
+1 [MM2:174] Electrolyze
+1 [EMA:48] Fact or Fiction
+1 [DDJ:32b] Fire/Ice
+1 [DDJ:14] Force Spike
+1 [EMA:49] Force of Will
 1 [MBS:43] Go for the Throat
-1 [MM:72] Gush
-1 [C14:48] Into the Roil
-1 [TE:54] Intuition
-1 [RTR:171] Izzet Charm
-1 [DTK:181] Kolaghan's Command
-1 [M11:162] Lightning Bolt
-1 [FUT:51] Logic Knot
-1 [M12:44] Mana Leak
-1 [7E:60] Memory Lapse
+1 [DD3_JVC:27] Gush
+1 [C14:115] Into the Roil
+1 [TPR:54] Intuition
+1 [RTR:172] Izzet Charm
+1 [DTK:224] Kolaghan's Command
+1 [MM2:122] Lightning Bolt
+1 [MMA:51] Logic Knot
+1 [MM2:50] Mana Leak
+1 [EMA:60] Memory Lapse
 1 [NPH:38] Mental Misstep
-1 [UL:36] Miscalculation
-1 [CNS:87] Misdirection
+1 [ULG:36] Miscalculation
+1 [CNS:102] Misdirection
 1 [KTK:81] Murderous Cut
 1 [C15:14] Mystic Confluence
-1 [AL:143] Pyrokinesis
-1 [RAV:63] Remand
-1 [WWK:57] Smother
-1 [ZEN:51] Spell Pierce
-1 [DIS:64] Spell Snare
-1 [NE:48] Submerge
-1 [MM3:194] Terminate
-1 [TSP:48] Ancestral Vision
-1 [PLC:63] Damnation
-1 [R:116] Demonic Tutor
+1 [EMA:143] Pyrokinesis
+1 [MM2:55] Remand
+1 [DDP:57] Smother
+1 [ZEN:67] Spell Pierce
+1 [MMA:64] Spell Snare
+1 [NMS:48] Submerge
+1 [C16:225] Terminate
+1 [DD3_JVC:21] Ancestral Vision
+1 [PLC:85] Damnation
+1 [DD3_DVD:49] Demonic Tutor
 1 [RTR:157] Dreadbore
 1 [C15:26] Fiery Confluence
-1 [ROE:145] Flame Slash
-1 [M12:29] Ponder
+1 [CN2:157] Flame Slash
+1 [M12:73] Ponder
 1 [C15:101] Preordain
-1 [BFZ:48] Radiant Flames
+1 [BFZ:151] Radiant Flames
 1 [MBS:75] Slagstorm
 1 [C13:124] Sudden Demise
 1 [FRF:55] Temporal Trespass
-1 [C13:108] Toxic Deluge
+1 [EMA:108] Toxic Deluge
 SB: 1 [C16:49] Vial Smasher the Fierce
 SB: 1 [C16:34] Kraum, Ludevic's Opus

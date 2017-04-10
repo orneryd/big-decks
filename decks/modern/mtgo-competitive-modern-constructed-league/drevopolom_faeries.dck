@@ -1,28 +1,28 @@
 NAME:Faeries
-1 [UNH:260] Island
-1 [UNH:263] Swamp
-3 [KTK:17] Polluted Delta
-3 [GTC:7] Watery Grave
+1 [PCA:141] Island
+1 [PCA:146] Swamp
+3 [EXP:17] Polluted Delta
+3 [EXP:7] Watery Grave
 4 [WWK:134] Creeping Tar Pit
 4 [SOM:226] Darkslick Shores
-4 [M14:12] Mutavault
+4 [M14:228] Mutavault
 4 [LRW:271] Secluded Glen
-2 [ISD:50] Snapcaster Mage
+2 [ISD:78] Snapcaster Mage
 3 [LRW:75] Mistbind Clique
-3 [MOR:55] Vendilion Clique
-4 [LRW:65] Spellstutter Sprite
-4 [MOR:58] Bitterblossom
-2 [THS:90] Hero's Downfall
-2 [ISD:86] Think Twice
-4 [LRW:11] Cryptic Command
+3 [MM2:67] Vendilion Clique
+4 [MMA:65] Spellstutter Sprite
+4 [MM2:71] Bitterblossom
+2 [CPK:8] Hero's Downfall
+2 [ISD:83] Think Twice
+4 [MM2:43] Cryptic Command
 4 [AER:57] Fatal Push
-4 [TSP:48] Ancestral Vision
+4 [DD3_JVC:21] Ancestral Vision
 4 [EMN:85] Collective Brutality
 SB: 4 [THS:107] Thoughtseize
-SB: 1 [DS:30] Sword of Light and Shadow
-SB: 1 [WWK:57] Smother
+SB: 1 [MPS:30] Sword of Light and Shadow
+SB: 1 [DDP:57] Smother
 SB: 3 [M11:101] Leyline of the Void
 SB: 1 [OGW:86] Kalitas, Traitor of Ghet
 SB: 2 [ROE:59] Deprive
-SB: 2 [PLC:63] Damnation
+SB: 2 [PLC:85] Damnation
 SB: 1 [ISD:94] Curse of Death's Hold

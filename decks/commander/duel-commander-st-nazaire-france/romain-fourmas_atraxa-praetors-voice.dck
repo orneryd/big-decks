@@ -1,101 +1,101 @@
 NAME:Atraxa, Praetors' Voice
-1 [ZEN:229] Arid Mesa
-1 [R:293] Bayou
-1 [KTK:18] Bloodstained Mire
-1 [GTC:15] Breeding Pool
-1 [BFZ:5] Canopy Vista
-1 [WWK:23] Celestial Colonnade
+1 [EXP:24] Arid Mesa
+1 [VMA:293] Bayou
+1 [EXP:18] Bloodstained Mire
+1 [EXP:15] Breeding Pool
+1 [EXP:5] Canopy Vista
+1 [WWK:133] Celestial Colonnade
 1 [C16:286] Command Tower
 1 [M13:223] Drowned Catacomb
-1 [KTK:16] Flooded Strand
-1 [UNH:269] Forest
+1 [EXP:16] Flooded Strand
+1 [PCA:156] Forest
 1 [M13:225] Glacial Fortress
-1 [GTC:11] Godless Shrine
-1 [RTR:6] Hallowed Fountain
+1 [EXP:11] Godless Shrine
+1 [EXP:6] Hallowed Fountain
 1 [ISD:241] Hinterland Harbor
-1 [FUT:40] Horizon Canopy
-1 [UNH:260] Island
-1 [ISD:242] Isolated Chapel
-1 [ZEN:239] Marsh Flats
-1 [ZEN:240] Misty Rainforest
-1 [RTR:13] Overgrown Tomb
-1 [UNH:257] Plains
-1 [KTK:17] Polluted Delta
-1 [BFZ:1] Prairie Stream
-1 [CNS:328] Reflecting Pool
-1 [R:311] Savannah
-1 [ZEN:244] Scalding Tarn
-1 [R:313] Scrubland
-1 [BFZ:2] Sunken Hollow
+1 [EXP:40] Horizon Canopy
+1 [PCA:141] Island
+1 [MD1:16] Isolated Chapel
+1 [EXP:21] Marsh Flats
+1 [EXP:25] Misty Rainforest
+1 [EXP:13] Overgrown Tomb
+1 [PCA:136] Plains
+1 [EXP:17] Polluted Delta
+1 [EXP:1] Prairie Stream
+1 [CNS:210] Reflecting Pool
+1 [VMA:311] Savannah
+1 [EXP:22] Scalding Tarn
+1 [VMA:313] Scrubland
+1 [EXP:2] Sunken Hollow
 1 [C16:329] Sunpetal Grove
-1 [UNH:263] Swamp
-1 [RTR:10] Temple Garden
-1 [R:321] Tropical Island
-1 [R:322] Tundra
-1 [R:323] Underground Sea
-1 [ZEN:249] Verdant Catacombs
-1 [GTC:7] Watery Grave
-1 [KTK:20] Windswept Heath
-1 [KTK:19] Wooded Foothills
+1 [PCA:146] Swamp
+1 [EXP:10] Temple Garden
+1 [VMA:321] Tropical Island
+1 [VMA:322] Tundra
+1 [VMA:323] Underground Sea
+1 [EXP:23] Verdant Catacombs
+1 [EXP:7] Watery Grave
+1 [EXP:20] Windswept Heath
+1 [EXP:19] Wooded Foothills
 1 [ISD:249] Woodland Cemetery
-1 [ISD:119] Avacyn's Pilgrim
-1 [FUT:3] Aven Mindcensor
-1 [C16:181] Baleful Strix
-1 [MBP:28] Birds of Paradise
+1 [ISD:170] Avacyn's Pilgrim
+1 [FUT:18] Aven Mindcensor
+1 [PCA:82] Baleful Strix
+1 [CN2:176] Birds of Paradise
 1 [EVE:66] Bloom Tender
 1 [C16:54] Crystalline Crawler
-1 [RTR:215] Deathrite Shaman
+1 [EMA:215] Deathrite Shaman
 1 [C16:195] Edric, Spymaster of Trest
-1 [EVE:47] Glen Elendra Archmage
-1 [ARB:11] Jenara, Asura of War
+1 [MMA:47] Glen Elendra Archmage
+1 [V15:11] Jenara, Asura of War
 1 [OGW:86] Kalitas, Traitor of Ghet
 1 [CN2:77] Leovold, Emissary of Trest
 1 [ZEN:168] Lotus Cobra
-1 [CMD:22] Mother of Runes
-1 [CFX:151] Noble Hierarch
-1 [M12:46] Phantasmal Image
-1 [M15:122] Phyrexian Revoker
-1 [THS:199] Prophet of Kruphix
-1 [ARB:124] Qasali Pridemage
-1 [C14:39] Reclamation Sage
+1 [EMA:22] Mother of Runes
+1 [MM2:151] Noble Hierarch
+1 [M12:72] Phantasmal Image
+1 [M15:225] Phyrexian Revoker
+1 [CPK:5] Prophet of Kruphix
+1 [DDH:10] Qasali Pridemage
+1 [C14:213] Reclamation Sage
 1 [AER:133] Renegade Rallier
 1 [AER:122] Rishkar, Peema Renegade
-1 [MM3:134] Scavenging Ooze
-1 [KTK:133] Siege Rhino
-1 [ISD:50] Snapcaster Mage
+1 [C16:166] Scavenging Ooze
+1 [KTK:200] Siege Rhino
+1 [ISD:78] Snapcaster Mage
 1 [EMN:189] Spell Queller
 1 [WWK:20] Stoneforge Mystic
 1 [CN2:38] Stunt Double
-1 [THS:77] Sylvan Caryatid
+1 [THS:180] Sylvan Caryatid
 1 [EMN:46] Thalia, Heretic Cathar
 1 [C13:63] True-Name Nemesis
-1 [MOR:55] Vendilion Clique
+1 [MM2:67] Vendilion Clique
 1 [MPS:5] Verdurous Gearhulk
-1 [DGM:200] Voice of Resurgence
-1 [CMD:16] Garruk Wildspeaker
-1 [WWK:57] Jace, the Mind Sculptor
-1 [ISD:76] Liliana of the Veil
-1 [MBS:28] Sword of Feast and Famine
-1 [BOK:4] Umezawa's Jitte
-1 [NE:37] Parallax Wave
+1 [DGM:114] Voice of Resurgence
+1 [DD3_GVL:1] Garruk Wildspeaker
+1 [EMA:57] Jace, the Mind Sculptor
+1 [ISD:105] Liliana of the Veil
+1 [MPS:28] Sword of Feast and Famine
+1 [V16:14] Umezawa's Jitte
+1 [VMA:37] Parallax Wave
 1 [DIS:99] Utopia Sprawl
-1 [RTR:146] Abrupt Decay
+1 [RTR:141] Abrupt Decay
 1 [C16:177] Abzan Charm
 1 [ALA:155] Bant Charm
-1 [C15:40] Brainstorm
-1 [7E:10] Counterspell
-1 [TE:37] Diabolic Edict
-1 [DTK:175] Dromoka's Command
-1 [PS:106] Eladamri's Call
+1 [EMA:40] Brainstorm
+1 [EMA:43] Counterspell
+1 [TPR:102] Diabolic Edict
+1 [DTK:221] Dromoka's Command
+1 [PLS:106] Eladamri's Call
 1 [AER:57] Fatal Push
 1 [PLC:25] Mana Tithe
 1 [KTK:81] Murderous Cut
-1 [RAV:63] Remand
+1 [MM2:55] Remand
 1 [RAV:253] Shadow of Doubt
-1 [CNS:18] Stifle
+1 [CNS:108] Stifle
 1 [TSP:134] Sudden Death
 1 [C16:78] Swords to Plowshares
-1 [CNS:20] Council's Judgment
-1 [R:116] Demonic Tutor
+1 [VMA:20] Council's Judgment
+1 [DD3_DVD:49] Demonic Tutor
 1 [C15:101] Preordain
 SB: 1 [C16:28] Atraxa, Praetors' Voice

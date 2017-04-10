@@ -1,32 +1,32 @@
 NAME:Dredge
-1 [RTR:8] Blood Crypt
+1 [EXP:8] Blood Crypt
 2 [SOM:224] Blackcleave Cliffs
-2 [FUT:222] Dakmor Salvage
-2 [TSP:164] Gemstone Mine
-2 [UNH:266] Mountain
-2 [GTC:9] Stomping Ground
-3 [KTK:18] Bloodstained Mire
+2 [MMA:222] Dakmor Salvage
+2 [TSB:119] Gemstone Mine
+2 [PCA:150] Mountain
+2 [EXP:9] Stomping Ground
+3 [EXP:18] Bloodstained Mire
 3 [SOM:225] Copperline Gorge
-3 [KTK:19] Wooded Foothills
+3 [EXP:19] Wooded Foothills
 1 [EMN:92] Haunted Dead
-1 [ALA:111] Scourge Devil
+1 [DDN:18] Scourge Devil
 1 [M12:116] Vengeful Pharaoh
-3 [RAV:87] Golgari Thug
+3 [DDJ:48] Golgari Thug
 4 [ZEN:83] Bloodghast
 4 [SOI:168] Insolent Neonate
-4 [FUT:55] Narcomoeba
+4 [MMA:55] Narcomoeba
 4 [SOI:249] Prized Amalgam
-4 [RAV:107] Stinkweed Imp
+4 [DD3_DVD:36] Stinkweed Imp
 3 [TSP:151] Conflagrate
-3 [RAV:172] Life from the Loam
+3 [MMA:153] Life from the Loam
 4 [KLD:109] Cathartic Reunion
-4 [C15:128] Faithless Looting
+4 [EMA:128] Faithless Looting
 SB: 3 [THS:107] Thoughtseize
-SB: 2 [CNS:178] Nature's Claim
+SB: 2 [EMA:178] Nature's Claim
 SB: 2 [SOI:170] Lightning Axe
 SB: 1 [ISD:183] Gnaw to the Bone
 SB: 1 [RAV:82] Darkblast
 SB: 2 [EMN:85] Collective Brutality
-SB: 1 [ISD:88] Ancient Grudge
-SB: 2 [RTR:146] Abrupt Decay
+SB: 1 [ISD:127] Ancient Grudge
+SB: 2 [RTR:141] Abrupt Decay
 SB: 1 [M12:116] Vengeful Pharaoh
