@@ -7,7 +7,7 @@ NAME:Monastery
 3 [VMA:324] Volcanic Island
 4 [EXP:22] Scalding Tarn
 3 [FRF:20] Monastery Mentor
-4 [ORI:60a] Jace, Vryn's Prodigy
+4 [ORI:60] Jace, Vryn's Prodigy
 1 [KLD:110] Chandra, Torch of Defiance
 1 [SOI:247] Nahiri, the Harbinger
 1 [VMA:4] Black Lotus
@@ -21,7 +21,7 @@ NAME:Monastery
 1 [ZEN:57] Mindbreak Trap
 2 [EMA:142] Pyroblast
 2 [C16:78] Swords to Plowshares
-3 [DD3_JVC:27] Gush
+3 [DD3:27] Gush
 4 [EMA:49] Force of Will
 4 [NPH:38] Mental Misstep
 1 [EMA:2] Balance
@@ -34,7 +34,7 @@ SB: 1 [C16:78] Swords to Plowshares
 SB: 3 [C14:5] Containment Priest
 SB: 1 [CN2:82] Disenchant
 SB: 1 [KLD:14] Fragmentize
-SB: 2 [DD3_JVC:45] Ingot Chewer
+SB: 2 [DD3:45] Ingot Chewer
 SB: 3 [RTR:18] Rest in Peace
 SB: 1 [ME2:241] Snow-Covered Plains
 SB: 1 [ISD:36] Stony Silence

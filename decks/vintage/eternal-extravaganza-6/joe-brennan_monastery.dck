@@ -10,7 +10,7 @@ NAME:Monastery
 2 [VMA:324] Volcanic Island
 3 [VMA:322] Tundra
 1 [MM2:67] Vendilion Clique
-3 [ORI:60a] Jace, Vryn's Prodigy
+3 [ORI:60] Jace, Vryn's Prodigy
 3 [FRF:20] Monastery Mentor
 1 [EMA:57] Jace, the Mind Sculptor
 2 [EMA:199] Dack Fayden
@@ -26,8 +26,8 @@ NAME:Monastery
 1 [KTK:36] Dig Through Time
 1 [EMA:62] Mystical Tutor
 1 [EMA:142] Pyroblast
-1 [DGM:135b] Wear/Tear
-3 [DD3_JVC:27] Gush
+1 [DGM:135] Wear/Tear
+3 [DD3:27] Gush
 3 [NPH:38] Mental Misstep
 3 [C16:78] Swords to Plowshares
 4 [EMA:49] Force of Will
@@ -46,4 +46,4 @@ SB: 1 [RTR:18] Rest in Peace
 SB: 2 [MPS:44] Pithing Needle
 SB: 1 [MM2:48] Hurkyl's Recall
 SB: 2 [C14:5] Containment Priest
-SB: 1 [DGM:135b] Wear/Tear
+SB: 1 [DGM:135] Wear/Tear

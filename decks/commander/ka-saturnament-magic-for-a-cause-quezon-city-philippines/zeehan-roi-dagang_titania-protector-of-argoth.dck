@@ -41,7 +41,7 @@ NAME:Titania, Protector Of Argoth
 1 [ZEN:172] Oracle of Mul Daya
 1 [C14:210] Priest of Titania
 1 [MM2:156] Primeval Titan
-1 [DD3_GVL:8] Ravenous Baloth
+1 [DD3:8] Ravenous Baloth
 1 [C14:213] Reclamation Sage
 1 [VMA:229] Rofellos, Llanowar Emissary
 1 [C16:164] Sakura-Tribe Elder
@@ -53,7 +53,7 @@ NAME:Titania, Protector Of Argoth
 1 [SOI:233] Tireless Tracker
 1 [DDR:25] Wood Elves
 1 [MPS:54] Wurmcoil Engine
-1 [DD3_GVL:1] Garruk Wildspeaker
+1 [DD3:1] Garruk Wildspeaker
 1 [MPS:11] Crucible of Worlds
 1 [MM2:213] Expedition Map
 1 [AER:162] Lifecrafter's Bestiary
@@ -65,7 +65,7 @@ NAME:Titania, Protector Of Argoth
 1 [7ED:282] Wild Growth
 1 [PCA:57] Beast Within
 1 [M15:172] Chord of Calling
-1 [STH:undefined] Constant Mists
+1 [STH:] Constant Mists
 1 [DDR:7] Crop Rotation
 1 [AER:109] Heroic Intervention
 1 [EMA:178] Nature's Claim
@@ -75,7 +75,7 @@ NAME:Titania, Protector Of Argoth
 1 [EMA:169] Green Sun's Zenith
 1 [CSP:111] Into the North
 1 [MMA:153] Life from the Loam
-1 [DD3_GVL:17] Nature's Lore
+1 [DD3:17] Nature's Lore
 1 [C13:167] Restore
 1 [BFZ:192] Sylvan Scrying
 1 [NPH:123] Triumph of the Hordes

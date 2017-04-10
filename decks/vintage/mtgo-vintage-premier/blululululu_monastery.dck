@@ -7,7 +7,7 @@ NAME:Monastery
 3 [VMA:322] Tundra
 3 [VMA:324] Volcanic Island
 4 [EXP:22] Scalding Tarn
-2 [ORI:60a] Jace, Vryn's Prodigy
+2 [ORI:60] Jace, Vryn's Prodigy
 2 [ISD:78] Snapcaster Mage
 4 [FRF:20] Monastery Mentor
 3 [EMA:199] Dack Fayden
@@ -22,7 +22,7 @@ NAME:Monastery
 1 [VMA:68] Flusterstorm
 1 [ZEN:57] Mindbreak Trap
 1 [MMA:133] Sudden Shock
-3 [DD3_JVC:27] Gush
+3 [DD3:27] Gush
 3 [NPH:38] Mental Misstep
 4 [EMA:49] Force of Will
 4 [C16:78] Swords to Plowshares
@@ -35,7 +35,7 @@ SB: 1 [KLD:14] Fragmentize
 SB: 1 [NPH:38] Mental Misstep
 SB: 1 [ISD:36] Stony Silence
 SB: 4 [C14:5] Containment Priest
-SB: 2 [DD3_JVC:45] Ingot Chewer
+SB: 2 [DD3:45] Ingot Chewer
 SB: 1 [PCA:150] Mountain
 SB: 1 [MD1:3] Path to Exile
 SB: 2 [EMA:142] Pyroblast

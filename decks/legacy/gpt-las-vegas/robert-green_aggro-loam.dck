@@ -9,7 +9,7 @@ NAME:Aggro Loam
 1 [VMA:313] Scrubland
 1 [PCA:146] Swamp
 1 [VMA:317] Taiga
-1 [DD3_EVG:26] Tranquil Thicket
+1 [DD3:26] Tranquil Thicket
 2 [VMA:293] Bayou
 2 [EXP:20] Windswept Heath
 3 [V12:8] Grove of the Burnwillows
@@ -32,7 +32,7 @@ SB: 1 [TPR:102] Diabolic Edict
 SB: 2 [C14:5] Containment Priest
 SB: 4 [M11:101] Leyline of the Void
 SB: 1 [8ED:180] Boil
-SB: 1 [ISD:181a] Garruk Relentless
+SB: 1 [ISD:181] Garruk Relentless
 SB: 1 [MM2:29] Oblivion Ring
 SB: 1 [DTK:224] Kolaghan's Command
 SB: 2 [C15:221] Golgari Charm

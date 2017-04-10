@@ -24,7 +24,7 @@ NAME:Grand Arbiter Augustin Iv
 1 [C15:82] Sun Titan
 1 [MD1:13] Elspeth, Knight-Errant
 1 [DDO:1] Elspeth, Sun's Champion
-1 [DD3_JVC:1] Jace Beleren
+1 [DD3:1] Jace Beleren
 1 [EMA:57] Jace, the Mind Sculptor
 1 [DTK:225] Narset Transcendent
 1 [DGM:136] Azorius Cluestone
@@ -44,7 +44,7 @@ NAME:Grand Arbiter Augustin Iv
 1 [CM1:15] Rhystic Study
 1 [BFZ:69] Anticipate
 1 [EMA:40] Brainstorm
-1 [DD3_JVC:28] Condescend
+1 [DD3:28] Condescend
 1 [EMA:43] Counterspell
 1 [MM2:43] Cryptic Command
 1 [C14:104] Cyclonic Rift
@@ -69,7 +69,7 @@ NAME:Grand Arbiter Augustin Iv
 1 [V14:1] Armageddon
 1 [EMA:2] Balance
 1 [8ED:64] Bribery
-1 [BRB:undefined] Catastrophe
+1 [USG:6] Catastrophe
 1 [M12:12] Day of Judgment
 1 [NPH:35] Gitaxian Probe
 1 [M12:73] Ponder

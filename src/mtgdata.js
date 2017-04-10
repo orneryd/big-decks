@@ -10,10 +10,10 @@ const toKeyName = (val) => {
 };
 
 const cardData = _.reduce(mtgData, (all, set) => {
-  console.log(set.code);
     _.each(set.cards, (card)=> {
-      card.setCode = set.code;
+      card.setCode = set.code.split('_')[0];
       card.setName = set.name;
+      card.number = card.number || '';
       let nameKey = toKeyName(card);
       all[nameKey] = all[nameKey] || [];
       all[nameKey].push(card);

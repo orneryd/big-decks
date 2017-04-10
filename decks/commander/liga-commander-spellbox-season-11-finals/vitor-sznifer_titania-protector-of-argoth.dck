@@ -39,7 +39,7 @@ NAME:Titania, Protector Of Argoth
 1 [EMA:175] Llanowar Elves
 1 [ZEN:168] Lotus Cobra
 1 [THS:162] Mistcutter Hydra
-1 [ORI:189a] Nissa, Vastwood Seer
+1 [ORI:189] Nissa, Vastwood Seer
 1 [ZEN:172] Oracle of Mul Daya
 1 [C14:210] Priest of Titania
 1 [MM2:156] Primeval Titan
@@ -57,19 +57,19 @@ NAME:Titania, Protector Of Argoth
 1 [ORI:207] Woodland Bellower
 1 [OGW:126] World Breaker
 1 [MPS:54] Wurmcoil Engine
-1 [DD3_GVL:1] Garruk Wildspeaker
+1 [DD3:1] Garruk Wildspeaker
 1 [KLD:163] Nissa, Vital Force
 1 [M15:187] Nissa, Worldwaker
 1 [MPS:11] Crucible of Worlds
 1 [V16:14] Umezawa's Jitte
 1 [V10:15] Zuran Orb
 1 [CNS:164] Exploration
-1 [MIR:undefined] Hall of Gemstone
+1 [MIR:] Hall of Gemstone
 1 [C14:47] Song of the Dryads
 1 [DIS:99] Utopia Sprawl
 1 [7ED:282] Wild Growth
 1 [PCA:57] Beast Within
-1 [STH:undefined] Constant Mists
+1 [STH:] Constant Mists
 1 [DDR:7] Crop Rotation
 1 [DDP:16] Harrow
 1 [ROE:206] Realms Uncharted
@@ -77,7 +77,7 @@ NAME:Titania, Protector Of Argoth
 1 [DDO:45] Explore
 1 [EMA:169] Green Sun's Zenith
 1 [MMA:153] Life from the Loam
-1 [DD3_GVL:17] Nature's Lore
+1 [DD3:17] Nature's Lore
 1 [C16:161] Rampant Growth
 1 [BFZ:192] Sylvan Scrying
 1 [NPH:123] Triumph of the Hordes

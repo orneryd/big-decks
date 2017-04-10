@@ -9,7 +9,7 @@ NAME:Monastery
 2 [EMA:248] Wasteland
 3 [VMA:322] Tundra
 4 [EXP:16] Flooded Strand
-1 [ORI:60a] Jace, Vryn's Prodigy
+1 [ORI:60] Jace, Vryn's Prodigy
 4 [FRF:20] Monastery Mentor
 1 [EMA:199] Dack Fayden
 1 [EMA:57] Jace, the Mind Sculptor
@@ -24,7 +24,7 @@ NAME:Monastery
 1 [EMA:62] Mystical Tutor
 1 [EMA:142] Pyroblast
 2 [VMA:68] Flusterstorm
-3 [DD3_JVC:27] Gush
+3 [DD3:27] Gush
 3 [NPH:38] Mental Misstep
 4 [EMA:49] Force of Will
 4 [C16:78] Swords to Plowshares

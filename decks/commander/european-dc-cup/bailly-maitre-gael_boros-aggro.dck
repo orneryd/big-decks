@@ -42,7 +42,7 @@ NAME:Boros Aggro
 1 [MM2:127] Spikeshot Elder
 1 [SOI:44] Thraben Inspector
 1 [KLD:32] Toolcraft Exemplar
-1 [MIR:undefined] Vigilant Martyr
+1 [MIR:] Vigilant Martyr
 1 [ZEN:195] Adventuring Gear
 1 [AER:142] Aethersphere Harvester
 1 [OGW:161] Bone Saw
@@ -74,7 +74,7 @@ NAME:Boros Aggro
 1 [THS:4] Chained to the Rocks
 1 [EMA:9] Enlightened Tutor
 1 [SOM:91] Galvanic Blast
-1 [DD3_JVC:51] Incinerate
+1 [DD3:51] Incinerate
 1 [MM2:122] Lightning Bolt
 1 [DDN:65] Lightning Helix
 1 [EMA:141] Price of Progress

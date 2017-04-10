@@ -52,8 +52,8 @@ NAME:Nissa
 1 [V16:14] Umezawa's Jitte
 1 [CNS:164] Exploration
 1 [ME3:120] Gaea's Touch
-1 [MIR:undefined] Hall of Gemstone
-1 [DD3_GVL:16] Lignify
+1 [MIR:] Hall of Gemstone
+1 [DD3:16] Lignify
 1 [C14:47] Song of the Dryads
 1 [TPR:199] Survival of the Fittest
 1 [EMA:187] Sylvan Library
@@ -65,10 +65,10 @@ NAME:Nissa
 1 [DDO:45] Explore
 1 [EMA:169] Green Sun's Zenith
 1 [CSP:111] Into the North
-1 [DD3_GVL:17] Nature's Lore
+1 [DD3:17] Nature's Lore
 1 [8ED:272] Plow Under
 1 [DDP:20] Primal Command
 1 [C16:161] Rampant Growth
 1 [MMA:161] Search for Tomorrow
 1 [ME3:135] Three Visits
-SB: 1 [ORI:189a] Nissa, Vastwood Seer
+SB: 1 [ORI:189] Nissa, Vastwood Seer

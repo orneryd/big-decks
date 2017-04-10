@@ -39,17 +39,17 @@ NAME:Vial/kraum
 1 [EXP:19] Wooded Foothills
 3 [PCA:141] Island
 1 [C13:30] Augur of Bolas
-1 [ORI:60a] Jace, Vryn's Prodigy
+1 [ORI:60] Jace, Vryn's Prodigy
 1 [ISD:78] Snapcaster Mage
 1 [MM2:230] Spellskite
-1 [SOI:92a] Thing in the Ice
+1 [SOI:92] Thing in the Ice
 1 [EMA:199] Dack Fayden
 1 [EMA:57] Jace, the Mind Sculptor
 1 [ISD:105] Liliana of the Veil
 1 [MPS:9] Chrome Mox
 1 [UDS:50] Treachery
 1 [EMA:40] Brainstorm
-1 [DD3_JVC:28] Condescend
+1 [DD3:28] Condescend
 1 [EMA:43] Counterspell
 1 [MM2:43] Cryptic Command
 1 [EMA:44] Daze
@@ -57,11 +57,11 @@ NAME:Vial/kraum
 1 [MM2:79] Dismember
 1 [MM2:174] Electrolyze
 1 [EMA:48] Fact or Fiction
-1 [DDJ:32b] Fire/Ice
+1 [DDJ:32] Fire/Ice
 1 [DDJ:14] Force Spike
 1 [EMA:49] Force of Will
 1 [MBS:43] Go for the Throat
-1 [DD3_JVC:27] Gush
+1 [DD3:27] Gush
 1 [C14:115] Into the Roil
 1 [TPR:54] Intuition
 1 [RTR:172] Izzet Charm
@@ -82,9 +82,9 @@ NAME:Vial/kraum
 1 [MMA:64] Spell Snare
 1 [NMS:48] Submerge
 1 [C16:225] Terminate
-1 [DD3_JVC:21] Ancestral Vision
+1 [DD3:21] Ancestral Vision
 1 [PLC:85] Damnation
-1 [DD3_DVD:49] Demonic Tutor
+1 [DD3:49] Demonic Tutor
 1 [RTR:157] Dreadbore
 1 [C15:26] Fiery Confluence
 1 [CN2:157] Flame Slash

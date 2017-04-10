@@ -52,14 +52,14 @@ NAME:Nissa
 1 [BFZ:15] Ulamog, the Ceaseless Hunger
 1 [OGW:126] World Breaker
 1 [MPS:54] Wurmcoil Engine
-1 [DD3_GVL:1] Garruk Wildspeaker
+1 [DD3:1] Garruk Wildspeaker
 1 [MM2:4] Karn Liberated
 1 [KLD:163] Nissa, Vital Force
 1 [FRF:1] Ugin, the Spirit Dragon
 1 [MM2:213] Expedition Map
 1 [C16:143] Burgeoning
 1 [CNS:164] Exploration
-1 [DD3_GVL:16] Lignify
+1 [DD3:16] Lignify
 1 [DIS:99] Utopia Sprawl
 1 [7ED:282] Wild Growth
 1 [DDR:7] Crop Rotation
@@ -71,7 +71,7 @@ NAME:Nissa
 1 [EMA:169] Green Sun's Zenith
 1 [CSP:111] Into the North
 1 [TSP:207] Mwonvuli Acid-Moss
-1 [DD3_GVL:17] Nature's Lore
+1 [DD3:17] Nature's Lore
 1 [C16:161] Rampant Growth
 1 [DST:81] Reap and Sow
 1 [C13:167] Restore
@@ -79,4 +79,4 @@ NAME:Nissa
 1 [NMS:117] Skyshroud Claim
 1 [BFZ:192] Sylvan Scrying
 1 [SOI:234] Traverse the Ulvenwald
-SB: 1 [ORI:189a] Nissa, Vastwood Seer
+SB: 1 [ORI:189] Nissa, Vastwood Seer

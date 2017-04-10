@@ -22,7 +22,7 @@ NAME:Gitrog
 1 [C16:331] Temple of the False God
 1 [PCA:129] Terramorphic Expanse
 1 [GTC:248] Thespian's Stage
-1 [DD3_EVG:26] Tranquil Thicket
+1 [DD3:26] Tranquil Thicket
 1 [M15:248] Urborg, Tomb of Yawgmoth
 1 [EXP:23] Verdant Catacombs
 1 [EMA:248] Wasteland
@@ -44,7 +44,7 @@ NAME:Gitrog
 1 [V10:15] Zuran Orb
 1 [CNS:164] Exploration
 1 [CNS:191] Pernicious Deed
-1 [VIS:undefined] Squandered Resources
+1 [VIS:] Squandered Resources
 1 [RTR:141] Abrupt Decay
 1 [DDR:7] Crop Rotation
 1 [TPR:93] Dark Ritual
@@ -58,7 +58,7 @@ NAME:Gitrog
 1 [PCA:62] Cultivate
 1 [PLC:85] Damnation
 1 [ORI:90] Dark Petition
-1 [DD3_DVD:49] Demonic Tutor
+1 [DD3:49] Demonic Tutor
 1 [DDG:25] Edge of Autumn
 1 [DDO:45] Explore
 1 [C16:148] Far Wanderings
@@ -66,7 +66,7 @@ NAME:Gitrog
 1 [C16:155] Kodama's Reach
 1 [MMA:153] Life from the Loam
 1 [MMA:180] Maelstrom Pulse
-1 [DD3_GVL:17] Nature's Lore
+1 [DD3:17] Nature's Lore
 1 [EMA:100] Night's Whisper
 1 [VMA:222] Nostalgic Dreams
 1 [MMA:95] Raven's Crime

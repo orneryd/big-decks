@@ -13,18 +13,18 @@ NAME:Zurgo
 1 [JOU:94] Eidolon of the Great Revel
 1 [EMA:129] Fervent Cathar
 1 [ME4:113] Fire Imp
-1 [DD3_JVC:42] Flametongue Kavu
+1 [DD3:42] Flametongue Kavu
 1 [FRF:100] Flamewake Phoenix
 1 [ZEN:125] Goblin Bushwhacker
 1 [ZEN:126] Goblin Guide
 1 [FRF:102] Goblin Heelcutter
 1 [MBS:64] Goblin Wardriver
-1 [EMN:130a] Hanweir Garrison
+1 [EMN:130] Hanweir Garrison
 1 [DDN:10] Hell's Thunder
 1 [DDK:52] Hellrider
 1 [DDK:46] Hellspark Elemental
 1 [MBS:66] Hero of Oxid Ridge
-1 [DD3_JVC:41] Inner-Flame Acolyte
+1 [DD3:41] Inner-Flame Acolyte
 1 [DTK:141] Ire Shaman
 1 [AER:87] Kari Zev, Skyship Raider
 1 [EMA:136] Keldon Marauders
@@ -42,9 +42,9 @@ NAME:Zurgo
 1 [CNS:138] Brimstone Volley
 1 [MM2:109] Burst Lightning
 1 [V13:14] Char
-1 [DD3_JVC:55] Fireblast
-1 [DD3_JVC:53] Flame Javelin
-1 [DD3_JVC:51] Incinerate
+1 [DD3:55] Fireblast
+1 [DD3:53] Flame Javelin
+1 [DD3:51] Incinerate
 1 [MM2:122] Lightning Bolt
 1 [EMA:141] Price of Progress
 1 [DDI:67] Searing Blaze

@@ -11,7 +11,7 @@ NAME:Jace, Vryn's Prodigy
 1 [EMA:248] Wasteland
 1 [AER:28] Baral, Chief of Compliance
 1 [MBS:21] Consecrated Sphinx
-1 [EMN:54a] Curious Homunculus
+1 [EMN:54] Curious Homunculus
 1 [ORI:58] Harbinger of the Tides
 1 [ISD:78] Snapcaster Mage
 1 [MM2:230] Spellskite
@@ -28,12 +28,12 @@ NAME:Jace, Vryn's Prodigy
 1 [TPR:228] Mox Diamond
 1 [C14:266] Sapphire Medallion
 1 [MPS:53] Vedalken Shackles
-1 [MIR:undefined] Mind Harness
+1 [MIR:] Mind Harness
 1 [OGW:60] Oath of Jace
 1 [UDS:50] Treachery
 1 [ME4:39] Blue Elemental Blast
 1 [EMA:40] Brainstorm
-1 [DD3_JVC:28] Condescend
+1 [DD3:28] Condescend
 1 [EMA:43] Counterspell
 1 [MM2:43] Cryptic Command
 1 [AER:31] Disallow
@@ -71,4 +71,4 @@ NAME:Jace, Vryn's Prodigy
 1 [USG:103] Time Spiral
 1 [TPR:74] Time Warp
 1 [TSP:93] Walk the Aeons
-SB: 1 [ORI:60a] Jace, Vryn's Prodigy
+SB: 1 [ORI:60] Jace, Vryn's Prodigy

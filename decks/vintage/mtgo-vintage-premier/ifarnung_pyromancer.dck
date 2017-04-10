@@ -7,7 +7,7 @@ NAME:Pyromancer
 3 [EXP:22] Scalding Tarn
 3 [VMA:323] Underground Sea
 3 [VMA:324] Volcanic Island
-1 [ORI:60a] Jace, Vryn's Prodigy
+1 [ORI:60] Jace, Vryn's Prodigy
 2 [ISD:78] Snapcaster Mage
 3 [EMA:155] Young Pyromancer
 1 [EMA:199] Dack Fayden
@@ -23,22 +23,22 @@ NAME:Pyromancer
 1 [MM2:122] Lightning Bolt
 1 [ZEN:57] Mindbreak Trap
 1 [MMA:133] Sudden Shock
-3 [DD3_JVC:27] Gush
+3 [DD3:27] Gush
 4 [EMA:49] Force of Will
 4 [NPH:38] Mental Misstep
-1 [DD3_DVD:49] Demonic Tutor
+1 [DD3:49] Demonic Tutor
 1 [M12:73] Ponder
 1 [VMA:2] Time Walk
 1 [C16:101] Treasure Cruise
 3 [EMA:83] Cabal Therapy
 3 [C15:101] Preordain
 4 [NPH:35] Gitaxian Probe
-SB: 4 [DD3_JVC:45] Ingot Chewer
+SB: 4 [DD3:45] Ingot Chewer
 SB: 1 [EMA:142] Pyroblast
 SB: 1 [ME4:131] Red Elemental Blast
 SB: 2 [GPT:75] Shattering Spree
 SB: 1 [PCA:150] Mountain
-SB: 1 [DD3_GVL:53] Snuff Out
+SB: 1 [DD3:53] Snuff Out
 SB: 2 [PLC:108] Sulfur Elemental
 SB: 1 [7ED:60] Arcane Laboratory
 SB: 1 [VMA:68] Flusterstorm

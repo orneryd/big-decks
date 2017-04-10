@@ -8,7 +8,7 @@ NAME:UBG
 3 [VMA:321] Tropical Island
 3 [VMA:323] Underground Sea
 3 [EMA:215] Deathrite Shaman
-3 [ORI:60a] Jace, Vryn's Prodigy
+3 [ORI:60] Jace, Vryn's Prodigy
 3 [CN2:77] Leovold, Emissary of Trest
 3 [C16:157] Managorger Hydra
 1 [EMA:57] Jace, the Mind Sculptor
@@ -24,17 +24,17 @@ NAME:UBG
 1 [ZEN:57] Mindbreak Trap
 2 [RTR:141] Abrupt Decay
 2 [AER:57] Fatal Push
-3 [DD3_JVC:27] Gush
+3 [DD3:27] Gush
 3 [NPH:38] Mental Misstep
 4 [EMA:49] Force of Will
-1 [DD3_DVD:49] Demonic Tutor
+1 [DD3:49] Demonic Tutor
 1 [VMA:2] Time Walk
 1 [C16:101] Treasure Cruise
 3 [C15:101] Preordain
 SB: 2 [FUT:93] Yixlid Jailer
 SB: 1 [DTK:125] Virulent Plague
 SB: 1 [C14:278] Tormod's Crypt
-SB: 1 [DD3_GVL:53] Snuff Out
+SB: 1 [DD3:53] Snuff Out
 SB: 1 [ZEN:109] Ravenous Trap
 SB: 1 [C13:249] Nihil Spellbomb
 SB: 3 [EMA:178] Nature's Claim

@@ -7,7 +7,7 @@ NAME:Monastery
 3 [EXP:22] Scalding Tarn
 3 [VMA:322] Tundra
 4 [EXP:16] Flooded Strand
-2 [ORI:60a] Jace, Vryn's Prodigy
+2 [ORI:60] Jace, Vryn's Prodigy
 4 [FRF:20] Monastery Mentor
 2 [EMA:199] Dack Fayden
 2 [EMA:57] Jace, the Mind Sculptor
@@ -22,7 +22,7 @@ NAME:Monastery
 1 [EMA:40] Brainstorm
 1 [KTK:36] Dig Through Time
 2 [EMA:142] Pyroblast
-3 [DD3_JVC:27] Gush
+3 [DD3:27] Gush
 3 [NPH:38] Mental Misstep
 4 [EMA:49] Force of Will
 4 [C16:78] Swords to Plowshares
@@ -35,7 +35,7 @@ SB: 2 [C14:278] Tormod's Crypt
 SB: 1 [RTR:201] Supreme Verdict
 SB: 1 [RTR:18] Rest in Peace
 SB: 1 [ZEN:57] Mindbreak Trap
-SB: 4 [DD3_JVC:45] Ingot Chewer
+SB: 4 [DD3:45] Ingot Chewer
 SB: 1 [VMA:68] Flusterstorm
 SB: 1 [DTK:217] Dragonlord Dromoka
 SB: 2 [C14:5] Containment Priest

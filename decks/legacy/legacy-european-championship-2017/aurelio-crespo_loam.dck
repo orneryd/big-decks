@@ -9,7 +9,7 @@ NAME:Loam
 1 [VMA:311] Savannah
 1 [VMA:313] Scrubland
 1 [VMA:317] Taiga
-1 [DD3_EVG:26] Tranquil Thicket
+1 [DD3:26] Tranquil Thicket
 1 [EXP:23] Verdant Catacombs
 2 [VMA:293] Bayou
 2 [EXP:20] Windswept Heath
@@ -37,7 +37,7 @@ SB: 1 [C14:213] Reclamation Sage
 SB: 3 [M11:101] Leyline of the Void
 SB: 2 [C16:78] Swords to Plowshares
 SB: 1 [KLD:110] Chandra, Torch of Defiance
-SB: 1 [ISD:181a] Garruk Relentless
+SB: 1 [ISD:181] Garruk Relentless
 SB: 1 [C14:5] Containment Priest
 SB: 1 [C15:221] Golgari Charm
 SB: 2 [EMA:108] Toxic Deluge

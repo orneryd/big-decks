@@ -21,7 +21,7 @@ NAME:Gitrog
 1 [EXP:44] Tectonic Edge
 1 [C16:331] Temple of the False God
 1 [PCA:129] Terramorphic Expanse
-1 [DD3_EVG:26] Tranquil Thicket
+1 [DD3:26] Tranquil Thicket
 1 [EXP:33] Twilight Mire
 1 [M15:248] Urborg, Tomb of Yawgmoth
 1 [EXP:23] Verdant Catacombs
@@ -41,7 +41,7 @@ NAME:Gitrog
 1 [SOI:233] Tireless Tracker
 1 [PCA:81] Wall of Blossoms
 1 [ARC:73] Wall of Roots
-1 [ISD:181a] Garruk Relentless
+1 [ISD:181] Garruk Relentless
 1 [ISD:105] Liliana of the Veil
 1 [FRF:1] Ugin, the Spirit Dragon
 1 [MPS:9] Chrome Mox
@@ -69,13 +69,13 @@ NAME:Gitrog
 1 [PCA:62] Cultivate
 1 [PLC:85] Damnation
 1 [ORI:90] Dark Petition
-1 [DD3_DVD:49] Demonic Tutor
+1 [DD3:49] Demonic Tutor
 1 [DDO:45] Explore
 1 [C16:155] Kodama's Reach
 1 [C16:114] Languish
 1 [MMA:153] Life from the Loam
 1 [MMA:180] Maelstrom Pulse
-1 [DD3_GVL:17] Nature's Lore
+1 [DD3:17] Nature's Lore
 1 [DDP:20] Primal Command
 1 [MMA:95] Raven's Crime
 1 [C13:167] Restore

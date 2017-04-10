@@ -8,7 +8,7 @@ NAME:Monastery
 2 [VMA:321] Tropical Island
 2 [VMA:324] Volcanic Island
 3 [VMA:322] Tundra
-2 [ORI:60a] Jace, Vryn's Prodigy
+2 [ORI:60] Jace, Vryn's Prodigy
 4 [FRF:20] Monastery Mentor
 1 [EMA:57] Jace, the Mind Sculptor
 2 [EMA:199] Dack Fayden
@@ -25,7 +25,7 @@ NAME:Monastery
 2 [EMA:142] Pyroblast
 3 [C16:78] Swords to Plowshares
 4 [EMA:49] Force of Will
-4 [DD3_JVC:27] Gush
+4 [DD3:27] Gush
 4 [NPH:38] Mental Misstep
 1 [M12:73] Ponder
 1 [VMA:2] Time Walk

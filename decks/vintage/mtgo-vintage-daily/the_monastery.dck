@@ -7,7 +7,7 @@ NAME:Monastery
 3 [VMA:322] Tundra
 3 [VMA:324] Volcanic Island
 4 [EXP:16] Flooded Strand
-3 [ORI:60a] Jace, Vryn's Prodigy
+3 [ORI:60] Jace, Vryn's Prodigy
 3 [FRF:20] Monastery Mentor
 1 [KLD:110] Chandra, Torch of Defiance
 1 [EMA:199] Dack Fayden
@@ -21,7 +21,7 @@ NAME:Monastery
 1 [KTK:36] Dig Through Time
 1 [ZEN:57] Mindbreak Trap
 2 [EMA:142] Pyroblast
-3 [DD3_JVC:27] Gush
+3 [DD3:27] Gush
 3 [C16:78] Swords to Plowshares
 4 [EMA:49] Force of Will
 4 [NPH:38] Mental Misstep
@@ -35,7 +35,7 @@ SB: 2 [EMA:248] Wasteland
 SB: 3 [C14:278] Tormod's Crypt
 SB: 1 [ISD:36] Stony Silence
 SB: 1 [PCA:136] Plains
-SB: 2 [DD3_JVC:45] Ingot Chewer
+SB: 2 [DD3:45] Ingot Chewer
 SB: 3 [DKA:149] Grafdigger's Cage
 SB: 1 [KLD:14] Fragmentize
 SB: 1 [CN2:82] Disenchant

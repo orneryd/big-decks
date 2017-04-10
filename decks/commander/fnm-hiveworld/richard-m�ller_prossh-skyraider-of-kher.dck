@@ -16,7 +16,7 @@ NAME:Prossh, Skyraider Of Kher
 1 [THS:224] Temple of Abandon
 1 [GTC:248] Thespian's Stage
 1 [M15:248] Urborg, Tomb of Yawgmoth
-1 [SOI:281a] Westvale Abbey
+1 [SOI:281] Westvale Abbey
 1 [EXP:20] Windswept Heath
 1 [EXP:19] Wooded Foothills
 1 [ISD:249] Woodland Cemetery
@@ -61,7 +61,7 @@ NAME:Prossh, Skyraider Of Kher
 1 [TPR:93] Dark Ritual
 1 [MBS:43] Go for the Throat
 1 [CPK:8] Hero's Downfall
-1 [DIS:152b] Hit/Run
+1 [DIS:152] Hit/Run
 1 [DTK:224] Kolaghan's Command
 1 [C15:189] Krosan Grip
 1 [C16:217] Putrefy
@@ -71,7 +71,7 @@ NAME:Prossh, Skyraider Of Kher
 1 [HOP:80] Tribal Unity
 1 [6ED:269] Worldly Tutor
 1 [PCA:62] Cultivate
-1 [DD3_DVD:49] Demonic Tutor
+1 [DD3:49] Demonic Tutor
 1 [PLS:42] Diabolic Intent
 1 [RAV:84] Dimir Machinations
 1 [RTR:157] Dreadbore
@@ -79,7 +79,7 @@ NAME:Prossh, Skyraider Of Kher
 1 [EMA:169] Green Sun's Zenith
 1 [C13:193] Hull Breach
 1 [C16:155] Kodama's Reach
-1 [DD3_GVL:17] Nature's Lore
+1 [DD3:17] Nature's Lore
 1 [M13:180] Predatory Rampage
 1 [C16:161] Rampant Growth
 1 [BFZ:192] Sylvan Scrying

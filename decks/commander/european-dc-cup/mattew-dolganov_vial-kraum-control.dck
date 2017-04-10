@@ -33,8 +33,8 @@ NAME:Vial / Kraum Control
 2 [PCA:150] Mountain
 2 [PCA:146] Swamp
 4 [PCA:141] Island
-1 [ISD:51a] Delver of Secrets
-1 [DD3_JVC:42] Flametongue Kavu
+1 [ISD:51] Delver of Secrets
+1 [DD3:42] Flametongue Kavu
 1 [OGW:110] Goblin Dark-Dwellers
 1 [C15:97] Mulldrifter
 1 [C15:137] Shriekmaw
@@ -50,15 +50,15 @@ NAME:Vial / Kraum Control
 1 [DDE:50] Evasive Action
 1 [EMA:48] Fact or Fiction
 1 [MED:145] Fire Covenant
-1 [DDJ:32b] Fire/Ice
-1 [DD3_JVC:55] Fireblast
+1 [DDJ:32] Fire/Ice
+1 [DD3:55] Fireblast
 1 [VMA:68] Flusterstorm
 1 [DDJ:14] Force Spike
 1 [EMA:49] Force of Will
 1 [ODY:139] Ghastly Demise
-1 [DD3_JVC:27] Gush
+1 [DD3:27] Gush
 1 [DDN:63] Impulse
-1 [DD3_JVC:51] Incinerate
+1 [DD3:51] Incinerate
 1 [C14:115] Into the Roil
 1 [MM2:122] Lightning Bolt
 1 [M15:155] Lightning Strike
@@ -79,10 +79,10 @@ NAME:Vial / Kraum Control
 1 [C16:225] Terminate
 1 [EMN:79] Unsubstantiate
 1 [MM2:66] Vapor Snag
-1 [DD3_JVC:21] Ancestral Vision
+1 [DD3:21] Ancestral Vision
 1 [DDK:69] Blightning
 1 [EMA:123] Chain Lightning
-1 [DD3_DVD:49] Demonic Tutor
+1 [DD3:49] Demonic Tutor
 1 [EMA:86] Duress
 1 [CN2:157] Flame Slash
 1 [CN2:140] Inquisition of Kozilek

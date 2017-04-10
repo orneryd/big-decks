@@ -1,6 +1,6 @@
 NAME:Zurgo Bellstriker
 1 [EMN:203] Geier Reach Sanitarium
-1 [EMN:204a] Hanweir Battlements
+1 [EMN:204] Hanweir Battlements
 1 [C13:303] Kher Keep
 1 [EMA:242] Mishra's Factory
 1 [EMN:205] Nephalia Academy
@@ -14,7 +14,7 @@ NAME:Zurgo Bellstriker
 1 [FRF:102] Goblin Heelcutter
 1 [MBS:64] Goblin Wardriver
 1 [M12:145] Grim Lavamancer
-1 [EMN:130a] Hanweir Garrison
+1 [EMN:130] Hanweir Garrison
 1 [DDN:10] Hell's Thunder
 1 [DDK:52] Hellrider
 1 [DDK:46] Hellspark Elemental
@@ -28,7 +28,7 @@ NAME:Zurgo Bellstriker
 1 [BNG:108] Satyr Firedancer
 1 [ORI:160] Scab-Clan Berserker
 1 [SOI:181] Sin Prodder
-1 [DD3_JVC:39] Slith Firewalker
+1 [DD3:39] Slith Firewalker
 1 [KLD:132] Speedway Fanatic
 1 [MM2:130] Stormblood Berserker
 1 [KTK:125] Valley Dasher
@@ -47,13 +47,13 @@ NAME:Zurgo Bellstriker
 1 [MM2:109] Burst Lightning
 1 [V13:14] Char
 1 [SOI:156] Fiery Temper
-1 [DD3_JVC:55] Fireblast
-1 [DD3_JVC:53] Flame Javelin
+1 [DD3:55] Fireblast
+1 [DD3:53] Flame Javelin
 1 [PD2:22] Flames of the Blood Hand
-1 [DD3_JVC:51] Incinerate
+1 [DD3:51] Incinerate
 1 [MM2:122] Lightning Bolt
 1 [M15:155] Lightning Strike
-1 [DD3_JVC:52] Magma Jet
+1 [DD3:52] Magma Jet
 1 [EMA:141] Price of Progress
 1 [DDI:67] Searing Blaze
 1 [M13:147] Searing Spear

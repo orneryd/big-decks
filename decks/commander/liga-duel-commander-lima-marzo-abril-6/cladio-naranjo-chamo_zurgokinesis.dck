@@ -41,15 +41,15 @@ NAME:Zurgokinesis
 1 [EMA:150] Sulfuric Vortex
 1 [CNS:138] Brimstone Volley
 1 [V13:14] Char
-1 [PLC:113b] Dead/Gone
-1 [DD3_JVC:55] Fireblast
-1 [DD3_JVC:53] Flame Javelin
+1 [PLC:113] Dead/Gone
+1 [DD3:55] Fireblast
+1 [DD3:53] Flame Javelin
 1 [PD2:22] Flames of the Blood Hand
-1 [DD3_JVC:51] Incinerate
+1 [DD3:51] Incinerate
 1 [CMD:127] Lash Out
 1 [MM2:122] Lightning Bolt
 1 [M15:155] Lightning Strike
-1 [DD3_JVC:52] Magma Jet
+1 [DD3:52] Magma Jet
 1 [EMA:141] Price of Progress
 1 [EMA:143] Pyrokinesis
 1 [DDI:67] Searing Blaze
