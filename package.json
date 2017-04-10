@@ -17,6 +17,7 @@
     "babel-register": "^6.24.0",
     "cheerio": "^0.22.0",
     "fs": "0.0.1-security",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "mtgjson": "^3.8.1"
   }
 }

@@ -1,4 +1,5 @@
 import http from 'http';
+import cache from './mtgtop8-cache';
 
 let defaults = {
   host: 'mtgtop8.com',
@@ -7,14 +8,21 @@ let defaults = {
 };
 
 let mtgtop8 = (options, cb) => {
-  let opts = Object.assign({}, defaults, options);
-  http.get(opts, function (response) {
-    var body = '';
-    response.on('data', d => body += d);
-    response.on('end', () => cb(body));
-  }).on("error", function (e) {
-    console.log("Got error: " + e.message);
-  });
+  let body = cache.get(options) || '';
+  if (body) {
+    cb(body);
+  } else {
+    let opts = Object.assign({}, defaults, options);
+    http.get(opts, function (response) {
+      response.on('data', d => body += d);
+      response.on('end', () => {
+        cache.set(options, body);
+        cb(body)
+      });
+    }).on("error", function (e) {
+      console.log("Got error: " + e.message);
+    });
+  }
 };
 
 export {mtgtop8}
